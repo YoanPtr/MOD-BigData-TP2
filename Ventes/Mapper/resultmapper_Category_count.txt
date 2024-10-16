@@ -1,0 +1,10000 @@
+Men's Clothing	1
+Women's Clothing	1
+Music	1
+Pet Supplies	1
+Children's Clothing	1
+Men's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Toys	1
+Toys	1
+Video Games	1
+Video Games	1
+Cameras	1
+DVDs	1
+Music	1
+Garden	1
+Women's Clothing	1
+Women's Clothing	1
+Cameras	1
+Baby	1
+Books	1
+Children's Clothing	1
+Consumer Electronics	1
+Baby	1
+Crafts	1
+Books	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Sporting Goods	1
+CDs	1
+Sporting Goods	1
+Toys	1
+Music	1
+Sporting Goods	1
+Garden	1
+Computers	1
+CDs	1
+Baby	1
+DVDs	1
+Consumer Electronics	1
+DVDs	1
+Baby	1
+Crafts	1
+Women's Clothing	1
+Books	1
+Computers	1
+Cameras	1
+Books	1
+Books	1
+Crafts	1
+Garden	1
+Computers	1
+Toys	1
+Video Games	1
+Crafts	1
+Toys	1
+CDs	1
+Women's Clothing	1
+Health and Beauty	1
+Garden	1
+Garden	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Toys	1
+Women's Clothing	1
+Men's Clothing	1
+Video Games	1
+Books	1
+Men's Clothing	1
+Music	1
+Toys	1
+Garden	1
+Cameras	1
+Children's Clothing	1
+Health and Beauty	1
+Men's Clothing	1
+Books	1
+Garden	1
+Crafts	1
+DVDs	1
+DVDs	1
+Crafts	1
+DVDs	1
+Pet Supplies	1
+Video Games	1
+Men's Clothing	1
+Computers	1
+Sporting Goods	1
+Health and Beauty	1
+Consumer Electronics	1
+CDs	1
+DVDs	1
+Computers	1
+CDs	1
+Sporting Goods	1
+Baby	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Women's Clothing	1
+Consumer Electronics	1
+Baby	1
+Books	1
+Music	1
+Crafts	1
+Women's Clothing	1
+Books	1
+Sporting Goods	1
+Video Games	1
+Toys	1
+Health and Beauty	1
+Crafts	1
+Children's Clothing	1
+Men's Clothing	1
+Video Games	1
+Crafts	1
+Books	1
+Crafts	1
+Pet Supplies	1
+Health and Beauty	1
+Books	1
+Music	1
+Women's Clothing	1
+Crafts	1
+Men's Clothing	1
+Garden	1
+Men's Clothing	1
+Cameras	1
+Crafts	1
+Video Games	1
+Toys	1
+Health and Beauty	1
+Consumer Electronics	1
+CDs	1
+DVDs	1
+Books	1
+CDs	1
+Music	1
+Consumer Electronics	1
+Children's Clothing	1
+DVDs	1
+Health and Beauty	1
+Video Games	1
+Music	1
+Baby	1
+Baby	1
+Children's Clothing	1
+Women's Clothing	1
+Music	1
+Children's Clothing	1
+Computers	1
+Pet Supplies	1
+Toys	1
+Men's Clothing	1
+CDs	1
+CDs	1
+Computers	1
+Pet Supplies	1
+Children's Clothing	1
+Health and Beauty	1
+Books	1
+Computers	1
+Pet Supplies	1
+Garden	1
+Books	1
+Video Games	1
+Crafts	1
+Consumer Electronics	1
+DVDs	1
+Children's Clothing	1
+Toys	1
+Children's Clothing	1
+Children's Clothing	1
+Music	1
+Crafts	1
+Computers	1
+Crafts	1
+Toys	1
+Sporting Goods	1
+Women's Clothing	1
+Video Games	1
+Pet Supplies	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+Sporting Goods	1
+Baby	1
+Women's Clothing	1
+Cameras	1
+Toys	1
+Toys	1
+Crafts	1
+Video Games	1
+Women's Clothing	1
+Crafts	1
+Garden	1
+Consumer Electronics	1
+Garden	1
+Sporting Goods	1
+CDs	1
+Garden	1
+Books	1
+CDs	1
+Health and Beauty	1
+Women's Clothing	1
+Pet Supplies	1
+CDs	1
+Toys	1
+Sporting Goods	1
+Pet Supplies	1
+Baby	1
+CDs	1
+Crafts	1
+Crafts	1
+Children's Clothing	1
+Music	1
+Children's Clothing	1
+DVDs	1
+Women's Clothing	1
+Men's Clothing	1
+Books	1
+Health and Beauty	1
+Women's Clothing	1
+DVDs	1
+Music	1
+Men's Clothing	1
+Baby	1
+Women's Clothing	1
+Pet Supplies	1
+Books	1
+Music	1
+Health and Beauty	1
+Pet Supplies	1
+Garden	1
+Consumer Electronics	1
+CDs	1
+Crafts	1
+DVDs	1
+Computers	1
+Pet Supplies	1
+Pet Supplies	1
+CDs	1
+DVDs	1
+Garden	1
+DVDs	1
+Computers	1
+Men's Clothing	1
+Garden	1
+Children's Clothing	1
+Pet Supplies	1
+Men's Clothing	1
+Cameras	1
+Children's Clothing	1
+Video Games	1
+Crafts	1
+Video Games	1
+Garden	1
+Video Games	1
+CDs	1
+Crafts	1
+Crafts	1
+Books	1
+Computers	1
+CDs	1
+Consumer Electronics	1
+Music	1
+Women's Clothing	1
+DVDs	1
+DVDs	1
+Sporting Goods	1
+Video Games	1
+Cameras	1
+Pet Supplies	1
+Computers	1
+Toys	1
+Sporting Goods	1
+Children's Clothing	1
+Computers	1
+Computers	1
+Men's Clothing	1
+Garden	1
+DVDs	1
+Baby	1
+Books	1
+Garden	1
+Garden	1
+Health and Beauty	1
+Cameras	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Women's Clothing	1
+Crafts	1
+Music	1
+Video Games	1
+Garden	1
+Baby	1
+Men's Clothing	1
+Music	1
+CDs	1
+Sporting Goods	1
+Music	1
+DVDs	1
+Crafts	1
+Health and Beauty	1
+Video Games	1
+Cameras	1
+Cameras	1
+Baby	1
+DVDs	1
+Pet Supplies	1
+Men's Clothing	1
+Crafts	1
+Garden	1
+Consumer Electronics	1
+Women's Clothing	1
+Computers	1
+Garden	1
+Music	1
+Video Games	1
+Men's Clothing	1
+Women's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Women's Clothing	1
+Music	1
+Video Games	1
+Women's Clothing	1
+Crafts	1
+Baby	1
+Music	1
+Cameras	1
+Music	1
+Computers	1
+Cameras	1
+DVDs	1
+Men's Clothing	1
+Women's Clothing	1
+Garden	1
+Books	1
+Pet Supplies	1
+Health and Beauty	1
+Toys	1
+Cameras	1
+Health and Beauty	1
+Cameras	1
+Consumer Electronics	1
+Men's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Men's Clothing	1
+Cameras	1
+Cameras	1
+Women's Clothing	1
+DVDs	1
+Women's Clothing	1
+Pet Supplies	1
+Music	1
+Consumer Electronics	1
+Books	1
+CDs	1
+Children's Clothing	1
+Crafts	1
+Toys	1
+Sporting Goods	1
+Women's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Health and Beauty	1
+Sporting Goods	1
+CDs	1
+Health and Beauty	1
+DVDs	1
+Baby	1
+Garden	1
+Books	1
+Health and Beauty	1
+Garden	1
+Toys	1
+Cameras	1
+Video Games	1
+Crafts	1
+Computers	1
+Consumer Electronics	1
+Baby	1
+Sporting Goods	1
+DVDs	1
+DVDs	1
+Toys	1
+Music	1
+Sporting Goods	1
+Music	1
+Children's Clothing	1
+Consumer Electronics	1
+Music	1
+CDs	1
+Baby	1
+Health and Beauty	1
+Video Games	1
+Cameras	1
+Pet Supplies	1
+Video Games	1
+Sporting Goods	1
+Crafts	1
+Sporting Goods	1
+Consumer Electronics	1
+Women's Clothing	1
+Cameras	1
+Pet Supplies	1
+Men's Clothing	1
+Health and Beauty	1
+Books	1
+Women's Clothing	1
+Computers	1
+Consumer Electronics	1
+Men's Clothing	1
+Baby	1
+Women's Clothing	1
+Music	1
+Children's Clothing	1
+Garden	1
+Women's Clothing	1
+Consumer Electronics	1
+Consumer Electronics	1
+Computers	1
+Pet Supplies	1
+Health and Beauty	1
+Sporting Goods	1
+Consumer Electronics	1
+Cameras	1
+Sporting Goods	1
+Garden	1
+Cameras	1
+Crafts	1
+Computers	1
+Sporting Goods	1
+Women's Clothing	1
+Pet Supplies	1
+Computers	1
+Men's Clothing	1
+Books	1
+Pet Supplies	1
+Women's Clothing	1
+CDs	1
+Health and Beauty	1
+Crafts	1
+CDs	1
+Toys	1
+Video Games	1
+Cameras	1
+Sporting Goods	1
+Computers	1
+Garden	1
+Consumer Electronics	1
+Sporting Goods	1
+Cameras	1
+Children's Clothing	1
+Pet Supplies	1
+Toys	1
+Pet Supplies	1
+Consumer Electronics	1
+Computers	1
+Computers	1
+CDs	1
+Books	1
+Garden	1
+Crafts	1
+Pet Supplies	1
+Toys	1
+Sporting Goods	1
+DVDs	1
+Cameras	1
+Baby	1
+Cameras	1
+Video Games	1
+DVDs	1
+Sporting Goods	1
+Baby	1
+CDs	1
+Cameras	1
+Sporting Goods	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+Men's Clothing	1
+Crafts	1
+Cameras	1
+Consumer Electronics	1
+Garden	1
+Cameras	1
+Computers	1
+Men's Clothing	1
+Pet Supplies	1
+Children's Clothing	1
+CDs	1
+Crafts	1
+CDs	1
+DVDs	1
+Sporting Goods	1
+Garden	1
+Baby	1
+DVDs	1
+Women's Clothing	1
+Cameras	1
+Cameras	1
+Music	1
+Sporting Goods	1
+Computers	1
+Computers	1
+Consumer Electronics	1
+Consumer Electronics	1
+Women's Clothing	1
+DVDs	1
+Video Games	1
+Women's Clothing	1
+Health and Beauty	1
+DVDs	1
+Consumer Electronics	1
+Pet Supplies	1
+DVDs	1
+Children's Clothing	1
+Cameras	1
+CDs	1
+CDs	1
+Garden	1
+Music	1
+Video Games	1
+Men's Clothing	1
+Children's Clothing	1
+Books	1
+Books	1
+Consumer Electronics	1
+Garden	1
+Men's Clothing	1
+Crafts	1
+Computers	1
+Baby	1
+Crafts	1
+Crafts	1
+Music	1
+Men's Clothing	1
+Video Games	1
+Computers	1
+Men's Clothing	1
+DVDs	1
+Music	1
+Toys	1
+CDs	1
+Garden	1
+Women's Clothing	1
+Men's Clothing	1
+Books	1
+Books	1
+Men's Clothing	1
+Men's Clothing	1
+Cameras	1
+Toys	1
+Toys	1
+Music	1
+Women's Clothing	1
+Cameras	1
+Women's Clothing	1
+DVDs	1
+Books	1
+Garden	1
+Men's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Children's Clothing	1
+Health and Beauty	1
+Toys	1
+Pet Supplies	1
+Crafts	1
+Toys	1
+DVDs	1
+DVDs	1
+Baby	1
+Crafts	1
+Pet Supplies	1
+Men's Clothing	1
+Video Games	1
+Crafts	1
+Books	1
+Baby	1
+Toys	1
+Health and Beauty	1
+Children's Clothing	1
+Crafts	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Crafts	1
+Baby	1
+Garden	1
+Children's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Video Games	1
+Children's Clothing	1
+Men's Clothing	1
+DVDs	1
+CDs	1
+Books	1
+Video Games	1
+Pet Supplies	1
+Men's Clothing	1
+Children's Clothing	1
+Computers	1
+Children's Clothing	1
+Sporting Goods	1
+Cameras	1
+Crafts	1
+Women's Clothing	1
+CDs	1
+Pet Supplies	1
+Books	1
+Books	1
+Garden	1
+Garden	1
+DVDs	1
+Children's Clothing	1
+Video Games	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+Health and Beauty	1
+Cameras	1
+Women's Clothing	1
+Consumer Electronics	1
+Baby	1
+Health and Beauty	1
+Pet Supplies	1
+Video Games	1
+Consumer Electronics	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+Crafts	1
+Women's Clothing	1
+Baby	1
+Cameras	1
+Baby	1
+Consumer Electronics	1
+Music	1
+Toys	1
+Music	1
+Consumer Electronics	1
+Men's Clothing	1
+Garden	1
+Sporting Goods	1
+Video Games	1
+CDs	1
+Sporting Goods	1
+Children's Clothing	1
+Toys	1
+Sporting Goods	1
+Consumer Electronics	1
+Women's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+CDs	1
+Women's Clothing	1
+DVDs	1
+Garden	1
+Garden	1
+Consumer Electronics	1
+Computers	1
+Children's Clothing	1
+Computers	1
+Crafts	1
+Pet Supplies	1
+Sporting Goods	1
+Children's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+CDs	1
+Video Games	1
+Crafts	1
+CDs	1
+Crafts	1
+CDs	1
+Garden	1
+Cameras	1
+CDs	1
+DVDs	1
+Books	1
+Toys	1
+Cameras	1
+CDs	1
+DVDs	1
+Children's Clothing	1
+Video Games	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Children's Clothing	1
+Cameras	1
+Children's Clothing	1
+Cameras	1
+Health and Beauty	1
+Music	1
+DVDs	1
+Sporting Goods	1
+Video Games	1
+Books	1
+Sporting Goods	1
+DVDs	1
+Garden	1
+Garden	1
+Sporting Goods	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Music	1
+Pet Supplies	1
+Music	1
+Toys	1
+Books	1
+Crafts	1
+Computers	1
+Sporting Goods	1
+Baby	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Crafts	1
+Pet Supplies	1
+Health and Beauty	1
+Women's Clothing	1
+Toys	1
+Children's Clothing	1
+Books	1
+Children's Clothing	1
+Health and Beauty	1
+Children's Clothing	1
+Baby	1
+CDs	1
+Garden	1
+Crafts	1
+Baby	1
+Baby	1
+Women's Clothing	1
+Women's Clothing	1
+Books	1
+Pet Supplies	1
+Cameras	1
+Consumer Electronics	1
+Music	1
+Crafts	1
+Health and Beauty	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+DVDs	1
+Pet Supplies	1
+Crafts	1
+Health and Beauty	1
+Sporting Goods	1
+Music	1
+Children's Clothing	1
+Garden	1
+Computers	1
+Sporting Goods	1
+Toys	1
+Video Games	1
+Consumer Electronics	1
+Sporting Goods	1
+Books	1
+Baby	1
+Women's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+Consumer Electronics	1
+Sporting Goods	1
+Sporting Goods	1
+Garden	1
+Toys	1
+Pet Supplies	1
+Computers	1
+Consumer Electronics	1
+Sporting Goods	1
+Baby	1
+CDs	1
+Children's Clothing	1
+Toys	1
+Pet Supplies	1
+Books	1
+Sporting Goods	1
+CDs	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+Computers	1
+Video Games	1
+Books	1
+Men's Clothing	1
+Music	1
+Video Games	1
+Books	1
+DVDs	1
+Sporting Goods	1
+Toys	1
+Video Games	1
+CDs	1
+Music	1
+Video Games	1
+Women's Clothing	1
+Books	1
+Cameras	1
+Baby	1
+Cameras	1
+Women's Clothing	1
+Health and Beauty	1
+Computers	1
+Men's Clothing	1
+DVDs	1
+Computers	1
+Music	1
+Consumer Electronics	1
+Garden	1
+Computers	1
+Garden	1
+Video Games	1
+Computers	1
+CDs	1
+Pet Supplies	1
+Women's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Consumer Electronics	1
+Music	1
+Music	1
+Computers	1
+DVDs	1
+DVDs	1
+Crafts	1
+Cameras	1
+Cameras	1
+Consumer Electronics	1
+Health and Beauty	1
+Cameras	1
+Music	1
+Children's Clothing	1
+Video Games	1
+Music	1
+Children's Clothing	1
+Garden	1
+Men's Clothing	1
+CDs	1
+Video Games	1
+Crafts	1
+Computers	1
+Books	1
+Crafts	1
+DVDs	1
+DVDs	1
+CDs	1
+Sporting Goods	1
+Health and Beauty	1
+Health and Beauty	1
+Baby	1
+Garden	1
+Computers	1
+Baby	1
+Books	1
+Books	1
+Garden	1
+Men's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Sporting Goods	1
+Toys	1
+Cameras	1
+DVDs	1
+Computers	1
+Health and Beauty	1
+Sporting Goods	1
+Sporting Goods	1
+Pet Supplies	1
+Children's Clothing	1
+Video Games	1
+Books	1
+Crafts	1
+CDs	1
+Men's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+Health and Beauty	1
+Baby	1
+Music	1
+Children's Clothing	1
+Pet Supplies	1
+Books	1
+Health and Beauty	1
+Children's Clothing	1
+Books	1
+Baby	1
+Children's Clothing	1
+Garden	1
+Men's Clothing	1
+Pet Supplies	1
+Crafts	1
+Pet Supplies	1
+Computers	1
+Garden	1
+CDs	1
+Books	1
+CDs	1
+Sporting Goods	1
+Garden	1
+Children's Clothing	1
+DVDs	1
+Women's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+Health and Beauty	1
+Crafts	1
+Crafts	1
+Children's Clothing	1
+Health and Beauty	1
+CDs	1
+Computers	1
+Pet Supplies	1
+Men's Clothing	1
+CDs	1
+Consumer Electronics	1
+Women's Clothing	1
+Sporting Goods	1
+Books	1
+Computers	1
+Consumer Electronics	1
+CDs	1
+Health and Beauty	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+Consumer Electronics	1
+Computers	1
+Crafts	1
+CDs	1
+Garden	1
+Video Games	1
+Music	1
+Crafts	1
+Cameras	1
+Children's Clothing	1
+Crafts	1
+Baby	1
+Baby	1
+Consumer Electronics	1
+Books	1
+DVDs	1
+Toys	1
+DVDs	1
+Garden	1
+Sporting Goods	1
+Men's Clothing	1
+Garden	1
+CDs	1
+Toys	1
+CDs	1
+Crafts	1
+Video Games	1
+Video Games	1
+Pet Supplies	1
+DVDs	1
+Pet Supplies	1
+Health and Beauty	1
+Sporting Goods	1
+Children's Clothing	1
+Cameras	1
+CDs	1
+Crafts	1
+Music	1
+Men's Clothing	1
+CDs	1
+Children's Clothing	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+CDs	1
+Consumer Electronics	1
+Toys	1
+Garden	1
+Cameras	1
+Health and Beauty	1
+CDs	1
+Women's Clothing	1
+Music	1
+Books	1
+Garden	1
+Music	1
+Computers	1
+Video Games	1
+Crafts	1
+Books	1
+Baby	1
+Cameras	1
+Toys	1
+Toys	1
+CDs	1
+Computers	1
+DVDs	1
+Sporting Goods	1
+Cameras	1
+Computers	1
+Crafts	1
+Children's Clothing	1
+Toys	1
+Music	1
+Children's Clothing	1
+Women's Clothing	1
+Toys	1
+Crafts	1
+DVDs	1
+Health and Beauty	1
+Consumer Electronics	1
+Consumer Electronics	1
+Health and Beauty	1
+Garden	1
+Garden	1
+CDs	1
+Cameras	1
+Computers	1
+Consumer Electronics	1
+Pet Supplies	1
+Books	1
+Crafts	1
+Books	1
+Garden	1
+Men's Clothing	1
+Sporting Goods	1
+Books	1
+Consumer Electronics	1
+Music	1
+Children's Clothing	1
+Children's Clothing	1
+Computers	1
+Consumer Electronics	1
+DVDs	1
+Sporting Goods	1
+Toys	1
+Computers	1
+CDs	1
+Baby	1
+Children's Clothing	1
+Baby	1
+Music	1
+Toys	1
+Music	1
+Computers	1
+CDs	1
+Health and Beauty	1
+Pet Supplies	1
+Consumer Electronics	1
+Toys	1
+DVDs	1
+Video Games	1
+Cameras	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Toys	1
+Pet Supplies	1
+Women's Clothing	1
+Crafts	1
+Toys	1
+DVDs	1
+CDs	1
+Baby	1
+Women's Clothing	1
+Crafts	1
+Music	1
+Music	1
+Garden	1
+Crafts	1
+Men's Clothing	1
+Garden	1
+Video Games	1
+Sporting Goods	1
+DVDs	1
+Sporting Goods	1
+Men's Clothing	1
+Books	1
+Crafts	1
+Cameras	1
+Health and Beauty	1
+Video Games	1
+Computers	1
+Toys	1
+Cameras	1
+Books	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+Video Games	1
+Garden	1
+Children's Clothing	1
+Baby	1
+Toys	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+Children's Clothing	1
+Toys	1
+Books	1
+Crafts	1
+Children's Clothing	1
+Toys	1
+Women's Clothing	1
+Pet Supplies	1
+Music	1
+Books	1
+Children's Clothing	1
+Computers	1
+Toys	1
+Toys	1
+Garden	1
+Men's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+Men's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Garden	1
+Men's Clothing	1
+Crafts	1
+Cameras	1
+Books	1
+Health and Beauty	1
+Health and Beauty	1
+Toys	1
+Health and Beauty	1
+CDs	1
+Women's Clothing	1
+Men's Clothing	1
+Toys	1
+Computers	1
+CDs	1
+DVDs	1
+Baby	1
+Sporting Goods	1
+Crafts	1
+Consumer Electronics	1
+Crafts	1
+Garden	1
+Men's Clothing	1
+Music	1
+Children's Clothing	1
+Music	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Toys	1
+Health and Beauty	1
+Cameras	1
+Toys	1
+Women's Clothing	1
+Cameras	1
+Books	1
+Video Games	1
+Women's Clothing	1
+Video Games	1
+Music	1
+Garden	1
+Men's Clothing	1
+CDs	1
+Sporting Goods	1
+Music	1
+Computers	1
+Women's Clothing	1
+Books	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+Baby	1
+Sporting Goods	1
+Music	1
+Baby	1
+Pet Supplies	1
+Consumer Electronics	1
+Women's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Sporting Goods	1
+Consumer Electronics	1
+Pet Supplies	1
+Women's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Music	1
+Music	1
+Crafts	1
+DVDs	1
+Garden	1
+Garden	1
+Music	1
+Health and Beauty	1
+Baby	1
+Video Games	1
+Children's Clothing	1
+Sporting Goods	1
+Toys	1
+Pet Supplies	1
+Computers	1
+DVDs	1
+Books	1
+Music	1
+Computers	1
+Consumer Electronics	1
+Video Games	1
+Cameras	1
+Garden	1
+Consumer Electronics	1
+Consumer Electronics	1
+Women's Clothing	1
+Pet Supplies	1
+Books	1
+Health and Beauty	1
+Pet Supplies	1
+Cameras	1
+Sporting Goods	1
+Crafts	1
+Computers	1
+Pet Supplies	1
+Cameras	1
+Pet Supplies	1
+Health and Beauty	1
+Cameras	1
+CDs	1
+Computers	1
+Crafts	1
+Cameras	1
+Toys	1
+Cameras	1
+Sporting Goods	1
+Women's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Video Games	1
+DVDs	1
+CDs	1
+Books	1
+Men's Clothing	1
+Health and Beauty	1
+Children's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+CDs	1
+Women's Clothing	1
+Baby	1
+Books	1
+Crafts	1
+CDs	1
+Video Games	1
+Music	1
+Garden	1
+Crafts	1
+Toys	1
+Crafts	1
+Consumer Electronics	1
+Crafts	1
+Baby	1
+Children's Clothing	1
+Garden	1
+Books	1
+Baby	1
+Video Games	1
+Consumer Electronics	1
+Baby	1
+Women's Clothing	1
+Computers	1
+DVDs	1
+Computers	1
+Consumer Electronics	1
+DVDs	1
+Crafts	1
+Toys	1
+Baby	1
+Books	1
+Cameras	1
+Sporting Goods	1
+DVDs	1
+Women's Clothing	1
+Books	1
+Music	1
+Women's Clothing	1
+Cameras	1
+Computers	1
+Health and Beauty	1
+Sporting Goods	1
+Garden	1
+Children's Clothing	1
+Video Games	1
+Computers	1
+Women's Clothing	1
+Sporting Goods	1
+Books	1
+Sporting Goods	1
+Children's Clothing	1
+Sporting Goods	1
+CDs	1
+Garden	1
+CDs	1
+Consumer Electronics	1
+Toys	1
+Pet Supplies	1
+Garden	1
+Sporting Goods	1
+Garden	1
+Men's Clothing	1
+Women's Clothing	1
+Computers	1
+Computers	1
+Men's Clothing	1
+CDs	1
+Baby	1
+Sporting Goods	1
+Cameras	1
+Men's Clothing	1
+Cameras	1
+Cameras	1
+Pet Supplies	1
+Baby	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Video Games	1
+Baby	1
+Video Games	1
+Women's Clothing	1
+Cameras	1
+Children's Clothing	1
+Baby	1
+Health and Beauty	1
+Sporting Goods	1
+Computers	1
+Video Games	1
+Garden	1
+Garden	1
+Music	1
+Women's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+Children's Clothing	1
+Video Games	1
+Baby	1
+Crafts	1
+Sporting Goods	1
+Baby	1
+Women's Clothing	1
+Toys	1
+Toys	1
+Baby	1
+Sporting Goods	1
+Crafts	1
+Crafts	1
+Cameras	1
+Computers	1
+Cameras	1
+Pet Supplies	1
+Men's Clothing	1
+Pet Supplies	1
+DVDs	1
+Toys	1
+Computers	1
+Consumer Electronics	1
+Video Games	1
+Computers	1
+Health and Beauty	1
+Baby	1
+Crafts	1
+DVDs	1
+Men's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Toys	1
+Baby	1
+Health and Beauty	1
+Books	1
+Children's Clothing	1
+Music	1
+CDs	1
+Video Games	1
+Women's Clothing	1
+Music	1
+Books	1
+Health and Beauty	1
+Baby	1
+Toys	1
+Women's Clothing	1
+Computers	1
+Books	1
+Cameras	1
+Garden	1
+Men's Clothing	1
+CDs	1
+Men's Clothing	1
+Computers	1
+Toys	1
+Cameras	1
+Computers	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+Women's Clothing	1
+Computers	1
+Garden	1
+Children's Clothing	1
+Health and Beauty	1
+DVDs	1
+Toys	1
+Children's Clothing	1
+Music	1
+Books	1
+Music	1
+Garden	1
+Video Games	1
+Consumer Electronics	1
+Women's Clothing	1
+Men's Clothing	1
+DVDs	1
+Cameras	1
+Health and Beauty	1
+Pet Supplies	1
+DVDs	1
+Toys	1
+Health and Beauty	1
+Cameras	1
+Crafts	1
+Crafts	1
+Men's Clothing	1
+Cameras	1
+Video Games	1
+Books	1
+Baby	1
+DVDs	1
+Cameras	1
+DVDs	1
+Crafts	1
+Children's Clothing	1
+Crafts	1
+Sporting Goods	1
+Baby	1
+Crafts	1
+Crafts	1
+Baby	1
+CDs	1
+Cameras	1
+CDs	1
+Consumer Electronics	1
+Crafts	1
+Music	1
+Children's Clothing	1
+DVDs	1
+Toys	1
+DVDs	1
+DVDs	1
+Consumer Electronics	1
+Children's Clothing	1
+Pet Supplies	1
+Women's Clothing	1
+Sporting Goods	1
+Sporting Goods	1
+Toys	1
+CDs	1
+Books	1
+Music	1
+Consumer Electronics	1
+Consumer Electronics	1
+Health and Beauty	1
+Consumer Electronics	1
+Books	1
+Music	1
+DVDs	1
+Women's Clothing	1
+Computers	1
+Sporting Goods	1
+Computers	1
+DVDs	1
+Children's Clothing	1
+Cameras	1
+Computers	1
+Sporting Goods	1
+Children's Clothing	1
+Consumer Electronics	1
+Books	1
+Music	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+Women's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+Health and Beauty	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Video Games	1
+Video Games	1
+Computers	1
+Women's Clothing	1
+Music	1
+Toys	1
+Video Games	1
+Video Games	1
+Pet Supplies	1
+DVDs	1
+CDs	1
+Toys	1
+Toys	1
+Books	1
+Men's Clothing	1
+Pet Supplies	1
+Children's Clothing	1
+Garden	1
+Music	1
+Men's Clothing	1
+CDs	1
+Books	1
+Consumer Electronics	1
+Baby	1
+Children's Clothing	1
+Crafts	1
+Garden	1
+Crafts	1
+Women's Clothing	1
+Video Games	1
+Women's Clothing	1
+CDs	1
+Video Games	1
+Toys	1
+Men's Clothing	1
+Sporting Goods	1
+Music	1
+Baby	1
+Books	1
+Cameras	1
+Books	1
+Crafts	1
+Video Games	1
+Garden	1
+CDs	1
+Baby	1
+Pet Supplies	1
+Music	1
+Baby	1
+Video Games	1
+Books	1
+Music	1
+Toys	1
+Sporting Goods	1
+Garden	1
+Crafts	1
+Toys	1
+Garden	1
+Consumer Electronics	1
+Garden	1
+Computers	1
+Toys	1
+Books	1
+Crafts	1
+Baby	1
+CDs	1
+Crafts	1
+Sporting Goods	1
+Consumer Electronics	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Men's Clothing	1
+Garden	1
+Computers	1
+Music	1
+Sporting Goods	1
+DVDs	1
+Men's Clothing	1
+Baby	1
+Computers	1
+DVDs	1
+Computers	1
+Books	1
+Sporting Goods	1
+Books	1
+Computers	1
+Books	1
+Health and Beauty	1
+DVDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Video Games	1
+Men's Clothing	1
+DVDs	1
+Sporting Goods	1
+Toys	1
+DVDs	1
+Pet Supplies	1
+Consumer Electronics	1
+Consumer Electronics	1
+Men's Clothing	1
+Baby	1
+Health and Beauty	1
+Toys	1
+Pet Supplies	1
+Video Games	1
+Computers	1
+Books	1
+Cameras	1
+Baby	1
+Books	1
+Cameras	1
+Women's Clothing	1
+Computers	1
+Consumer Electronics	1
+Computers	1
+Computers	1
+Consumer Electronics	1
+Pet Supplies	1
+Health and Beauty	1
+Women's Clothing	1
+CDs	1
+Consumer Electronics	1
+DVDs	1
+Consumer Electronics	1
+Baby	1
+Baby	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Men's Clothing	1
+Sporting Goods	1
+Crafts	1
+Pet Supplies	1
+DVDs	1
+Garden	1
+Sporting Goods	1
+Baby	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+Baby	1
+CDs	1
+Computers	1
+Health and Beauty	1
+Sporting Goods	1
+Cameras	1
+Crafts	1
+Toys	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+Cameras	1
+Consumer Electronics	1
+DVDs	1
+Music	1
+Books	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Toys	1
+Music	1
+Toys	1
+Garden	1
+Computers	1
+Baby	1
+Music	1
+Books	1
+Pet Supplies	1
+Books	1
+CDs	1
+CDs	1
+Music	1
+CDs	1
+Video Games	1
+Sporting Goods	1
+Pet Supplies	1
+Books	1
+CDs	1
+Health and Beauty	1
+Music	1
+Toys	1
+Women's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Video Games	1
+Toys	1
+Sporting Goods	1
+Baby	1
+Garden	1
+Garden	1
+Women's Clothing	1
+DVDs	1
+Toys	1
+Health and Beauty	1
+Music	1
+Health and Beauty	1
+Sporting Goods	1
+Video Games	1
+Toys	1
+Garden	1
+Computers	1
+DVDs	1
+Men's Clothing	1
+Books	1
+Toys	1
+Computers	1
+Cameras	1
+Consumer Electronics	1
+Crafts	1
+Music	1
+Children's Clothing	1
+DVDs	1
+Video Games	1
+Children's Clothing	1
+Crafts	1
+Music	1
+Computers	1
+Women's Clothing	1
+Men's Clothing	1
+DVDs	1
+Toys	1
+Pet Supplies	1
+Baby	1
+CDs	1
+DVDs	1
+Video Games	1
+Children's Clothing	1
+Crafts	1
+Sporting Goods	1
+Health and Beauty	1
+Consumer Electronics	1
+Health and Beauty	1
+Video Games	1
+Consumer Electronics	1
+Books	1
+Books	1
+Consumer Electronics	1
+Toys	1
+Crafts	1
+Toys	1
+Baby	1
+Cameras	1
+CDs	1
+Video Games	1
+Health and Beauty	1
+DVDs	1
+Consumer Electronics	1
+Children's Clothing	1
+Baby	1
+Health and Beauty	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Pet Supplies	1
+Music	1
+CDs	1
+Pet Supplies	1
+Baby	1
+Men's Clothing	1
+Music	1
+Health and Beauty	1
+Garden	1
+CDs	1
+Women's Clothing	1
+Computers	1
+Cameras	1
+Women's Clothing	1
+Video Games	1
+Crafts	1
+Pet Supplies	1
+Sporting Goods	1
+Consumer Electronics	1
+Men's Clothing	1
+Crafts	1
+Video Games	1
+Music	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Computers	1
+Pet Supplies	1
+Garden	1
+Crafts	1
+DVDs	1
+Computers	1
+Crafts	1
+DVDs	1
+Computers	1
+Children's Clothing	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+Computers	1
+Sporting Goods	1
+Video Games	1
+Video Games	1
+Women's Clothing	1
+Crafts	1
+Children's Clothing	1
+Books	1
+Computers	1
+Toys	1
+Toys	1
+Music	1
+Garden	1
+Sporting Goods	1
+Consumer Electronics	1
+Pet Supplies	1
+Children's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+Music	1
+Video Games	1
+Books	1
+Music	1
+Baby	1
+Consumer Electronics	1
+Men's Clothing	1
+Garden	1
+Garden	1
+Cameras	1
+Garden	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Consumer Electronics	1
+Music	1
+Cameras	1
+Computers	1
+Men's Clothing	1
+Men's Clothing	1
+Women's Clothing	1
+Garden	1
+Garden	1
+Crafts	1
+Women's Clothing	1
+Computers	1
+Cameras	1
+Pet Supplies	1
+Children's Clothing	1
+Cameras	1
+Cameras	1
+Pet Supplies	1
+Toys	1
+Computers	1
+Pet Supplies	1
+Books	1
+DVDs	1
+Health and Beauty	1
+Pet Supplies	1
+Women's Clothing	1
+Music	1
+Books	1
+Pet Supplies	1
+Garden	1
+Sporting Goods	1
+DVDs	1
+Cameras	1
+Sporting Goods	1
+Music	1
+DVDs	1
+Toys	1
+Children's Clothing	1
+Toys	1
+Music	1
+DVDs	1
+Cameras	1
+Music	1
+Crafts	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+Consumer Electronics	1
+Books	1
+Cameras	1
+Crafts	1
+Baby	1
+Video Games	1
+Pet Supplies	1
+Men's Clothing	1
+Men's Clothing	1
+Sporting Goods	1
+DVDs	1
+Books	1
+Children's Clothing	1
+CDs	1
+Books	1
+Computers	1
+DVDs	1
+Garden	1
+Women's Clothing	1
+Consumer Electronics	1
+CDs	1
+CDs	1
+Women's Clothing	1
+Sporting Goods	1
+Sporting Goods	1
+Books	1
+Garden	1
+Music	1
+Garden	1
+Women's Clothing	1
+Consumer Electronics	1
+Books	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Children's Clothing	1
+Video Games	1
+Crafts	1
+Books	1
+Children's Clothing	1
+Cameras	1
+Women's Clothing	1
+Children's Clothing	1
+Music	1
+DVDs	1
+Consumer Electronics	1
+Garden	1
+Computers	1
+Computers	1
+Crafts	1
+Pet Supplies	1
+Men's Clothing	1
+Toys	1
+Crafts	1
+Toys	1
+Pet Supplies	1
+Children's Clothing	1
+Consumer Electronics	1
+CDs	1
+DVDs	1
+Computers	1
+Sporting Goods	1
+Books	1
+Children's Clothing	1
+Health and Beauty	1
+CDs	1
+Books	1
+Computers	1
+Crafts	1
+Children's Clothing	1
+Garden	1
+Children's Clothing	1
+CDs	1
+Garden	1
+DVDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Garden	1
+Children's Clothing	1
+Toys	1
+Sporting Goods	1
+Garden	1
+Baby	1
+Pet Supplies	1
+Health and Beauty	1
+Books	1
+Music	1
+Video Games	1
+Men's Clothing	1
+Baby	1
+Baby	1
+Women's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Crafts	1
+Consumer Electronics	1
+Video Games	1
+CDs	1
+CDs	1
+Children's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Computers	1
+Health and Beauty	1
+Music	1
+Crafts	1
+Sporting Goods	1
+Books	1
+Men's Clothing	1
+Video Games	1
+Computers	1
+CDs	1
+CDs	1
+Video Games	1
+Music	1
+Garden	1
+Books	1
+Women's Clothing	1
+Children's Clothing	1
+Books	1
+Pet Supplies	1
+Men's Clothing	1
+Toys	1
+Garden	1
+Books	1
+Men's Clothing	1
+Sporting Goods	1
+Crafts	1
+Consumer Electronics	1
+Computers	1
+Sporting Goods	1
+Baby	1
+Cameras	1
+Books	1
+Health and Beauty	1
+Computers	1
+Books	1
+Crafts	1
+Crafts	1
+Books	1
+Consumer Electronics	1
+Music	1
+Toys	1
+Sporting Goods	1
+Crafts	1
+CDs	1
+Books	1
+Books	1
+Garden	1
+Men's Clothing	1
+Books	1
+Women's Clothing	1
+Books	1
+Video Games	1
+Health and Beauty	1
+Garden	1
+Health and Beauty	1
+Video Games	1
+Crafts	1
+Pet Supplies	1
+Health and Beauty	1
+CDs	1
+Crafts	1
+CDs	1
+Cameras	1
+Music	1
+Crafts	1
+Toys	1
+Computers	1
+Consumer Electronics	1
+Sporting Goods	1
+Cameras	1
+Pet Supplies	1
+Music	1
+Men's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Garden	1
+DVDs	1
+Women's Clothing	1
+Cameras	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Health and Beauty	1
+Video Games	1
+DVDs	1
+Women's Clothing	1
+Toys	1
+Music	1
+Toys	1
+Video Games	1
+Computers	1
+Books	1
+Books	1
+Video Games	1
+Garden	1
+Consumer Electronics	1
+Baby	1
+Women's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+Garden	1
+Consumer Electronics	1
+Video Games	1
+Crafts	1
+Men's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Garden	1
+Toys	1
+Garden	1
+Books	1
+CDs	1
+Women's Clothing	1
+Children's Clothing	1
+Computers	1
+Toys	1
+Music	1
+Garden	1
+CDs	1
+Books	1
+Crafts	1
+Toys	1
+Books	1
+Women's Clothing	1
+CDs	1
+CDs	1
+Consumer Electronics	1
+Sporting Goods	1
+Health and Beauty	1
+Video Games	1
+Children's Clothing	1
+Toys	1
+DVDs	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+Pet Supplies	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+Consumer Electronics	1
+Books	1
+Books	1
+DVDs	1
+Women's Clothing	1
+CDs	1
+Toys	1
+Sporting Goods	1
+Video Games	1
+DVDs	1
+Garden	1
+DVDs	1
+Baby	1
+Women's Clothing	1
+Men's Clothing	1
+CDs	1
+Health and Beauty	1
+Cameras	1
+Children's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+CDs	1
+Books	1
+DVDs	1
+Toys	1
+Video Games	1
+Women's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+DVDs	1
+DVDs	1
+Computers	1
+Crafts	1
+CDs	1
+Sporting Goods	1
+Consumer Electronics	1
+Consumer Electronics	1
+Children's Clothing	1
+Men's Clothing	1
+Baby	1
+Books	1
+Books	1
+Computers	1
+Pet Supplies	1
+Computers	1
+Women's Clothing	1
+Books	1
+Men's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Books	1
+Sporting Goods	1
+Men's Clothing	1
+Garden	1
+Health and Beauty	1
+Crafts	1
+Pet Supplies	1
+Baby	1
+Books	1
+DVDs	1
+Health and Beauty	1
+Sporting Goods	1
+Crafts	1
+Garden	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Children's Clothing	1
+Garden	1
+Consumer Electronics	1
+Health and Beauty	1
+CDs	1
+Cameras	1
+Pet Supplies	1
+Books	1
+Children's Clothing	1
+Baby	1
+DVDs	1
+Children's Clothing	1
+Health and Beauty	1
+CDs	1
+CDs	1
+Computers	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+Garden	1
+CDs	1
+CDs	1
+Toys	1
+Crafts	1
+Consumer Electronics	1
+Sporting Goods	1
+CDs	1
+Toys	1
+Garden	1
+CDs	1
+Books	1
+DVDs	1
+Baby	1
+Cameras	1
+Video Games	1
+Garden	1
+DVDs	1
+Music	1
+Music	1
+Sporting Goods	1
+DVDs	1
+Children's Clothing	1
+Cameras	1
+Cameras	1
+Garden	1
+Video Games	1
+Men's Clothing	1
+Women's Clothing	1
+Computers	1
+Video Games	1
+Consumer Electronics	1
+Men's Clothing	1
+CDs	1
+Men's Clothing	1
+CDs	1
+Computers	1
+Crafts	1
+Toys	1
+Music	1
+Men's Clothing	1
+Computers	1
+Books	1
+Computers	1
+Toys	1
+CDs	1
+Toys	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+CDs	1
+Music	1
+Computers	1
+Crafts	1
+Video Games	1
+Baby	1
+Books	1
+Video Games	1
+Crafts	1
+Computers	1
+Computers	1
+Crafts	1
+Men's Clothing	1
+Music	1
+Baby	1
+Toys	1
+Pet Supplies	1
+Pet Supplies	1
+DVDs	1
+Consumer Electronics	1
+Health and Beauty	1
+Books	1
+CDs	1
+Baby	1
+Sporting Goods	1
+Baby	1
+Cameras	1
+Men's Clothing	1
+Pet Supplies	1
+Video Games	1
+Children's Clothing	1
+Cameras	1
+Computers	1
+Books	1
+DVDs	1
+Cameras	1
+Computers	1
+Health and Beauty	1
+Books	1
+Crafts	1
+Computers	1
+Cameras	1
+Books	1
+Women's Clothing	1
+Cameras	1
+Books	1
+Health and Beauty	1
+Crafts	1
+CDs	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Pet Supplies	1
+DVDs	1
+Men's Clothing	1
+Consumer Electronics	1
+Health and Beauty	1
+Music	1
+Music	1
+Children's Clothing	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Music	1
+Men's Clothing	1
+Pet Supplies	1
+Video Games	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Music	1
+Baby	1
+Crafts	1
+Health and Beauty	1
+Baby	1
+Garden	1
+DVDs	1
+Music	1
+Women's Clothing	1
+Garden	1
+Sporting Goods	1
+Baby	1
+Consumer Electronics	1
+Sporting Goods	1
+Books	1
+Consumer Electronics	1
+Cameras	1
+CDs	1
+Toys	1
+DVDs	1
+Health and Beauty	1
+Baby	1
+Video Games	1
+Health and Beauty	1
+CDs	1
+Baby	1
+Men's Clothing	1
+Music	1
+Video Games	1
+Video Games	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+Pet Supplies	1
+Children's Clothing	1
+DVDs	1
+Baby	1
+CDs	1
+DVDs	1
+Crafts	1
+Computers	1
+Health and Beauty	1
+Consumer Electronics	1
+Health and Beauty	1
+Health and Beauty	1
+Books	1
+Computers	1
+Women's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Video Games	1
+Music	1
+CDs	1
+Books	1
+Music	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+CDs	1
+Children's Clothing	1
+Children's Clothing	1
+Pet Supplies	1
+Music	1
+Women's Clothing	1
+Cameras	1
+Sporting Goods	1
+Health and Beauty	1
+DVDs	1
+Video Games	1
+Computers	1
+Garden	1
+Cameras	1
+Pet Supplies	1
+CDs	1
+Books	1
+Health and Beauty	1
+Music	1
+Children's Clothing	1
+Health and Beauty	1
+Garden	1
+Consumer Electronics	1
+Books	1
+Books	1
+Women's Clothing	1
+Video Games	1
+Health and Beauty	1
+Health and Beauty	1
+Children's Clothing	1
+CDs	1
+Baby	1
+Pet Supplies	1
+Consumer Electronics	1
+Pet Supplies	1
+Sporting Goods	1
+CDs	1
+Sporting Goods	1
+Health and Beauty	1
+Women's Clothing	1
+Video Games	1
+Books	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Toys	1
+Pet Supplies	1
+Children's Clothing	1
+Crafts	1
+Sporting Goods	1
+Consumer Electronics	1
+Women's Clothing	1
+Health and Beauty	1
+Children's Clothing	1
+Garden	1
+Music	1
+Men's Clothing	1
+Sporting Goods	1
+Sporting Goods	1
+Consumer Electronics	1
+DVDs	1
+Cameras	1
+Women's Clothing	1
+Music	1
+Women's Clothing	1
+Music	1
+Cameras	1
+Computers	1
+Cameras	1
+Pet Supplies	1
+Garden	1
+Men's Clothing	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+Garden	1
+DVDs	1
+Video Games	1
+Women's Clothing	1
+CDs	1
+Consumer Electronics	1
+Toys	1
+Women's Clothing	1
+Crafts	1
+Books	1
+CDs	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+Crafts	1
+Toys	1
+DVDs	1
+Toys	1
+Music	1
+Children's Clothing	1
+Pet Supplies	1
+Computers	1
+Crafts	1
+Women's Clothing	1
+Sporting Goods	1
+Women's Clothing	1
+Books	1
+Consumer Electronics	1
+Children's Clothing	1
+Garden	1
+Children's Clothing	1
+Consumer Electronics	1
+Women's Clothing	1
+Women's Clothing	1
+Music	1
+Crafts	1
+Cameras	1
+Children's Clothing	1
+DVDs	1
+DVDs	1
+Children's Clothing	1
+Garden	1
+Books	1
+Pet Supplies	1
+Music	1
+Children's Clothing	1
+Books	1
+Computers	1
+Pet Supplies	1
+Women's Clothing	1
+Health and Beauty	1
+Baby	1
+Children's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Toys	1
+Men's Clothing	1
+Children's Clothing	1
+Video Games	1
+Children's Clothing	1
+Music	1
+Health and Beauty	1
+Cameras	1
+DVDs	1
+Garden	1
+Health and Beauty	1
+Sporting Goods	1
+Music	1
+Garden	1
+Music	1
+Pet Supplies	1
+Books	1
+Computers	1
+Health and Beauty	1
+Health and Beauty	1
+Men's Clothing	1
+Sporting Goods	1
+Crafts	1
+DVDs	1
+Crafts	1
+Computers	1
+Men's Clothing	1
+Health and Beauty	1
+Garden	1
+Consumer Electronics	1
+CDs	1
+Music	1
+Baby	1
+Cameras	1
+Books	1
+Garden	1
+Baby	1
+Baby	1
+Men's Clothing	1
+Video Games	1
+Garden	1
+Women's Clothing	1
+Cameras	1
+Cameras	1
+Consumer Electronics	1
+Women's Clothing	1
+Consumer Electronics	1
+Garden	1
+Sporting Goods	1
+Music	1
+Health and Beauty	1
+Toys	1
+Cameras	1
+Baby	1
+Music	1
+Video Games	1
+Baby	1
+Video Games	1
+Men's Clothing	1
+Consumer Electronics	1
+Computers	1
+Children's Clothing	1
+Women's Clothing	1
+Cameras	1
+Pet Supplies	1
+Men's Clothing	1
+Garden	1
+CDs	1
+Baby	1
+CDs	1
+Women's Clothing	1
+Toys	1
+Men's Clothing	1
+Health and Beauty	1
+Books	1
+Music	1
+Children's Clothing	1
+Consumer Electronics	1
+Crafts	1
+CDs	1
+DVDs	1
+Baby	1
+Toys	1
+Books	1
+Women's Clothing	1
+Consumer Electronics	1
+Cameras	1
+Cameras	1
+Sporting Goods	1
+Toys	1
+Sporting Goods	1
+Garden	1
+Music	1
+Books	1
+Health and Beauty	1
+Crafts	1
+Pet Supplies	1
+Music	1
+Baby	1
+Consumer Electronics	1
+Health and Beauty	1
+Crafts	1
+Pet Supplies	1
+Health and Beauty	1
+Men's Clothing	1
+CDs	1
+Video Games	1
+Consumer Electronics	1
+Music	1
+Men's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Garden	1
+Toys	1
+Women's Clothing	1
+Consumer Electronics	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Consumer Electronics	1
+Music	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Children's Clothing	1
+Consumer Electronics	1
+Toys	1
+Women's Clothing	1
+Women's Clothing	1
+Cameras	1
+Books	1
+Sporting Goods	1
+Toys	1
+Toys	1
+Video Games	1
+Children's Clothing	1
+CDs	1
+Garden	1
+Men's Clothing	1
+Computers	1
+Men's Clothing	1
+Men's Clothing	1
+Crafts	1
+Music	1
+Computers	1
+Health and Beauty	1
+Men's Clothing	1
+Computers	1
+Toys	1
+Garden	1
+CDs	1
+Sporting Goods	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+DVDs	1
+Sporting Goods	1
+Toys	1
+Pet Supplies	1
+Books	1
+Health and Beauty	1
+Computers	1
+Women's Clothing	1
+Garden	1
+Garden	1
+Video Games	1
+Crafts	1
+Video Games	1
+DVDs	1
+Crafts	1
+Baby	1
+DVDs	1
+CDs	1
+Pet Supplies	1
+Computers	1
+Consumer Electronics	1
+DVDs	1
+Cameras	1
+CDs	1
+CDs	1
+Music	1
+Women's Clothing	1
+Video Games	1
+Men's Clothing	1
+Toys	1
+Women's Clothing	1
+Books	1
+Children's Clothing	1
+Books	1
+Toys	1
+Computers	1
+Sporting Goods	1
+Men's Clothing	1
+Children's Clothing	1
+Baby	1
+Pet Supplies	1
+Video Games	1
+Sporting Goods	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Children's Clothing	1
+Health and Beauty	1
+Baby	1
+Baby	1
+Music	1
+Consumer Electronics	1
+Garden	1
+DVDs	1
+Computers	1
+Pet Supplies	1
+Computers	1
+Books	1
+Men's Clothing	1
+Books	1
+Sporting Goods	1
+Men's Clothing	1
+Baby	1
+Garden	1
+Health and Beauty	1
+Video Games	1
+Pet Supplies	1
+Men's Clothing	1
+Baby	1
+Crafts	1
+Video Games	1
+Cameras	1
+DVDs	1
+Video Games	1
+Pet Supplies	1
+Video Games	1
+Garden	1
+Consumer Electronics	1
+Pet Supplies	1
+Men's Clothing	1
+Health and Beauty	1
+Cameras	1
+Cameras	1
+Garden	1
+Crafts	1
+Women's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+DVDs	1
+CDs	1
+Garden	1
+Cameras	1
+Computers	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Music	1
+Crafts	1
+Pet Supplies	1
+Crafts	1
+Toys	1
+Pet Supplies	1
+Toys	1
+Books	1
+Music	1
+Consumer Electronics	1
+Women's Clothing	1
+Cameras	1
+Toys	1
+Video Games	1
+Crafts	1
+Women's Clothing	1
+Garden	1
+Health and Beauty	1
+Music	1
+CDs	1
+Books	1
+Garden	1
+Computers	1
+Pet Supplies	1
+Music	1
+Video Games	1
+DVDs	1
+Consumer Electronics	1
+Music	1
+Garden	1
+Video Games	1
+Computers	1
+Consumer Electronics	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+Books	1
+CDs	1
+Garden	1
+Consumer Electronics	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Health and Beauty	1
+Cameras	1
+Toys	1
+Books	1
+Sporting Goods	1
+Books	1
+Video Games	1
+CDs	1
+Garden	1
+Computers	1
+Sporting Goods	1
+Toys	1
+CDs	1
+Men's Clothing	1
+Children's Clothing	1
+Crafts	1
+CDs	1
+Baby	1
+Garden	1
+Consumer Electronics	1
+Toys	1
+Men's Clothing	1
+DVDs	1
+Books	1
+Women's Clothing	1
+Cameras	1
+Men's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+Children's Clothing	1
+Sporting Goods	1
+Sporting Goods	1
+Consumer Electronics	1
+Baby	1
+Video Games	1
+Cameras	1
+Pet Supplies	1
+Health and Beauty	1
+Video Games	1
+Computers	1
+Computers	1
+Health and Beauty	1
+Consumer Electronics	1
+Computers	1
+Men's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Books	1
+Garden	1
+CDs	1
+Baby	1
+Sporting Goods	1
+Cameras	1
+Crafts	1
+Women's Clothing	1
+Women's Clothing	1
+Consumer Electronics	1
+CDs	1
+CDs	1
+Cameras	1
+Crafts	1
+Baby	1
+Men's Clothing	1
+Cameras	1
+Baby	1
+Sporting Goods	1
+Computers	1
+Cameras	1
+Cameras	1
+Baby	1
+Consumer Electronics	1
+Sporting Goods	1
+Cameras	1
+Health and Beauty	1
+CDs	1
+Toys	1
+Consumer Electronics	1
+Crafts	1
+Computers	1
+Books	1
+Computers	1
+Baby	1
+DVDs	1
+Women's Clothing	1
+Crafts	1
+DVDs	1
+Consumer Electronics	1
+Baby	1
+Toys	1
+Music	1
+Video Games	1
+Computers	1
+CDs	1
+Toys	1
+Cameras	1
+DVDs	1
+CDs	1
+Books	1
+Women's Clothing	1
+DVDs	1
+Children's Clothing	1
+Cameras	1
+Garden	1
+Consumer Electronics	1
+DVDs	1
+Computers	1
+Health and Beauty	1
+Men's Clothing	1
+Baby	1
+Books	1
+Pet Supplies	1
+Toys	1
+Men's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Books	1
+Toys	1
+Consumer Electronics	1
+Women's Clothing	1
+Crafts	1
+Women's Clothing	1
+Women's Clothing	1
+DVDs	1
+Cameras	1
+Baby	1
+Garden	1
+Pet Supplies	1
+Pet Supplies	1
+Sporting Goods	1
+Pet Supplies	1
+Women's Clothing	1
+Books	1
+Children's Clothing	1
+Pet Supplies	1
+Consumer Electronics	1
+Garden	1
+Children's Clothing	1
+Sporting Goods	1
+Books	1
+Pet Supplies	1
+Consumer Electronics	1
+Sporting Goods	1
+Pet Supplies	1
+Pet Supplies	1
+Crafts	1
+Toys	1
+Computers	1
+Baby	1
+Consumer Electronics	1
+Cameras	1
+Books	1
+Music	1
+Sporting Goods	1
+Garden	1
+Baby	1
+Music	1
+Consumer Electronics	1
+Video Games	1
+Children's Clothing	1
+Pet Supplies	1
+CDs	1
+Men's Clothing	1
+CDs	1
+Toys	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Children's Clothing	1
+Computers	1
+Sporting Goods	1
+Pet Supplies	1
+Video Games	1
+Sporting Goods	1
+Music	1
+DVDs	1
+Computers	1
+Baby	1
+Men's Clothing	1
+Crafts	1
+Crafts	1
+Video Games	1
+Baby	1
+Crafts	1
+DVDs	1
+Video Games	1
+Sporting Goods	1
+Women's Clothing	1
+Consumer Electronics	1
+Music	1
+Baby	1
+Video Games	1
+Books	1
+Toys	1
+Garden	1
+Consumer Electronics	1
+Garden	1
+Men's Clothing	1
+Music	1
+Baby	1
+Women's Clothing	1
+Garden	1
+Children's Clothing	1
+Men's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Pet Supplies	1
+CDs	1
+Women's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+DVDs	1
+DVDs	1
+Baby	1
+Women's Clothing	1
+DVDs	1
+Computers	1
+Children's Clothing	1
+Crafts	1
+Music	1
+Health and Beauty	1
+Pet Supplies	1
+Books	1
+Baby	1
+Cameras	1
+Garden	1
+Baby	1
+Music	1
+Music	1
+Computers	1
+Men's Clothing	1
+Music	1
+Books	1
+Music	1
+Music	1
+Crafts	1
+Consumer Electronics	1
+Women's Clothing	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Music	1
+Cameras	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+Cameras	1
+Books	1
+Baby	1
+Men's Clothing	1
+DVDs	1
+Men's Clothing	1
+Music	1
+Health and Beauty	1
+Health and Beauty	1
+Men's Clothing	1
+Consumer Electronics	1
+Women's Clothing	1
+Cameras	1
+DVDs	1
+Men's Clothing	1
+CDs	1
+CDs	1
+Sporting Goods	1
+DVDs	1
+Video Games	1
+Garden	1
+DVDs	1
+Garden	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Pet Supplies	1
+Video Games	1
+Books	1
+Garden	1
+Video Games	1
+Computers	1
+Children's Clothing	1
+Health and Beauty	1
+Books	1
+CDs	1
+Pet Supplies	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Men's Clothing	1
+Books	1
+Health and Beauty	1
+Consumer Electronics	1
+Children's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Music	1
+Children's Clothing	1
+Women's Clothing	1
+Women's Clothing	1
+Toys	1
+Computers	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+CDs	1
+DVDs	1
+CDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Toys	1
+Cameras	1
+Children's Clothing	1
+Music	1
+Cameras	1
+Music	1
+Health and Beauty	1
+Crafts	1
+Cameras	1
+Sporting Goods	1
+Cameras	1
+Men's Clothing	1
+Music	1
+Consumer Electronics	1
+Music	1
+Toys	1
+Toys	1
+Toys	1
+DVDs	1
+Garden	1
+CDs	1
+Consumer Electronics	1
+Books	1
+Crafts	1
+CDs	1
+Women's Clothing	1
+Women's Clothing	1
+Crafts	1
+Women's Clothing	1
+Pet Supplies	1
+Garden	1
+Books	1
+Books	1
+Sporting Goods	1
+CDs	1
+Music	1
+Video Games	1
+Women's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+CDs	1
+Crafts	1
+Pet Supplies	1
+Men's Clothing	1
+Consumer Electronics	1
+Cameras	1
+Cameras	1
+Garden	1
+Cameras	1
+Children's Clothing	1
+DVDs	1
+Sporting Goods	1
+Men's Clothing	1
+Men's Clothing	1
+Crafts	1
+Crafts	1
+Sporting Goods	1
+Cameras	1
+CDs	1
+Children's Clothing	1
+Video Games	1
+Crafts	1
+CDs	1
+Garden	1
+Music	1
+DVDs	1
+Cameras	1
+Cameras	1
+Crafts	1
+Video Games	1
+Health and Beauty	1
+Computers	1
+Women's Clothing	1
+Baby	1
+Computers	1
+Garden	1
+Video Games	1
+Health and Beauty	1
+Music	1
+Garden	1
+Children's Clothing	1
+Pet Supplies	1
+Garden	1
+Baby	1
+Pet Supplies	1
+Music	1
+Pet Supplies	1
+Men's Clothing	1
+Books	1
+Women's Clothing	1
+DVDs	1
+Music	1
+Toys	1
+Pet Supplies	1
+Toys	1
+Baby	1
+Baby	1
+Consumer Electronics	1
+Sporting Goods	1
+Toys	1
+CDs	1
+Music	1
+Children's Clothing	1
+Toys	1
+Books	1
+Sporting Goods	1
+Sporting Goods	1
+DVDs	1
+Health and Beauty	1
+Sporting Goods	1
+Music	1
+Computers	1
+Health and Beauty	1
+Women's Clothing	1
+Men's Clothing	1
+Crafts	1
+Books	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Crafts	1
+Books	1
+Baby	1
+Pet Supplies	1
+CDs	1
+Women's Clothing	1
+Books	1
+Pet Supplies	1
+Computers	1
+Toys	1
+Men's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Books	1
+Garden	1
+Baby	1
+Consumer Electronics	1
+Garden	1
+Toys	1
+CDs	1
+Music	1
+Crafts	1
+Books	1
+Crafts	1
+Toys	1
+Books	1
+Music	1
+CDs	1
+Pet Supplies	1
+Video Games	1
+Video Games	1
+Health and Beauty	1
+Children's Clothing	1
+Video Games	1
+Pet Supplies	1
+Computers	1
+Health and Beauty	1
+Garden	1
+Children's Clothing	1
+Music	1
+CDs	1
+Computers	1
+Sporting Goods	1
+Women's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+Video Games	1
+Books	1
+CDs	1
+Consumer Electronics	1
+Cameras	1
+CDs	1
+CDs	1
+Children's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Consumer Electronics	1
+DVDs	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Consumer Electronics	1
+Video Games	1
+CDs	1
+Pet Supplies	1
+Computers	1
+Books	1
+Sporting Goods	1
+Music	1
+Computers	1
+Health and Beauty	1
+Books	1
+Garden	1
+Books	1
+Children's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Crafts	1
+Health and Beauty	1
+CDs	1
+Children's Clothing	1
+Video Games	1
+Music	1
+Books	1
+Sporting Goods	1
+Garden	1
+Women's Clothing	1
+Video Games	1
+DVDs	1
+Consumer Electronics	1
+DVDs	1
+Computers	1
+Computers	1
+CDs	1
+Baby	1
+Women's Clothing	1
+Consumer Electronics	1
+Music	1
+DVDs	1
+Women's Clothing	1
+Sporting Goods	1
+Women's Clothing	1
+Video Games	1
+Men's Clothing	1
+Pet Supplies	1
+CDs	1
+Computers	1
+Women's Clothing	1
+Music	1
+Crafts	1
+Toys	1
+Men's Clothing	1
+Computers	1
+Health and Beauty	1
+Health and Beauty	1
+Video Games	1
+Video Games	1
+Baby	1
+Cameras	1
+Consumer Electronics	1
+Crafts	1
+Men's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+Men's Clothing	1
+Baby	1
+Men's Clothing	1
+Books	1
+Baby	1
+Crafts	1
+Garden	1
+DVDs	1
+Pet Supplies	1
+Computers	1
+Health and Beauty	1
+Pet Supplies	1
+Children's Clothing	1
+Toys	1
+Books	1
+Toys	1
+Toys	1
+Toys	1
+Toys	1
+Men's Clothing	1
+Video Games	1
+Men's Clothing	1
+CDs	1
+Children's Clothing	1
+Cameras	1
+Children's Clothing	1
+Crafts	1
+Children's Clothing	1
+Pet Supplies	1
+Computers	1
+Pet Supplies	1
+Books	1
+Video Games	1
+Books	1
+Men's Clothing	1
+Pet Supplies	1
+Women's Clothing	1
+Video Games	1
+Baby	1
+Baby	1
+Crafts	1
+Consumer Electronics	1
+Video Games	1
+Women's Clothing	1
+Pet Supplies	1
+Garden	1
+DVDs	1
+Children's Clothing	1
+Pet Supplies	1
+Books	1
+Toys	1
+CDs	1
+Garden	1
+Books	1
+Children's Clothing	1
+Toys	1
+Health and Beauty	1
+Video Games	1
+Crafts	1
+DVDs	1
+Pet Supplies	1
+Toys	1
+Video Games	1
+Toys	1
+Men's Clothing	1
+CDs	1
+Health and Beauty	1
+Books	1
+Health and Beauty	1
+Cameras	1
+Music	1
+Pet Supplies	1
+Baby	1
+Toys	1
+DVDs	1
+Children's Clothing	1
+DVDs	1
+Pet Supplies	1
+Sporting Goods	1
+CDs	1
+Men's Clothing	1
+Crafts	1
+Consumer Electronics	1
+Sporting Goods	1
+Children's Clothing	1
+Garden	1
+Men's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Video Games	1
+Children's Clothing	1
+Garden	1
+Health and Beauty	1
+Pet Supplies	1
+Children's Clothing	1
+Music	1
+Consumer Electronics	1
+CDs	1
+Children's Clothing	1
+Crafts	1
+DVDs	1
+Toys	1
+Computers	1
+Garden	1
+DVDs	1
+Men's Clothing	1
+DVDs	1
+Crafts	1
+Cameras	1
+Cameras	1
+Garden	1
+Books	1
+Crafts	1
+Men's Clothing	1
+Toys	1
+Cameras	1
+Garden	1
+Video Games	1
+Men's Clothing	1
+Baby	1
+Toys	1
+Consumer Electronics	1
+Books	1
+DVDs	1
+Garden	1
+Women's Clothing	1
+Pet Supplies	1
+Toys	1
+Toys	1
+Consumer Electronics	1
+Books	1
+Music	1
+Computers	1
+Video Games	1
+Children's Clothing	1
+Men's Clothing	1
+Toys	1
+Video Games	1
+Cameras	1
+Children's Clothing	1
+Baby	1
+Books	1
+Garden	1
+Baby	1
+Sporting Goods	1
+Children's Clothing	1
+Toys	1
+Crafts	1
+Cameras	1
+Video Games	1
+Video Games	1
+CDs	1
+Women's Clothing	1
+CDs	1
+Video Games	1
+Toys	1
+Books	1
+Cameras	1
+CDs	1
+Books	1
+Books	1
+Crafts	1
+Computers	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Crafts	1
+CDs	1
+Music	1
+Men's Clothing	1
+Books	1
+Crafts	1
+Consumer Electronics	1
+Garden	1
+CDs	1
+Health and Beauty	1
+Sporting Goods	1
+Crafts	1
+Cameras	1
+Baby	1
+CDs	1
+Sporting Goods	1
+Video Games	1
+Baby	1
+Consumer Electronics	1
+Men's Clothing	1
+DVDs	1
+Books	1
+Women's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+Books	1
+Computers	1
+DVDs	1
+Computers	1
+Garden	1
+Sporting Goods	1
+Children's Clothing	1
+CDs	1
+Health and Beauty	1
+Children's Clothing	1
+Children's Clothing	1
+Garden	1
+Health and Beauty	1
+Music	1
+Music	1
+Garden	1
+Music	1
+DVDs	1
+Toys	1
+Computers	1
+CDs	1
+Cameras	1
+Video Games	1
+Crafts	1
+Sporting Goods	1
+Men's Clothing	1
+Crafts	1
+Books	1
+Women's Clothing	1
+Computers	1
+Consumer Electronics	1
+Men's Clothing	1
+Video Games	1
+Children's Clothing	1
+Books	1
+Toys	1
+Pet Supplies	1
+DVDs	1
+Pet Supplies	1
+Pet Supplies	1
+Consumer Electronics	1
+Baby	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Cameras	1
+Women's Clothing	1
+Sporting Goods	1
+Pet Supplies	1
+Books	1
+DVDs	1
+CDs	1
+Children's Clothing	1
+Books	1
+Pet Supplies	1
+CDs	1
+Toys	1
+Garden	1
+Children's Clothing	1
+Men's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Music	1
+Sporting Goods	1
+Books	1
+Consumer Electronics	1
+Women's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Computers	1
+Children's Clothing	1
+Computers	1
+Consumer Electronics	1
+Sporting Goods	1
+Crafts	1
+Cameras	1
+Books	1
+Crafts	1
+Cameras	1
+Women's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Sporting Goods	1
+Music	1
+Video Games	1
+CDs	1
+Books	1
+Cameras	1
+Baby	1
+Books	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Baby	1
+Books	1
+Video Games	1
+Cameras	1
+CDs	1
+Women's Clothing	1
+Toys	1
+CDs	1
+Cameras	1
+Health and Beauty	1
+Women's Clothing	1
+Baby	1
+Women's Clothing	1
+Consumer Electronics	1
+Consumer Electronics	1
+Video Games	1
+Toys	1
+Music	1
+Consumer Electronics	1
+Baby	1
+Sporting Goods	1
+Toys	1
+Children's Clothing	1
+Crafts	1
+DVDs	1
+Cameras	1
+Women's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Toys	1
+Pet Supplies	1
+Music	1
+Cameras	1
+Children's Clothing	1
+Men's Clothing	1
+Women's Clothing	1
+CDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Crafts	1
+Baby	1
+Music	1
+Video Games	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+Women's Clothing	1
+Men's Clothing	1
+Video Games	1
+Children's Clothing	1
+Music	1
+Toys	1
+Health and Beauty	1
+Books	1
+Video Games	1
+Baby	1
+Sporting Goods	1
+Cameras	1
+Video Games	1
+Crafts	1
+Toys	1
+Women's Clothing	1
+Computers	1
+Health and Beauty	1
+DVDs	1
+Sporting Goods	1
+CDs	1
+Video Games	1
+Sporting Goods	1
+Health and Beauty	1
+Music	1
+Cameras	1
+Pet Supplies	1
+Garden	1
+Children's Clothing	1
+Men's Clothing	1
+Toys	1
+Baby	1
+Women's Clothing	1
+Computers	1
+Consumer Electronics	1
+Cameras	1
+Video Games	1
+Health and Beauty	1
+Sporting Goods	1
+Baby	1
+Baby	1
+Baby	1
+Cameras	1
+CDs	1
+Women's Clothing	1
+DVDs	1
+DVDs	1
+Pet Supplies	1
+Men's Clothing	1
+Toys	1
+Consumer Electronics	1
+Toys	1
+Garden	1
+Baby	1
+Pet Supplies	1
+Toys	1
+Computers	1
+Video Games	1
+Books	1
+Toys	1
+DVDs	1
+Video Games	1
+Sporting Goods	1
+Consumer Electronics	1
+Women's Clothing	1
+Crafts	1
+Sporting Goods	1
+Men's Clothing	1
+CDs	1
+Health and Beauty	1
+Health and Beauty	1
+Children's Clothing	1
+Pet Supplies	1
+Video Games	1
+Baby	1
+Men's Clothing	1
+DVDs	1
+Women's Clothing	1
+Video Games	1
+Baby	1
+CDs	1
+Health and Beauty	1
+Garden	1
+Computers	1
+Sporting Goods	1
+DVDs	1
+Health and Beauty	1
+Books	1
+Men's Clothing	1
+Crafts	1
+Garden	1
+Books	1
+Pet Supplies	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Cameras	1
+Books	1
+Garden	1
+Crafts	1
+Crafts	1
+Consumer Electronics	1
+Consumer Electronics	1
+Garden	1
+Consumer Electronics	1
+Books	1
+Men's Clothing	1
+Books	1
+Garden	1
+Computers	1
+Computers	1
+Cameras	1
+Books	1
+Video Games	1
+Cameras	1
+Video Games	1
+Women's Clothing	1
+Crafts	1
+Crafts	1
+Crafts	1
+Baby	1
+Crafts	1
+Pet Supplies	1
+Crafts	1
+Computers	1
+Health and Beauty	1
+Video Games	1
+Health and Beauty	1
+Computers	1
+Women's Clothing	1
+CDs	1
+Women's Clothing	1
+DVDs	1
+Pet Supplies	1
+Music	1
+Video Games	1
+Pet Supplies	1
+Books	1
+Garden	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Toys	1
+DVDs	1
+Garden	1
+Garden	1
+DVDs	1
+Computers	1
+Pet Supplies	1
+Health and Beauty	1
+Books	1
+Women's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Pet Supplies	1
+Consumer Electronics	1
+CDs	1
+Pet Supplies	1
+Women's Clothing	1
+Garden	1
+Baby	1
+Crafts	1
+Music	1
+Toys	1
+Video Games	1
+Garden	1
+Children's Clothing	1
+DVDs	1
+Music	1
+Computers	1
+Cameras	1
+Women's Clothing	1
+Books	1
+Video Games	1
+Health and Beauty	1
+Children's Clothing	1
+Men's Clothing	1
+Computers	1
+Books	1
+Books	1
+Women's Clothing	1
+Toys	1
+Books	1
+Computers	1
+Consumer Electronics	1
+DVDs	1
+Books	1
+Books	1
+Baby	1
+CDs	1
+Baby	1
+Toys	1
+Cameras	1
+Music	1
+Pet Supplies	1
+DVDs	1
+DVDs	1
+CDs	1
+Health and Beauty	1
+Computers	1
+Toys	1
+Music	1
+Baby	1
+Men's Clothing	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Consumer Electronics	1
+Music	1
+Video Games	1
+CDs	1
+Baby	1
+Video Games	1
+Music	1
+Women's Clothing	1
+Crafts	1
+Health and Beauty	1
+CDs	1
+Books	1
+DVDs	1
+Cameras	1
+Toys	1
+Crafts	1
+DVDs	1
+Music	1
+DVDs	1
+CDs	1
+Books	1
+Baby	1
+Men's Clothing	1
+Garden	1
+Crafts	1
+Cameras	1
+Cameras	1
+Music	1
+Books	1
+Sporting Goods	1
+Music	1
+Crafts	1
+Garden	1
+Music	1
+Children's Clothing	1
+Baby	1
+Men's Clothing	1
+Sporting Goods	1
+Pet Supplies	1
+Garden	1
+Books	1
+Crafts	1
+Books	1
+Men's Clothing	1
+Sporting Goods	1
+Video Games	1
+Toys	1
+Cameras	1
+Children's Clothing	1
+Music	1
+Consumer Electronics	1
+Health and Beauty	1
+Computers	1
+Health and Beauty	1
+Books	1
+Garden	1
+Video Games	1
+Health and Beauty	1
+Sporting Goods	1
+Books	1
+Crafts	1
+Health and Beauty	1
+Video Games	1
+Crafts	1
+DVDs	1
+Garden	1
+Women's Clothing	1
+Children's Clothing	1
+Crafts	1
+Pet Supplies	1
+Garden	1
+Garden	1
+Crafts	1
+Sporting Goods	1
+Men's Clothing	1
+Sporting Goods	1
+Computers	1
+Computers	1
+Video Games	1
+Sporting Goods	1
+Women's Clothing	1
+Music	1
+Women's Clothing	1
+Crafts	1
+Crafts	1
+Video Games	1
+Crafts	1
+Crafts	1
+Children's Clothing	1
+Crafts	1
+Consumer Electronics	1
+Sporting Goods	1
+DVDs	1
+Garden	1
+Garden	1
+Women's Clothing	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Books	1
+Toys	1
+Music	1
+Baby	1
+Computers	1
+Sporting Goods	1
+Toys	1
+Books	1
+Computers	1
+Women's Clothing	1
+Books	1
+Sporting Goods	1
+Health and Beauty	1
+Video Games	1
+Sporting Goods	1
+Crafts	1
+Music	1
+Garden	1
+Children's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+Sporting Goods	1
+Cameras	1
+Consumer Electronics	1
+Garden	1
+Crafts	1
+Men's Clothing	1
+Children's Clothing	1
+Pet Supplies	1
+Women's Clothing	1
+Men's Clothing	1
+Music	1
+Music	1
+Video Games	1
+Computers	1
+Consumer Electronics	1
+Women's Clothing	1
+Women's Clothing	1
+Video Games	1
+Women's Clothing	1
+Music	1
+Cameras	1
+Books	1
+Women's Clothing	1
+Baby	1
+Toys	1
+Music	1
+CDs	1
+Music	1
+Sporting Goods	1
+CDs	1
+Consumer Electronics	1
+Health and Beauty	1
+Children's Clothing	1
+Crafts	1
+DVDs	1
+Women's Clothing	1
+Computers	1
+Sporting Goods	1
+Health and Beauty	1
+CDs	1
+Men's Clothing	1
+Baby	1
+Women's Clothing	1
+Music	1
+Pet Supplies	1
+Men's Clothing	1
+Pet Supplies	1
+Women's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Cameras	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Toys	1
+Computers	1
+Sporting Goods	1
+Toys	1
+Computers	1
+Sporting Goods	1
+Women's Clothing	1
+Music	1
+Video Games	1
+Sporting Goods	1
+Men's Clothing	1
+Men's Clothing	1
+Computers	1
+Cameras	1
+Crafts	1
+Children's Clothing	1
+Pet Supplies	1
+Video Games	1
+Baby	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+CDs	1
+Crafts	1
+Computers	1
+Health and Beauty	1
+Baby	1
+Toys	1
+Consumer Electronics	1
+Video Games	1
+Children's Clothing	1
+Women's Clothing	1
+Video Games	1
+Pet Supplies	1
+Crafts	1
+Sporting Goods	1
+Baby	1
+Garden	1
+Consumer Electronics	1
+Baby	1
+Pet Supplies	1
+Books	1
+Toys	1
+Crafts	1
+Garden	1
+Computers	1
+Children's Clothing	1
+Toys	1
+CDs	1
+Toys	1
+Cameras	1
+Women's Clothing	1
+Crafts	1
+CDs	1
+Garden	1
+Men's Clothing	1
+Video Games	1
+Pet Supplies	1
+Toys	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+Health and Beauty	1
+Baby	1
+Consumer Electronics	1
+Video Games	1
+DVDs	1
+Computers	1
+Health and Beauty	1
+Computers	1
+Men's Clothing	1
+Garden	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Crafts	1
+Women's Clothing	1
+CDs	1
+Crafts	1
+CDs	1
+Music	1
+DVDs	1
+Health and Beauty	1
+Consumer Electronics	1
+Garden	1
+Baby	1
+Music	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Men's Clothing	1
+DVDs	1
+Toys	1
+Women's Clothing	1
+Women's Clothing	1
+Men's Clothing	1
+Men's Clothing	1
+Books	1
+DVDs	1
+DVDs	1
+Cameras	1
+DVDs	1
+Pet Supplies	1
+Books	1
+Crafts	1
+Video Games	1
+Men's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+Men's Clothing	1
+Computers	1
+Children's Clothing	1
+Computers	1
+Crafts	1
+Computers	1
+Men's Clothing	1
+Books	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+Women's Clothing	1
+Music	1
+Sporting Goods	1
+Consumer Electronics	1
+Crafts	1
+Computers	1
+CDs	1
+Music	1
+Garden	1
+Health and Beauty	1
+Computers	1
+DVDs	1
+Men's Clothing	1
+CDs	1
+Cameras	1
+Men's Clothing	1
+Children's Clothing	1
+Video Games	1
+Cameras	1
+Cameras	1
+Children's Clothing	1
+Computers	1
+Baby	1
+Men's Clothing	1
+Computers	1
+Health and Beauty	1
+Pet Supplies	1
+Cameras	1
+CDs	1
+Men's Clothing	1
+Baby	1
+Women's Clothing	1
+Books	1
+Music	1
+Children's Clothing	1
+Women's Clothing	1
+Video Games	1
+Books	1
+Baby	1
+Toys	1
+Toys	1
+Music	1
+Books	1
+Crafts	1
+Computers	1
+Health and Beauty	1
+DVDs	1
+Garden	1
+Video Games	1
+Books	1
+CDs	1
+Cameras	1
+Toys	1
+Garden	1
+DVDs	1
+Pet Supplies	1
+Children's Clothing	1
+Computers	1
+Computers	1
+DVDs	1
+Health and Beauty	1
+Pet Supplies	1
+Baby	1
+Baby	1
+Crafts	1
+Women's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Children's Clothing	1
+Women's Clothing	1
+Books	1
+Books	1
+Books	1
+Sporting Goods	1
+Video Games	1
+Sporting Goods	1
+Consumer Electronics	1
+Books	1
+CDs	1
+Children's Clothing	1
+DVDs	1
+Toys	1
+Consumer Electronics	1
+Pet Supplies	1
+Cameras	1
+Men's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Consumer Electronics	1
+Garden	1
+Music	1
+DVDs	1
+Pet Supplies	1
+Women's Clothing	1
+Toys	1
+Garden	1
+Computers	1
+Health and Beauty	1
+Pet Supplies	1
+Consumer Electronics	1
+Pet Supplies	1
+Books	1
+Garden	1
+DVDs	1
+Video Games	1
+Consumer Electronics	1
+Books	1
+Toys	1
+Baby	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Music	1
+Consumer Electronics	1
+Children's Clothing	1
+Video Games	1
+Men's Clothing	1
+Cameras	1
+Music	1
+Consumer Electronics	1
+Garden	1
+Men's Clothing	1
+Toys	1
+Music	1
+Consumer Electronics	1
+Baby	1
+Toys	1
+Pet Supplies	1
+Consumer Electronics	1
+Women's Clothing	1
+Toys	1
+CDs	1
+Women's Clothing	1
+Toys	1
+Garden	1
+Health and Beauty	1
+Video Games	1
+Crafts	1
+Music	1
+Video Games	1
+Baby	1
+Video Games	1
+Cameras	1
+Men's Clothing	1
+Garden	1
+Computers	1
+Baby	1
+Books	1
+Music	1
+Women's Clothing	1
+Health and Beauty	1
+Books	1
+Music	1
+Toys	1
+Computers	1
+Children's Clothing	1
+CDs	1
+Garden	1
+DVDs	1
+Books	1
+Cameras	1
+Books	1
+CDs	1
+Children's Clothing	1
+Health and Beauty	1
+Toys	1
+Video Games	1
+Children's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+Books	1
+Books	1
+CDs	1
+Garden	1
+Women's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+Music	1
+Men's Clothing	1
+Toys	1
+Sporting Goods	1
+Children's Clothing	1
+Pet Supplies	1
+Consumer Electronics	1
+Books	1
+Health and Beauty	1
+CDs	1
+CDs	1
+Consumer Electronics	1
+Music	1
+Toys	1
+CDs	1
+Baby	1
+Women's Clothing	1
+Cameras	1
+CDs	1
+Cameras	1
+Music	1
+CDs	1
+Sporting Goods	1
+Baby	1
+CDs	1
+Consumer Electronics	1
+Consumer Electronics	1
+Baby	1
+Books	1
+Men's Clothing	1
+Garden	1
+Health and Beauty	1
+CDs	1
+Garden	1
+Garden	1
+Cameras	1
+Men's Clothing	1
+CDs	1
+Health and Beauty	1
+Toys	1
+CDs	1
+Crafts	1
+Men's Clothing	1
+Crafts	1
+Toys	1
+Sporting Goods	1
+Pet Supplies	1
+DVDs	1
+Consumer Electronics	1
+Cameras	1
+Crafts	1
+Children's Clothing	1
+Women's Clothing	1
+Music	1
+Garden	1
+Video Games	1
+Cameras	1
+Baby	1
+Music	1
+Men's Clothing	1
+Books	1
+CDs	1
+Computers	1
+Health and Beauty	1
+CDs	1
+Women's Clothing	1
+Baby	1
+Garden	1
+Cameras	1
+Children's Clothing	1
+Video Games	1
+Books	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+Men's Clothing	1
+Women's Clothing	1
+Baby	1
+Consumer Electronics	1
+Men's Clothing	1
+Computers	1
+Cameras	1
+Video Games	1
+Toys	1
+DVDs	1
+Sporting Goods	1
+Garden	1
+Crafts	1
+CDs	1
+Crafts	1
+Women's Clothing	1
+Crafts	1
+Computers	1
+Computers	1
+Health and Beauty	1
+Books	1
+Men's Clothing	1
+Toys	1
+Sporting Goods	1
+Toys	1
+Men's Clothing	1
+Toys	1
+Men's Clothing	1
+Baby	1
+Men's Clothing	1
+Toys	1
+Sporting Goods	1
+Cameras	1
+Pet Supplies	1
+Computers	1
+Consumer Electronics	1
+Music	1
+DVDs	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+Video Games	1
+Cameras	1
+CDs	1
+Men's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+Baby	1
+Pet Supplies	1
+CDs	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Children's Clothing	1
+Pet Supplies	1
+CDs	1
+Baby	1
+Sporting Goods	1
+Video Games	1
+Books	1
+Cameras	1
+Video Games	1
+Toys	1
+Crafts	1
+Video Games	1
+Music	1
+Men's Clothing	1
+Children's Clothing	1
+Baby	1
+Crafts	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+Children's Clothing	1
+Consumer Electronics	1
+Garden	1
+Garden	1
+Sporting Goods	1
+CDs	1
+Women's Clothing	1
+Toys	1
+Consumer Electronics	1
+Consumer Electronics	1
+Crafts	1
+Sporting Goods	1
+Computers	1
+Video Games	1
+Garden	1
+DVDs	1
+Health and Beauty	1
+Sporting Goods	1
+CDs	1
+Video Games	1
+Pet Supplies	1
+Consumer Electronics	1
+Music	1
+Books	1
+Baby	1
+Pet Supplies	1
+Men's Clothing	1
+DVDs	1
+Toys	1
+Toys	1
+Garden	1
+Women's Clothing	1
+Pet Supplies	1
+Cameras	1
+Baby	1
+Baby	1
+Sporting Goods	1
+Crafts	1
+Video Games	1
+Sporting Goods	1
+Women's Clothing	1
+Video Games	1
+DVDs	1
+Music	1
+Video Games	1
+Garden	1
+Children's Clothing	1
+Consumer Electronics	1
+Toys	1
+Children's Clothing	1
+Children's Clothing	1
+DVDs	1
+Health and Beauty	1
+Toys	1
+Men's Clothing	1
+Baby	1
+Music	1
+CDs	1
+Health and Beauty	1
+Toys	1
+Garden	1
+Computers	1
+Crafts	1
+Computers	1
+Children's Clothing	1
+Garden	1
+DVDs	1
+Toys	1
+Baby	1
+Men's Clothing	1
+CDs	1
+Children's Clothing	1
+Men's Clothing	1
+Men's Clothing	1
+Sporting Goods	1
+Computers	1
+Sporting Goods	1
+Computers	1
+Video Games	1
+Sporting Goods	1
+Video Games	1
+Children's Clothing	1
+Garden	1
+Cameras	1
+Pet Supplies	1
+Pet Supplies	1
+Garden	1
+Computers	1
+Video Games	1
+Sporting Goods	1
+Toys	1
+Computers	1
+Computers	1
+Pet Supplies	1
+Computers	1
+Crafts	1
+Computers	1
+Baby	1
+Pet Supplies	1
+Consumer Electronics	1
+Video Games	1
+Computers	1
+Children's Clothing	1
+Music	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+CDs	1
+Consumer Electronics	1
+Baby	1
+Baby	1
+Crafts	1
+Music	1
+Baby	1
+Cameras	1
+Books	1
+Music	1
+Cameras	1
+Crafts	1
+Health and Beauty	1
+Baby	1
+CDs	1
+Video Games	1
+Music	1
+Health and Beauty	1
+Cameras	1
+Men's Clothing	1
+DVDs	1
+Video Games	1
+Consumer Electronics	1
+Books	1
+Men's Clothing	1
+Children's Clothing	1
+Computers	1
+Children's Clothing	1
+Baby	1
+CDs	1
+Children's Clothing	1
+Women's Clothing	1
+Music	1
+Baby	1
+Cameras	1
+Music	1
+Video Games	1
+Children's Clothing	1
+Computers	1
+Garden	1
+Crafts	1
+Toys	1
+Toys	1
+Books	1
+Baby	1
+Video Games	1
+Computers	1
+Consumer Electronics	1
+Pet Supplies	1
+Health and Beauty	1
+Computers	1
+Women's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Pet Supplies	1
+Women's Clothing	1
+Computers	1
+Music	1
+Video Games	1
+Toys	1
+DVDs	1
+Video Games	1
+Video Games	1
+Consumer Electronics	1
+Children's Clothing	1
+Health and Beauty	1
+Crafts	1
+Computers	1
+Sporting Goods	1
+CDs	1
+Cameras	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+Music	1
+Music	1
+Men's Clothing	1
+Video Games	1
+Toys	1
+Computers	1
+Toys	1
+Music	1
+Children's Clothing	1
+Health and Beauty	1
+Children's Clothing	1
+Garden	1
+Music	1
+Baby	1
+Children's Clothing	1
+Men's Clothing	1
+Women's Clothing	1
+DVDs	1
+Crafts	1
+Garden	1
+Toys	1
+DVDs	1
+Music	1
+Men's Clothing	1
+Video Games	1
+Cameras	1
+DVDs	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Crafts	1
+Consumer Electronics	1
+Consumer Electronics	1
+Men's Clothing	1
+Consumer Electronics	1
+Computers	1
+Computers	1
+Video Games	1
+Toys	1
+Pet Supplies	1
+Women's Clothing	1
+Garden	1
+Baby	1
+Garden	1
+Garden	1
+Children's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+Music	1
+Children's Clothing	1
+Cameras	1
+CDs	1
+Toys	1
+CDs	1
+Video Games	1
+Health and Beauty	1
+Consumer Electronics	1
+Baby	1
+Consumer Electronics	1
+Pet Supplies	1
+Children's Clothing	1
+Pet Supplies	1
+Health and Beauty	1
+Pet Supplies	1
+Cameras	1
+Men's Clothing	1
+Sporting Goods	1
+DVDs	1
+Women's Clothing	1
+Garden	1
+Garden	1
+Music	1
+Baby	1
+Consumer Electronics	1
+Music	1
+DVDs	1
+Crafts	1
+Crafts	1
+Women's Clothing	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+Sporting Goods	1
+Health and Beauty	1
+Toys	1
+Children's Clothing	1
+DVDs	1
+Music	1
+Music	1
+Sporting Goods	1
+Books	1
+Women's Clothing	1
+Music	1
+Music	1
+Music	1
+Toys	1
+Books	1
+DVDs	1
+Pet Supplies	1
+Consumer Electronics	1
+Crafts	1
+Crafts	1
+Health and Beauty	1
+Consumer Electronics	1
+Children's Clothing	1
+Music	1
+Crafts	1
+Health and Beauty	1
+CDs	1
+Toys	1
+Pet Supplies	1
+Children's Clothing	1
+Garden	1
+Video Games	1
+Crafts	1
+Toys	1
+Video Games	1
+Music	1
+Computers	1
+Video Games	1
+Consumer Electronics	1
+Video Games	1
+Crafts	1
+Consumer Electronics	1
+Consumer Electronics	1
+Garden	1
+Garden	1
+Toys	1
+Computers	1
+Men's Clothing	1
+Video Games	1
+Cameras	1
+Toys	1
+Baby	1
+Pet Supplies	1
+Children's Clothing	1
+Garden	1
+Women's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Women's Clothing	1
+Baby	1
+Toys	1
+Women's Clothing	1
+Children's Clothing	1
+Baby	1
+Computers	1
+Men's Clothing	1
+CDs	1
+Books	1
+DVDs	1
+Crafts	1
+Pet Supplies	1
+Books	1
+Women's Clothing	1
+Women's Clothing	1
+Men's Clothing	1
+Music	1
+Garden	1
+CDs	1
+Books	1
+Men's Clothing	1
+Toys	1
+Baby	1
+Cameras	1
+Computers	1
+DVDs	1
+Toys	1
+Cameras	1
+Children's Clothing	1
+Health and Beauty	1
+Books	1
+Crafts	1
+Pet Supplies	1
+Video Games	1
+DVDs	1
+Computers	1
+CDs	1
+Men's Clothing	1
+Books	1
+Video Games	1
+Garden	1
+Computers	1
+Children's Clothing	1
+Video Games	1
+Health and Beauty	1
+Pet Supplies	1
+Video Games	1
+Women's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Cameras	1
+Sporting Goods	1
+Health and Beauty	1
+Computers	1
+Health and Beauty	1
+DVDs	1
+Video Games	1
+Men's Clothing	1
+Books	1
+Music	1
+Computers	1
+Health and Beauty	1
+Music	1
+DVDs	1
+Crafts	1
+DVDs	1
+Computers	1
+Baby	1
+Music	1
+Computers	1
+Video Games	1
+Health and Beauty	1
+Cameras	1
+Video Games	1
+Garden	1
+Music	1
+Computers	1
+Books	1
+Books	1
+Baby	1
+Consumer Electronics	1
+DVDs	1
+Music	1
+Computers	1
+Toys	1
+Children's Clothing	1
+Women's Clothing	1
+Cameras	1
+Sporting Goods	1
+Toys	1
+Garden	1
+Books	1
+Toys	1
+Garden	1
+Baby	1
+Crafts	1
+DVDs	1
+Music	1
+Music	1
+Baby	1
+CDs	1
+Health and Beauty	1
+Children's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Garden	1
+Pet Supplies	1
+CDs	1
+Children's Clothing	1
+Cameras	1
+DVDs	1
+DVDs	1
+Computers	1
+Children's Clothing	1
+Women's Clothing	1
+Crafts	1
+Crafts	1
+Video Games	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Toys	1
+Pet Supplies	1
+Toys	1
+Men's Clothing	1
+Toys	1
+Pet Supplies	1
+Cameras	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Men's Clothing	1
+Video Games	1
+DVDs	1
+DVDs	1
+Children's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Children's Clothing	1
+Health and Beauty	1
+CDs	1
+Garden	1
+Pet Supplies	1
+Computers	1
+Music	1
+Health and Beauty	1
+Women's Clothing	1
+Sporting Goods	1
+Toys	1
+Computers	1
+Cameras	1
+Music	1
+Video Games	1
+CDs	1
+Health and Beauty	1
+Men's Clothing	1
+Toys	1
+Pet Supplies	1
+Children's Clothing	1
+Video Games	1
+Baby	1
+Sporting Goods	1
+Baby	1
+Music	1
+Video Games	1
+Books	1
+Baby	1
+Music	1
+Baby	1
+Health and Beauty	1
+Cameras	1
+Baby	1
+Baby	1
+Sporting Goods	1
+DVDs	1
+Toys	1
+CDs	1
+Music	1
+Computers	1
+Crafts	1
+Cameras	1
+Health and Beauty	1
+Books	1
+Books	1
+Pet Supplies	1
+Consumer Electronics	1
+Books	1
+Health and Beauty	1
+Cameras	1
+DVDs	1
+Women's Clothing	1
+Baby	1
+Women's Clothing	1
+Baby	1
+Garden	1
+Pet Supplies	1
+Sporting Goods	1
+Health and Beauty	1
+Health and Beauty	1
+Women's Clothing	1
+Baby	1
+Children's Clothing	1
+Pet Supplies	1
+CDs	1
+Toys	1
+CDs	1
+Garden	1
+Women's Clothing	1
+Consumer Electronics	1
+Consumer Electronics	1
+Consumer Electronics	1
+Books	1
+Music	1
+Garden	1
+Music	1
+Baby	1
+Video Games	1
+Computers	1
+Baby	1
+Baby	1
+Baby	1
+CDs	1
+DVDs	1
+Pet Supplies	1
+Music	1
+Music	1
+Children's Clothing	1
+Sporting Goods	1
+Baby	1
+Men's Clothing	1
+Cameras	1
+Books	1
+Cameras	1
+Sporting Goods	1
+Women's Clothing	1
+Baby	1
+Men's Clothing	1
+Music	1
+Computers	1
+Sporting Goods	1
+Video Games	1
+Women's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Crafts	1
+Pet Supplies	1
+Consumer Electronics	1
+DVDs	1
+Garden	1
+CDs	1
+Books	1
+DVDs	1
+Sporting Goods	1
+Crafts	1
+Books	1
+Children's Clothing	1
+Cameras	1
+CDs	1
+Children's Clothing	1
+Children's Clothing	1
+Video Games	1
+Baby	1
+Crafts	1
+Women's Clothing	1
+Women's Clothing	1
+Garden	1
+Sporting Goods	1
+Baby	1
+Women's Clothing	1
+Cameras	1
+DVDs	1
+Health and Beauty	1
+CDs	1
+Video Games	1
+Music	1
+DVDs	1
+Sporting Goods	1
+Health and Beauty	1
+Children's Clothing	1
+Books	1
+DVDs	1
+Music	1
+Toys	1
+Cameras	1
+Sporting Goods	1
+Books	1
+Toys	1
+Women's Clothing	1
+Computers	1
+Books	1
+Health and Beauty	1
+Women's Clothing	1
+Baby	1
+Baby	1
+Crafts	1
+Consumer Electronics	1
+CDs	1
+Video Games	1
+Sporting Goods	1
+Toys	1
+Sporting Goods	1
+Books	1
+Video Games	1
+Video Games	1
+Video Games	1
+Pet Supplies	1
+Books	1
+Baby	1
+Books	1
+Baby	1
+Health and Beauty	1
+Toys	1
+Pet Supplies	1
+Consumer Electronics	1
+CDs	1
+Video Games	1
+Garden	1
+Video Games	1
+Computers	1
+Men's Clothing	1
+Garden	1
+Cameras	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+Crafts	1
+Children's Clothing	1
+Toys	1
+Computers	1
+Books	1
+Books	1
+Men's Clothing	1
+CDs	1
+Crafts	1
+Sporting Goods	1
+Cameras	1
+Toys	1
+Toys	1
+CDs	1
+Computers	1
+Computers	1
+DVDs	1
+Cameras	1
+Crafts	1
+Children's Clothing	1
+Garden	1
+CDs	1
+Video Games	1
+Garden	1
+Books	1
+Garden	1
+Computers	1
+CDs	1
+Women's Clothing	1
+Men's Clothing	1
+Cameras	1
+Music	1
+Consumer Electronics	1
+Baby	1
+Consumer Electronics	1
+Women's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Baby	1
+Sporting Goods	1
+DVDs	1
+Pet Supplies	1
+Music	1
+Sporting Goods	1
+Men's Clothing	1
+Baby	1
+DVDs	1
+Health and Beauty	1
+Toys	1
+Video Games	1
+Women's Clothing	1
+Health and Beauty	1
+Crafts	1
+Cameras	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Computers	1
+Health and Beauty	1
+Children's Clothing	1
+Books	1
+Garden	1
+Women's Clothing	1
+CDs	1
+Pet Supplies	1
+Pet Supplies	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Crafts	1
+Music	1
+Women's Clothing	1
+Toys	1
+Consumer Electronics	1
+Music	1
+Consumer Electronics	1
+Women's Clothing	1
+Children's Clothing	1
+Music	1
+Cameras	1
+Computers	1
+Crafts	1
+Video Games	1
+Baby	1
+Women's Clothing	1
+CDs	1
+Health and Beauty	1
+Health and Beauty	1
+Children's Clothing	1
+Crafts	1
+Women's Clothing	1
+DVDs	1
+Books	1
+Men's Clothing	1
+Crafts	1
+Men's Clothing	1
+CDs	1
+Women's Clothing	1
+Health and Beauty	1
+Cameras	1
+Pet Supplies	1
+Health and Beauty	1
+Sporting Goods	1
+Women's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+Pet Supplies	1
+Music	1
+Children's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Crafts	1
+Crafts	1
+Sporting Goods	1
+Pet Supplies	1
+Books	1
+Crafts	1
+Toys	1
+Women's Clothing	1
+Children's Clothing	1
+Sporting Goods	1
+Toys	1
+Pet Supplies	1
+Toys	1
+Video Games	1
+DVDs	1
+Consumer Electronics	1
+Video Games	1
+Toys	1
+Children's Clothing	1
+Computers	1
+Books	1
+Music	1
+Health and Beauty	1
+CDs	1
+Sporting Goods	1
+Computers	1
+Crafts	1
+DVDs	1
+Video Games	1
+Men's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+CDs	1
+Sporting Goods	1
+DVDs	1
+Video Games	1
+CDs	1
+CDs	1
+Men's Clothing	1
+Garden	1
+Video Games	1
+Consumer Electronics	1
+Pet Supplies	1
+Crafts	1
+Video Games	1
+DVDs	1
+Men's Clothing	1
+Video Games	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+DVDs	1
+CDs	1
+Women's Clothing	1
+Sporting Goods	1
+Computers	1
+Baby	1
+Women's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+CDs	1
+Books	1
+Cameras	1
+Baby	1
+Consumer Electronics	1
+Toys	1
+Video Games	1
+Consumer Electronics	1
+Crafts	1
+Health and Beauty	1
+Toys	1
+Health and Beauty	1
+Cameras	1
+Crafts	1
+Music	1
+Children's Clothing	1
+Consumer Electronics	1
+Baby	1
+Sporting Goods	1
+Sporting Goods	1
+Consumer Electronics	1
+Cameras	1
+Crafts	1
+Video Games	1
+Consumer Electronics	1
+Sporting Goods	1
+CDs	1
+Men's Clothing	1
+Video Games	1
+Music	1
+Video Games	1
+Music	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Computers	1
+Music	1
+Computers	1
+Pet Supplies	1
+DVDs	1
+Health and Beauty	1
+Video Games	1
+Crafts	1
+CDs	1
+Cameras	1
+Men's Clothing	1
+Books	1
+Cameras	1
+CDs	1
+Toys	1
+CDs	1
+CDs	1
+Consumer Electronics	1
+CDs	1
+Health and Beauty	1
+Baby	1
+Baby	1
+Music	1
+Music	1
+Cameras	1
+Women's Clothing	1
+Consumer Electronics	1
+Children's Clothing	1
+CDs	1
+Baby	1
+Garden	1
+Computers	1
+Health and Beauty	1
+Computers	1
+DVDs	1
+Music	1
+Women's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+CDs	1
+Sporting Goods	1
+Music	1
+Computers	1
+Toys	1
+DVDs	1
+Baby	1
+Cameras	1
+Baby	1
+Cameras	1
+Books	1
+Books	1
+Men's Clothing	1
+Health and Beauty	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Toys	1
+Consumer Electronics	1
+Pet Supplies	1
+CDs	1
+Pet Supplies	1
+Music	1
+Consumer Electronics	1
+Men's Clothing	1
+Men's Clothing	1
+Toys	1
+Health and Beauty	1
+Men's Clothing	1
+Sporting Goods	1
+Garden	1
+Baby	1
+Crafts	1
+Men's Clothing	1
+Sporting Goods	1
+CDs	1
+Garden	1
+Garden	1
+Baby	1
+Pet Supplies	1
+Computers	1
+DVDs	1
+Cameras	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+Sporting Goods	1
+Sporting Goods	1
+Video Games	1
+Health and Beauty	1
+Health and Beauty	1
+Computers	1
+CDs	1
+Sporting Goods	1
+Baby	1
+Baby	1
+Toys	1
+CDs	1
+Sporting Goods	1
+DVDs	1
+Consumer Electronics	1
+Health and Beauty	1
+Consumer Electronics	1
+Video Games	1
+CDs	1
+Women's Clothing	1
+CDs	1
+Computers	1
+Computers	1
+Garden	1
+CDs	1
+Baby	1
+Consumer Electronics	1
+Toys	1
+CDs	1
+CDs	1
+CDs	1
+Sporting Goods	1
+Video Games	1
+DVDs	1
+Baby	1
+Computers	1
+Garden	1
+Books	1
+Women's Clothing	1
+DVDs	1
+Health and Beauty	1
+Crafts	1
+Baby	1
+CDs	1
+Baby	1
+CDs	1
+DVDs	1
+Video Games	1
+Books	1
+DVDs	1
+Crafts	1
+Crafts	1
+Cameras	1
+DVDs	1
+Women's Clothing	1
+Computers	1
+Children's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Crafts	1
+Garden	1
+Baby	1
+CDs	1
+Garden	1
+DVDs	1
+Children's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Video Games	1
+DVDs	1
+Books	1
+Video Games	1
+Health and Beauty	1
+Baby	1
+Health and Beauty	1
+Music	1
+Pet Supplies	1
+Pet Supplies	1
+Baby	1
+Children's Clothing	1
+Men's Clothing	1
+Computers	1
+Books	1
+Baby	1
+Cameras	1
+Pet Supplies	1
+Computers	1
+Baby	1
+Consumer Electronics	1
+Music	1
+Men's Clothing	1
+Computers	1
+Health and Beauty	1
+Children's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Books	1
+Music	1
+Music	1
+Health and Beauty	1
+Garden	1
+Health and Beauty	1
+Music	1
+Pet Supplies	1
+Consumer Electronics	1
+Crafts	1
+Cameras	1
+Consumer Electronics	1
+Music	1
+Computers	1
+Cameras	1
+Children's Clothing	1
+Sporting Goods	1
+Pet Supplies	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+CDs	1
+Children's Clothing	1
+Men's Clothing	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Baby	1
+Garden	1
+Cameras	1
+Toys	1
+CDs	1
+Books	1
+Women's Clothing	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Baby	1
+Computers	1
+Computers	1
+Consumer Electronics	1
+Baby	1
+Consumer Electronics	1
+DVDs	1
+Sporting Goods	1
+Crafts	1
+Cameras	1
+Books	1
+Toys	1
+Computers	1
+Men's Clothing	1
+Crafts	1
+Music	1
+Video Games	1
+Sporting Goods	1
+Crafts	1
+CDs	1
+Books	1
+Consumer Electronics	1
+CDs	1
+Pet Supplies	1
+Health and Beauty	1
+Video Games	1
+Baby	1
+CDs	1
+Baby	1
+CDs	1
+Music	1
+Garden	1
+Crafts	1
+DVDs	1
+Books	1
+Computers	1
+Women's Clothing	1
+Pet Supplies	1
+Video Games	1
+Women's Clothing	1
+Pet Supplies	1
+Crafts	1
+Computers	1
+Books	1
+Sporting Goods	1
+Pet Supplies	1
+Women's Clothing	1
+Baby	1
+DVDs	1
+Women's Clothing	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+Consumer Electronics	1
+Women's Clothing	1
+Computers	1
+CDs	1
+Music	1
+Health and Beauty	1
+Cameras	1
+Consumer Electronics	1
+CDs	1
+Crafts	1
+Toys	1
+CDs	1
+DVDs	1
+Toys	1
+Men's Clothing	1
+Sporting Goods	1
+CDs	1
+Women's Clothing	1
+Books	1
+Baby	1
+Men's Clothing	1
+Music	1
+DVDs	1
+Garden	1
+Books	1
+Pet Supplies	1
+Health and Beauty	1
+Toys	1
+Baby	1
+Cameras	1
+Crafts	1
+Cameras	1
+Pet Supplies	1
+DVDs	1
+Men's Clothing	1
+CDs	1
+Toys	1
+Baby	1
+Video Games	1
+DVDs	1
+Men's Clothing	1
+Video Games	1
+Garden	1
+Books	1
+Women's Clothing	1
+Men's Clothing	1
+Books	1
+Men's Clothing	1
+Pet Supplies	1
+Crafts	1
+CDs	1
+Pet Supplies	1
+DVDs	1
+Music	1
+Health and Beauty	1
+Women's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Pet Supplies	1
+Pet Supplies	1
+Consumer Electronics	1
+CDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Children's Clothing	1
+Computers	1
+Garden	1
+Pet Supplies	1
+Toys	1
+Garden	1
+Books	1
+Women's Clothing	1
+Baby	1
+Consumer Electronics	1
+CDs	1
+DVDs	1
+Toys	1
+Baby	1
+Computers	1
+Video Games	1
+DVDs	1
+Cameras	1
+Sporting Goods	1
+Health and Beauty	1
+Books	1
+DVDs	1
+CDs	1
+Crafts	1
+Music	1
+Men's Clothing	1
+Computers	1
+Cameras	1
+Garden	1
+Consumer Electronics	1
+Sporting Goods	1
+Men's Clothing	1
+Computers	1
+Consumer Electronics	1
+Books	1
+Men's Clothing	1
+Cameras	1
+Children's Clothing	1
+Consumer Electronics	1
+Toys	1
+Consumer Electronics	1
+Garden	1
+Video Games	1
+Books	1
+Consumer Electronics	1
+Crafts	1
+Consumer Electronics	1
+Men's Clothing	1
+Health and Beauty	1
+Garden	1
+Books	1
+Health and Beauty	1
+Toys	1
+Crafts	1
+Baby	1
+DVDs	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+CDs	1
+CDs	1
+DVDs	1
+Consumer Electronics	1
+Crafts	1
+Books	1
+DVDs	1
+Baby	1
+Pet Supplies	1
+Women's Clothing	1
+Books	1
+Consumer Electronics	1
+DVDs	1
+Women's Clothing	1
+Children's Clothing	1
+DVDs	1
+Computers	1
+CDs	1
+Music	1
+Women's Clothing	1
+Garden	1
+Books	1
+Consumer Electronics	1
+Crafts	1
+Men's Clothing	1
+Consumer Electronics	1
+Music	1
+Books	1
+CDs	1
+Toys	1
+Men's Clothing	1
+Pet Supplies	1
+Cameras	1
+Computers	1
+Video Games	1
+Pet Supplies	1
+Music	1
+Computers	1
+Garden	1
+Children's Clothing	1
+Garden	1
+Consumer Electronics	1
+CDs	1
+Books	1
+Books	1
+DVDs	1
+Video Games	1
+Health and Beauty	1
+Women's Clothing	1
+Video Games	1
+Health and Beauty	1
+Computers	1
+Music	1
+Music	1
+Women's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+CDs	1
+DVDs	1
+Toys	1
+Cameras	1
+Pet Supplies	1
+Consumer Electronics	1
+Women's Clothing	1
+Sporting Goods	1
+Garden	1
+Books	1
+Men's Clothing	1
+Men's Clothing	1
+Garden	1
+Computers	1
+Computers	1
+Baby	1
+Garden	1
+DVDs	1
+Men's Clothing	1
+Baby	1
+Video Games	1
+Children's Clothing	1
+Books	1
+Crafts	1
+Books	1
+Cameras	1
+DVDs	1
+Men's Clothing	1
+Music	1
+Consumer Electronics	1
+Computers	1
+DVDs	1
+Health and Beauty	1
+Music	1
+Toys	1
+Video Games	1
+Sporting Goods	1
+Pet Supplies	1
+Garden	1
+Sporting Goods	1
+Garden	1
+CDs	1
+DVDs	1
+Garden	1
+Computers	1
+CDs	1
+Toys	1
+Women's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Baby	1
+Baby	1
+Pet Supplies	1
+Pet Supplies	1
+Books	1
+Cameras	1
+Children's Clothing	1
+Toys	1
+Music	1
+Garden	1
+Baby	1
+Toys	1
+Pet Supplies	1
+Computers	1
+Baby	1
+Crafts	1
+Sporting Goods	1
+Crafts	1
+Women's Clothing	1
+Toys	1
+Video Games	1
+Health and Beauty	1
+Garden	1
+Pet Supplies	1
+Video Games	1
+Video Games	1
+Cameras	1
+Crafts	1
+Music	1
+Toys	1
+Video Games	1
+Consumer Electronics	1
+Health and Beauty	1
+DVDs	1
+Health and Beauty	1
+Women's Clothing	1
+Books	1
+Cameras	1
+Music	1
+DVDs	1
+Toys	1
+DVDs	1
+Women's Clothing	1
+Health and Beauty	1
+Toys	1
+Baby	1
+Consumer Electronics	1
+Books	1
+Video Games	1
+Toys	1
+Cameras	1
+Crafts	1
+Toys	1
+Music	1
+Children's Clothing	1
+Computers	1
+Health and Beauty	1
+Cameras	1
+CDs	1
+Men's Clothing	1
+Baby	1
+Cameras	1
+Books	1
+Sporting Goods	1
+Women's Clothing	1
+Health and Beauty	1
+Crafts	1
+Cameras	1
+Music	1
+Computers	1
+Video Games	1
+Books	1
+Pet Supplies	1
+Music	1
+DVDs	1
+Children's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+Computers	1
+CDs	1
+Children's Clothing	1
+Consumer Electronics	1
+Computers	1
+Health and Beauty	1
+Baby	1
+Baby	1
+Books	1
+Women's Clothing	1
+Books	1
+Baby	1
+CDs	1
+Health and Beauty	1
+Sporting Goods	1
+Pet Supplies	1
+Cameras	1
+Sporting Goods	1
+Health and Beauty	1
+Sporting Goods	1
+Computers	1
+Men's Clothing	1
+DVDs	1
+Pet Supplies	1
+DVDs	1
+DVDs	1
+Consumer Electronics	1
+Men's Clothing	1
+DVDs	1
+Computers	1
+Cameras	1
+Video Games	1
+Video Games	1
+Sporting Goods	1
+CDs	1
+Children's Clothing	1
+Consumer Electronics	1
+Books	1
+Video Games	1
+CDs	1
+Health and Beauty	1
+Pet Supplies	1
+Health and Beauty	1
+Toys	1
+Computers	1
+Health and Beauty	1
+Toys	1
+Music	1
+Crafts	1
+DVDs	1
+Sporting Goods	1
+Sporting Goods	1
+DVDs	1
+Computers	1
+Crafts	1
+Men's Clothing	1
+DVDs	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+DVDs	1
+Sporting Goods	1
+Sporting Goods	1
+Video Games	1
+Children's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Garden	1
+Video Games	1
+Health and Beauty	1
+Books	1
+Garden	1
+Health and Beauty	1
+Pet Supplies	1
+Crafts	1
+Toys	1
+Computers	1
+Music	1
+CDs	1
+DVDs	1
+Consumer Electronics	1
+Toys	1
+Garden	1
+Garden	1
+Pet Supplies	1
+CDs	1
+Women's Clothing	1
+Men's Clothing	1
+Garden	1
+Pet Supplies	1
+Books	1
+Video Games	1
+Health and Beauty	1
+Health and Beauty	1
+Computers	1
+Baby	1
+Men's Clothing	1
+Computers	1
+Computers	1
+DVDs	1
+Toys	1
+Video Games	1
+Toys	1
+Garden	1
+Children's Clothing	1
+Baby	1
+Garden	1
+Cameras	1
+Women's Clothing	1
+Women's Clothing	1
+Computers	1
+Pet Supplies	1
+Computers	1
+Women's Clothing	1
+Children's Clothing	1
+Computers	1
+Consumer Electronics	1
+Music	1
+Baby	1
+Health and Beauty	1
+Books	1
+Books	1
+Women's Clothing	1
+Music	1
+Health and Beauty	1
+Toys	1
+DVDs	1
+Cameras	1
+Video Games	1
+Children's Clothing	1
+Toys	1
+Garden	1
+DVDs	1
+Women's Clothing	1
+Health and Beauty	1
+Books	1
+Cameras	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Sporting Goods	1
+Sporting Goods	1
+Crafts	1
+Children's Clothing	1
+Consumer Electronics	1
+CDs	1
+Toys	1
+Crafts	1
+Cameras	1
+Sporting Goods	1
+DVDs	1
+Books	1
+Children's Clothing	1
+Consumer Electronics	1
+Baby	1
+DVDs	1
+Garden	1
+Cameras	1
+Computers	1
+Women's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+CDs	1
+Pet Supplies	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+CDs	1
+Books	1
+DVDs	1
+Music	1
+Pet Supplies	1
+CDs	1
+Garden	1
+Video Games	1
+Women's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+Computers	1
+Computers	1
+Toys	1
+DVDs	1
+Women's Clothing	1
+Men's Clothing	1
+Sporting Goods	1
+Cameras	1
+Computers	1
+Books	1
+Pet Supplies	1
+Computers	1
+Children's Clothing	1
+Consumer Electronics	1
+Books	1
+Video Games	1
+Video Games	1
+Toys	1
+Sporting Goods	1
+Sporting Goods	1
+Garden	1
+Women's Clothing	1
+Video Games	1
+Computers	1
+Crafts	1
+Crafts	1
+CDs	1
+Consumer Electronics	1
+Garden	1
+Computers	1
+CDs	1
+Computers	1
+Books	1
+Video Games	1
+Cameras	1
+DVDs	1
+Children's Clothing	1
+Toys	1
+Sporting Goods	1
+Women's Clothing	1
+Crafts	1
+Garden	1
+Pet Supplies	1
+Pet Supplies	1
+Men's Clothing	1
+Sporting Goods	1
+DVDs	1
+Pet Supplies	1
+Women's Clothing	1
+Pet Supplies	1
+CDs	1
+Pet Supplies	1
+Crafts	1
+Baby	1
+Consumer Electronics	1
+Children's Clothing	1
+Toys	1
+Computers	1
+Baby	1
+Garden	1
+Toys	1
+Men's Clothing	1
+Music	1
+Children's Clothing	1
+CDs	1
+Pet Supplies	1
+Music	1
+Health and Beauty	1
+Men's Clothing	1
+Baby	1
+Cameras	1
+Books	1
+DVDs	1
+CDs	1
+DVDs	1
+Men's Clothing	1
+Women's Clothing	1
+Baby	1
+Men's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+Health and Beauty	1
+Children's Clothing	1
+Garden	1
+Sporting Goods	1
+CDs	1
+CDs	1
+Pet Supplies	1
+Consumer Electronics	1
+Health and Beauty	1
+Sporting Goods	1
+Computers	1
+Sporting Goods	1
+Video Games	1
+Computers	1
+Sporting Goods	1
+Crafts	1
+Health and Beauty	1
+Sporting Goods	1
+Toys	1
+Garden	1
+Health and Beauty	1
+Crafts	1
+Women's Clothing	1
+Cameras	1
+Video Games	1
+DVDs	1
+Children's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Cameras	1
+Sporting Goods	1
+Men's Clothing	1
+Crafts	1
+Baby	1
+Toys	1
+Consumer Electronics	1
+CDs	1
+Toys	1
+Music	1
+Cameras	1
+Video Games	1
+Women's Clothing	1
+Music	1
+Children's Clothing	1
+Toys	1
+Pet Supplies	1
+Garden	1
+Cameras	1
+Garden	1
+Video Games	1
+Toys	1
+Baby	1
+Books	1
+Consumer Electronics	1
+CDs	1
+Crafts	1
+Baby	1
+Crafts	1
+Children's Clothing	1
+Garden	1
+Health and Beauty	1
+Children's Clothing	1
+Video Games	1
+Toys	1
+Crafts	1
+Women's Clothing	1
+DVDs	1
+Pet Supplies	1
+CDs	1
+Men's Clothing	1
+Pet Supplies	1
+Garden	1
+Sporting Goods	1
+Consumer Electronics	1
+Children's Clothing	1
+Toys	1
+Video Games	1
+Health and Beauty	1
+Books	1
+Music	1
+Men's Clothing	1
+Health and Beauty	1
+Crafts	1
+Consumer Electronics	1
+Consumer Electronics	1
+Crafts	1
+Garden	1
+Books	1
+Cameras	1
+Women's Clothing	1
+Baby	1
+Men's Clothing	1
+Pet Supplies	1
+Baby	1
+Men's Clothing	1
+Toys	1
+Music	1
+Sporting Goods	1
+Baby	1
+Men's Clothing	1
+DVDs	1
+Children's Clothing	1
+DVDs	1
+Cameras	1
+Music	1
+Garden	1
+Pet Supplies	1
+Pet Supplies	1
+Music	1
+Sporting Goods	1
+Cameras	1
+Cameras	1
+Music	1
+Books	1
+Children's Clothing	1
+Baby	1
+Women's Clothing	1
+Computers	1
+Consumer Electronics	1
+Consumer Electronics	1
+Pet Supplies	1
+Video Games	1
+Garden	1
+Crafts	1
+Pet Supplies	1
+Video Games	1
+CDs	1
+Health and Beauty	1
+Women's Clothing	1
+Sporting Goods	1
+Video Games	1
+Video Games	1
+Video Games	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Toys	1
+Pet Supplies	1
+Computers	1
+Toys	1
+Music	1
+Garden	1
+Sporting Goods	1
+Cameras	1
+Children's Clothing	1
+Consumer Electronics	1
+Cameras	1
+Music	1
+Men's Clothing	1
+Books	1
+Cameras	1
+Cameras	1
+Sporting Goods	1
+Baby	1
+Cameras	1
+Baby	1
+Garden	1
+Consumer Electronics	1
+Women's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Music	1
+Toys	1
+Women's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+CDs	1
+Crafts	1
+Baby	1
+Consumer Electronics	1
+Children's Clothing	1
+Health and Beauty	1
+Garden	1
+Toys	1
+Sporting Goods	1
+Books	1
+Sporting Goods	1
+CDs	1
+Music	1
+Crafts	1
+Sporting Goods	1
+Books	1
+Men's Clothing	1
+Computers	1
+Books	1
+Books	1
+Pet Supplies	1
+Pet Supplies	1
+Baby	1
+Children's Clothing	1
+CDs	1
+Health and Beauty	1
+Consumer Electronics	1
+Crafts	1
+Health and Beauty	1
+DVDs	1
+Women's Clothing	1
+Books	1
+Computers	1
+Garden	1
+CDs	1
+Sporting Goods	1
+Men's Clothing	1
+Garden	1
+Garden	1
+Computers	1
+Sporting Goods	1
+Computers	1
+Sporting Goods	1
+Garden	1
+DVDs	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Garden	1
+Children's Clothing	1
+Cameras	1
+Books	1
+Crafts	1
+Video Games	1
+Women's Clothing	1
+Toys	1
+CDs	1
+DVDs	1
+Men's Clothing	1
+Pet Supplies	1
+Men's Clothing	1
+Garden	1
+Cameras	1
+Men's Clothing	1
+Men's Clothing	1
+Video Games	1
+Women's Clothing	1
+CDs	1
+Women's Clothing	1
+Sporting Goods	1
+Health and Beauty	1
+Books	1
+Computers	1
+Music	1
+Toys	1
+Music	1
+Pet Supplies	1
+Health and Beauty	1
+Crafts	1
+Books	1
+DVDs	1
+Video Games	1
+DVDs	1
+Crafts	1
+Men's Clothing	1
+Books	1
+CDs	1
+Computers	1
+Sporting Goods	1
+Video Games	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Crafts	1
+Crafts	1
+Sporting Goods	1
+Men's Clothing	1
+Garden	1
+Pet Supplies	1
+Baby	1
+Children's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Children's Clothing	1
+Baby	1
+Pet Supplies	1
+Music	1
+Consumer Electronics	1
+Women's Clothing	1
+Garden	1
+Men's Clothing	1
+Garden	1
+Cameras	1
+Crafts	1
+Sporting Goods	1
+Music	1
+Books	1
+Health and Beauty	1
+Music	1
+Video Games	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Women's Clothing	1
+Children's Clothing	1
+Crafts	1
+Men's Clothing	1
+Music	1
+Books	1
+Garden	1
+Women's Clothing	1
+Baby	1
+Men's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Books	1
+Women's Clothing	1
+Books	1
+Books	1
+Women's Clothing	1
+Consumer Electronics	1
+Children's Clothing	1
+Men's Clothing	1
+CDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+Cameras	1
+Books	1
+Health and Beauty	1
+Women's Clothing	1
+Crafts	1
+Women's Clothing	1
+Music	1
+Video Games	1
+Consumer Electronics	1
+Men's Clothing	1
+Books	1
+CDs	1
+DVDs	1
+Video Games	1
+DVDs	1
+Computers	1
+Men's Clothing	1
+Crafts	1
+Consumer Electronics	1
+Crafts	1
+Books	1
+Garden	1
+Crafts	1
+Children's Clothing	1
+Sporting Goods	1
+Toys	1
+Computers	1
+Women's Clothing	1
+Books	1
+Consumer Electronics	1
+DVDs	1
+Toys	1
+Health and Beauty	1
+Baby	1
+Baby	1
+Crafts	1
+Books	1
+Health and Beauty	1
+Garden	1
+Music	1
+Baby	1
+Health and Beauty	1
+Video Games	1
+Computers	1
+Women's Clothing	1
+CDs	1
+Consumer Electronics	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Pet Supplies	1
+Children's Clothing	1
+Crafts	1
+Video Games	1
+Women's Clothing	1
+Computers	1
+Women's Clothing	1
+Books	1
+Crafts	1
+Children's Clothing	1
+Baby	1
+Music	1
+Health and Beauty	1
+Toys	1
+DVDs	1
+Men's Clothing	1
+Books	1
+Music	1
+Men's Clothing	1
+DVDs	1
+Music	1
+Video Games	1
+Baby	1
+CDs	1
+Men's Clothing	1
+Men's Clothing	1
+Cameras	1
+DVDs	1
+Sporting Goods	1
+Pet Supplies	1
+Health and Beauty	1
+Baby	1
+Health and Beauty	1
+Garden	1
+Garden	1
+Sporting Goods	1
+Consumer Electronics	1
+Baby	1
+CDs	1
+Children's Clothing	1
+Men's Clothing	1
+Garden	1
+Children's Clothing	1
+Health and Beauty	1
+Toys	1
+Video Games	1
+Books	1
+Music	1
+Music	1
+Toys	1
+Pet Supplies	1
+Toys	1
+Sporting Goods	1
+Baby	1
+Baby	1
+Computers	1
+Sporting Goods	1
+Garden	1
+Women's Clothing	1
+Pet Supplies	1
+Cameras	1
+Books	1
+DVDs	1
+Pet Supplies	1
+Computers	1
+Pet Supplies	1
+Pet Supplies	1
+Health and Beauty	1
+Men's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+Toys	1
+DVDs	1
+Children's Clothing	1
+Video Games	1
+Garden	1
+DVDs	1
+Health and Beauty	1
+Health and Beauty	1
+DVDs	1
+Garden	1
+Toys	1
+Health and Beauty	1
+Consumer Electronics	1
+Women's Clothing	1
+Sporting Goods	1
+Garden	1
+Health and Beauty	1
+Baby	1
+Crafts	1
+Computers	1
+Women's Clothing	1
+Consumer Electronics	1
+Children's Clothing	1
+Sporting Goods	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+Health and Beauty	1
+Music	1
+Books	1
+Books	1
+Men's Clothing	1
+CDs	1
+DVDs	1
+Video Games	1
+Health and Beauty	1
+Computers	1
+Video Games	1
+Crafts	1
+Children's Clothing	1
+Music	1
+CDs	1
+Video Games	1
+Cameras	1
+Sporting Goods	1
+Pet Supplies	1
+Pet Supplies	1
+Men's Clothing	1
+Music	1
+Cameras	1
+CDs	1
+Pet Supplies	1
+Video Games	1
+Video Games	1
+Men's Clothing	1
+Children's Clothing	1
+DVDs	1
+Consumer Electronics	1
+Crafts	1
+Computers	1
+Men's Clothing	1
+Children's Clothing	1
+Toys	1
+Books	1
+Video Games	1
+Women's Clothing	1
+Video Games	1
+Women's Clothing	1
+CDs	1
+Cameras	1
+Crafts	1
+Consumer Electronics	1
+Children's Clothing	1
+Children's Clothing	1
+Baby	1
+Health and Beauty	1
+CDs	1
+Consumer Electronics	1
+Pet Supplies	1
+CDs	1
+Men's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Consumer Electronics	1
+Children's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Video Games	1
+Books	1
+CDs	1
+Garden	1
+Crafts	1
+Children's Clothing	1
+Crafts	1
+Baby	1
+Women's Clothing	1
+Crafts	1
+Crafts	1
+Health and Beauty	1
+DVDs	1
+Men's Clothing	1
+Pet Supplies	1
+Consumer Electronics	1
+Toys	1
+Computers	1
+Music	1
+Children's Clothing	1
+Video Games	1
+Computers	1
+Toys	1
+Children's Clothing	1
+DVDs	1
+Computers	1
+Computers	1
+Pet Supplies	1
+Crafts	1
+Pet Supplies	1
+Children's Clothing	1
+Baby	1
+Toys	1
+Sporting Goods	1
+Women's Clothing	1
+DVDs	1
+Toys	1
+Consumer Electronics	1
+Toys	1
+Toys	1
+Crafts	1
+Consumer Electronics	1
+Toys	1
+Garden	1
+Music	1
+Crafts	1
+Health and Beauty	1
+Garden	1
+Women's Clothing	1
+Garden	1
+Consumer Electronics	1
+DVDs	1
+DVDs	1
+Cameras	1
+Children's Clothing	1
+Crafts	1
+Music	1
+CDs	1
+CDs	1
+Sporting Goods	1
+Children's Clothing	1
+CDs	1
+Health and Beauty	1
+CDs	1
+DVDs	1
+Baby	1
+Garden	1
+Baby	1
+CDs	1
+Baby	1
+Video Games	1
+Books	1
+Cameras	1
+Men's Clothing	1
+Video Games	1
+Books	1
+CDs	1
+Video Games	1
+Crafts	1
+Crafts	1
+Books	1
+DVDs	1
+Computers	1
+Crafts	1
+Music	1
+Women's Clothing	1
+Men's Clothing	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+Pet Supplies	1
+Music	1
+Video Games	1
+Women's Clothing	1
+Children's Clothing	1
+Garden	1
+Men's Clothing	1
+DVDs	1
+Men's Clothing	1
+Children's Clothing	1
+Books	1
+Video Games	1
+Books	1
+Women's Clothing	1
+Men's Clothing	1
+CDs	1
+Video Games	1
+Garden	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Cameras	1
+Crafts	1
+CDs	1
+Music	1
+Cameras	1
+Baby	1
+Crafts	1
+Pet Supplies	1
+Crafts	1
+DVDs	1
+Toys	1
+Books	1
+Men's Clothing	1
+Men's Clothing	1
+Crafts	1
+CDs	1
+Books	1
+Books	1
+Music	1
+Computers	1
+Video Games	1
+Consumer Electronics	1
+Video Games	1
+Crafts	1
+Health and Beauty	1
+Women's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Computers	1
+Pet Supplies	1
+Consumer Electronics	1
+Health and Beauty	1
+DVDs	1
+Pet Supplies	1
+Music	1
+Men's Clothing	1
+Toys	1
+Books	1
+DVDs	1
+Video Games	1
+Men's Clothing	1
+Consumer Electronics	1
+Video Games	1
+Cameras	1
+DVDs	1
+Garden	1
+Children's Clothing	1
+Garden	1
+Toys	1
+Toys	1
+Children's Clothing	1
+DVDs	1
+Cameras	1
+Sporting Goods	1
+Women's Clothing	1
+CDs	1
+Men's Clothing	1
+Health and Beauty	1
+Computers	1
+Video Games	1
+CDs	1
+Crafts	1
+Garden	1
+Health and Beauty	1
+Baby	1
+Health and Beauty	1
+Cameras	1
+Cameras	1
+Video Games	1
+Books	1
+Children's Clothing	1
+Cameras	1
+Crafts	1
+Baby	1
+Video Games	1
+Computers	1
+Consumer Electronics	1
+Women's Clothing	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+Music	1
+Music	1
+Sporting Goods	1
+Men's Clothing	1
+Cameras	1
+Toys	1
+CDs	1
+Baby	1
+Health and Beauty	1
+Video Games	1
+Computers	1
+DVDs	1
+Garden	1
+Consumer Electronics	1
+Women's Clothing	1
+Women's Clothing	1
+Video Games	1
+Music	1
+Video Games	1
+Music	1
+Children's Clothing	1
+Sporting Goods	1
+Men's Clothing	1
+Pet Supplies	1
+Health and Beauty	1
+Toys	1
+Music	1
+Children's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Video Games	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Baby	1
+Sporting Goods	1
+Books	1
+Children's Clothing	1
+Video Games	1
+Sporting Goods	1
+Toys	1
+Music	1
+Computers	1
+Books	1
+Books	1
+Consumer Electronics	1
+Sporting Goods	1
+Toys	1
+Children's Clothing	1
+Children's Clothing	1
+Cameras	1
+DVDs	1
+Computers	1
+Garden	1
+Men's Clothing	1
+DVDs	1
+Computers	1
+Women's Clothing	1
+Computers	1
+Baby	1
+Consumer Electronics	1
+Books	1
+Consumer Electronics	1
+Children's Clothing	1
+Pet Supplies	1
+Children's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Video Games	1
+Baby	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Men's Clothing	1
+DVDs	1
+Pet Supplies	1
+CDs	1
+Health and Beauty	1
+Health and Beauty	1
+Sporting Goods	1
+Pet Supplies	1
+Men's Clothing	1
+Health and Beauty	1
+Computers	1
+Video Games	1
+Video Games	1
+DVDs	1
+Garden	1
+CDs	1
+Baby	1
+Women's Clothing	1
+Computers	1
+Men's Clothing	1
+Cameras	1
+Cameras	1
+Books	1
+DVDs	1
+Women's Clothing	1
+Music	1
+Baby	1
+Health and Beauty	1
+Cameras	1
+Baby	1
+Health and Beauty	1
+CDs	1
+Consumer Electronics	1
+Children's Clothing	1
+Toys	1
+Baby	1
+Computers	1
+Men's Clothing	1
+Garden	1
+Crafts	1
+Computers	1
+Women's Clothing	1
+Children's Clothing	1
+Garden	1
+Crafts	1
+Crafts	1
+Video Games	1
+Health and Beauty	1
+Books	1
+Women's Clothing	1
+Cameras	1
+Men's Clothing	1
+Music	1
+Music	1
+DVDs	1
+Crafts	1
+Computers	1
+Pet Supplies	1
+Cameras	1
+Cameras	1
+Garden	1
+Cameras	1
+Men's Clothing	1
+Women's Clothing	1
+Women's Clothing	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+Pet Supplies	1
+Sporting Goods	1
+Health and Beauty	1
+Music	1
+Crafts	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Garden	1
+Music	1
+Toys	1
+Books	1
+Health and Beauty	1
+Women's Clothing	1
+Books	1
+CDs	1
+Consumer Electronics	1
+Consumer Electronics	1
+Men's Clothing	1
+Crafts	1
+Cameras	1
+DVDs	1
+Crafts	1
+Garden	1
+Health and Beauty	1
+Health and Beauty	1
+DVDs	1
+Computers	1
+Cameras	1
+CDs	1
+Consumer Electronics	1
+Pet Supplies	1
+Cameras	1
+DVDs	1
+Crafts	1
+Garden	1
+Pet Supplies	1
+Women's Clothing	1
+Sporting Goods	1
+Pet Supplies	1
+Garden	1
+Health and Beauty	1
+Pet Supplies	1
+Women's Clothing	1
+Baby	1
+Pet Supplies	1
+Pet Supplies	1
+Men's Clothing	1
+CDs	1
+Books	1
+Health and Beauty	1
+Computers	1
+Crafts	1
+Pet Supplies	1
+Crafts	1
+CDs	1
+Sporting Goods	1
+Consumer Electronics	1
+Toys	1
+Health and Beauty	1
+Sporting Goods	1
+Men's Clothing	1
+DVDs	1
+Toys	1
+Crafts	1
+Garden	1
+Cameras	1
+Computers	1
+Sporting Goods	1
+Men's Clothing	1
+Toys	1
+DVDs	1
+Women's Clothing	1
+Crafts	1
+Sporting Goods	1
+Music	1
+Children's Clothing	1
+Garden	1
+Baby	1
+Children's Clothing	1
+Toys	1
+DVDs	1
+Books	1
+Women's Clothing	1
+Music	1
+Men's Clothing	1
+Books	1
+Video Games	1
+Baby	1
+Sporting Goods	1
+Crafts	1
+CDs	1
+CDs	1
+Cameras	1
+Men's Clothing	1
+Baby	1
+Books	1
+Computers	1
+Women's Clothing	1
+Toys	1
+Books	1
+Men's Clothing	1
+Men's Clothing	1
+Cameras	1
+Consumer Electronics	1
+DVDs	1
+Men's Clothing	1
+Men's Clothing	1
+Toys	1
+DVDs	1
+Music	1
+Baby	1
+Men's Clothing	1
+Toys	1
+Baby	1
+Sporting Goods	1
+Books	1
+Consumer Electronics	1
+Computers	1
+Pet Supplies	1
+Sporting Goods	1
+Music	1
+Video Games	1
+Pet Supplies	1
+Music	1
+CDs	1
+Children's Clothing	1
+Video Games	1
+Health and Beauty	1
+Cameras	1
+Consumer Electronics	1
+Consumer Electronics	1
+Children's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+Computers	1
+Garden	1
+Crafts	1
+Toys	1
+Health and Beauty	1
+Cameras	1
+Pet Supplies	1
+Toys	1
+Music	1
+Consumer Electronics	1
+Computers	1
+Men's Clothing	1
+Cameras	1
+Sporting Goods	1
+Men's Clothing	1
+Toys	1
+Books	1
+Cameras	1
+Children's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Baby	1
+Pet Supplies	1
+CDs	1
+Baby	1
+Cameras	1
+Crafts	1
+Music	1
+Consumer Electronics	1
+CDs	1
+Books	1
+Toys	1
+Computers	1
+Books	1
+Toys	1
+Toys	1
+Men's Clothing	1
+Men's Clothing	1
+Baby	1
+Children's Clothing	1
+Baby	1
+Pet Supplies	1
+Baby	1
+Sporting Goods	1
+DVDs	1
+Video Games	1
+Consumer Electronics	1
+Music	1
+Men's Clothing	1
+Consumer Electronics	1
+Toys	1
+Cameras	1
+CDs	1
+Garden	1
+Consumer Electronics	1
+DVDs	1
+Children's Clothing	1
+Toys	1
+Children's Clothing	1
+Music	1
+Women's Clothing	1
+Video Games	1
+Men's Clothing	1
+CDs	1
+Baby	1
+Baby	1
+Children's Clothing	1
+Sporting Goods	1
+Crafts	1
+Pet Supplies	1
+Garden	1
+Video Games	1
+Sporting Goods	1
+Women's Clothing	1
+Pet Supplies	1
+DVDs	1
+Books	1
+Books	1
+Music	1
+Crafts	1
+CDs	1
+Health and Beauty	1
+Toys	1
+Cameras	1
+Men's Clothing	1
+Men's Clothing	1
+Crafts	1
+Health and Beauty	1
+Consumer Electronics	1
+Books	1
+Video Games	1
+Toys	1
+Books	1
+Toys	1
+Baby	1
+Sporting Goods	1
+Sporting Goods	1
+Health and Beauty	1
+CDs	1
+Crafts	1
+Books	1
+Garden	1
+CDs	1
+Men's Clothing	1
+Baby	1
+Baby	1
+Pet Supplies	1
+Cameras	1
+Baby	1
+Video Games	1
+Music	1
+Books	1
+Music	1
+Cameras	1
+Computers	1
+Music	1
+Music	1
+Garden	1
+Men's Clothing	1
+Books	1
+Sporting Goods	1
+Video Games	1
+Consumer Electronics	1
+Sporting Goods	1
+Toys	1
+Cameras	1
+Computers	1
+Books	1
+Crafts	1
+Health and Beauty	1
+Computers	1
+Toys	1
+Video Games	1
+Women's Clothing	1
+Children's Clothing	1
+Video Games	1
+Video Games	1
+Pet Supplies	1
+Video Games	1
+Children's Clothing	1
+Crafts	1
+Pet Supplies	1
+Garden	1
+CDs	1
+Books	1
+CDs	1
+Crafts	1
+Health and Beauty	1
+Pet Supplies	1
+Toys	1
+CDs	1
+Pet Supplies	1
+Video Games	1
+Consumer Electronics	1
+Women's Clothing	1
+Music	1
+DVDs	1
+Video Games	1
+Toys	1
+Music	1
+Toys	1
+Men's Clothing	1
+Baby	1
+Sporting Goods	1
+Crafts	1
+Crafts	1
+Pet Supplies	1
+Video Games	1
+DVDs	1
+Baby	1
+Crafts	1
+Crafts	1
+Computers	1
+Women's Clothing	1
+CDs	1
+Garden	1
+Video Games	1
+Consumer Electronics	1
+Health and Beauty	1
+Consumer Electronics	1
+DVDs	1
+Men's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Consumer Electronics	1
+Crafts	1
+Baby	1
+Sporting Goods	1
+Children's Clothing	1
+Video Games	1
+Sporting Goods	1
+Video Games	1
+Health and Beauty	1
+Cameras	1
+Men's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Toys	1
+Video Games	1
+Video Games	1
+Video Games	1
+Video Games	1
+Baby	1
+Video Games	1
+Consumer Electronics	1
+Books	1
+Books	1
+Garden	1
+Video Games	1
+Video Games	1
+Computers	1
+DVDs	1
+Crafts	1
+Consumer Electronics	1
+Women's Clothing	1
+Children's Clothing	1
+Music	1
+Baby	1
+Women's Clothing	1
+DVDs	1
+Computers	1
+Health and Beauty	1
+Consumer Electronics	1
+Garden	1
+Cameras	1
+Consumer Electronics	1
+Crafts	1
+Toys	1
+Video Games	1
+Crafts	1
+Music	1
+DVDs	1
+Music	1
+Cameras	1
+Books	1
+Baby	1
+Music	1
+Women's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Video Games	1
+Music	1
+Men's Clothing	1
+DVDs	1
+CDs	1
+Books	1
+Garden	1
+Video Games	1
+Pet Supplies	1
+Baby	1
+Children's Clothing	1
+DVDs	1
+Pet Supplies	1
+Cameras	1
+Toys	1
+Sporting Goods	1
+Computers	1
+CDs	1
+Video Games	1
+Pet Supplies	1
+Cameras	1
+Men's Clothing	1
+DVDs	1
+Crafts	1
+Children's Clothing	1
+Baby	1
+Books	1
+Music	1
+Sporting Goods	1
+DVDs	1
+Computers	1
+Computers	1
+Sporting Goods	1
+DVDs	1
+Books	1
+Women's Clothing	1
+Baby	1
+Video Games	1
+Toys	1
+Pet Supplies	1
+Garden	1
+Pet Supplies	1
+Cameras	1
+Music	1
+Baby	1
+Women's Clothing	1
+CDs	1
+Men's Clothing	1
+Books	1
+Garden	1
+Children's Clothing	1
+Books	1
+Crafts	1
+Pet Supplies	1
+Music	1
+DVDs	1
+Men's Clothing	1
+Cameras	1
+Health and Beauty	1
+Cameras	1
+Men's Clothing	1
+Cameras	1
+Toys	1
+Baby	1
+Women's Clothing	1
+Women's Clothing	1
+Garden	1
+Music	1
+Garden	1
+CDs	1
+Video Games	1
+Women's Clothing	1
+Garden	1
+Pet Supplies	1
+Sporting Goods	1
+Baby	1
+Health and Beauty	1
+DVDs	1
+Toys	1
+Garden	1
+Computers	1
+Pet Supplies	1
+DVDs	1
+Children's Clothing	1
+Baby	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+DVDs	1
+Cameras	1
+Video Games	1
+Baby	1
+Men's Clothing	1
+DVDs	1
+Baby	1
+DVDs	1
+Garden	1
+Pet Supplies	1
+Pet Supplies	1
+Crafts	1
+Music	1
+Video Games	1
+Baby	1
+Cameras	1
+DVDs	1
+CDs	1
+Sporting Goods	1
+Sporting Goods	1
+Books	1
+CDs	1
+Men's Clothing	1
+DVDs	1
+Garden	1
+Women's Clothing	1
+Computers	1
+Men's Clothing	1
+Health and Beauty	1
+Baby	1
+Books	1
+Consumer Electronics	1
+Crafts	1
+Health and Beauty	1
+Books	1
+CDs	1
+DVDs	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Men's Clothing	1
+Consumer Electronics	1
+Video Games	1
+Pet Supplies	1
+Cameras	1
+Books	1
+Women's Clothing	1
+Toys	1
+Toys	1
+DVDs	1
+Pet Supplies	1
+Pet Supplies	1
+Women's Clothing	1
+Sporting Goods	1
+Video Games	1
+Women's Clothing	1
+Computers	1
+Garden	1
+Computers	1
+Sporting Goods	1
+Women's Clothing	1
+Children's Clothing	1
+Crafts	1
+Sporting Goods	1
+Pet Supplies	1
+Toys	1
+Music	1
+Sporting Goods	1
+Pet Supplies	1
+Men's Clothing	1
+CDs	1
+Computers	1
+Women's Clothing	1
+Women's Clothing	1
+Women's Clothing	1
+Men's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Pet Supplies	1
+Health and Beauty	1
+DVDs	1
+CDs	1
+Sporting Goods	1
+CDs	1
+Video Games	1
+Video Games	1
+Cameras	1
+Books	1
+Sporting Goods	1
+Crafts	1
+Music	1
+Video Games	1
+Sporting Goods	1
+Music	1
+Computers	1
+Computers	1
+Garden	1
+Crafts	1
+Men's Clothing	1
+Toys	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Children's Clothing	1
+Health and Beauty	1
+Cameras	1
+Health and Beauty	1
+Women's Clothing	1
+Toys	1
+Video Games	1
+Cameras	1
+Cameras	1
+Crafts	1
+Computers	1
+Toys	1
+Men's Clothing	1
+Crafts	1
+Children's Clothing	1
+Sporting Goods	1
+CDs	1
+Sporting Goods	1
+Books	1
+Baby	1
+Toys	1
+Men's Clothing	1
+DVDs	1
+Baby	1
+Consumer Electronics	1
+Books	1
+Women's Clothing	1
+Health and Beauty	1
+CDs	1
+Children's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Garden	1
+Crafts	1
+Video Games	1
+Books	1
+Cameras	1
+CDs	1
+Music	1
+DVDs	1
+Books	1
+Consumer Electronics	1
+Women's Clothing	1
+Computers	1
+Toys	1
+Books	1
+Consumer Electronics	1
+Video Games	1
+Computers	1
+Garden	1
+CDs	1
+Baby	1
+Baby	1
+Video Games	1
+Baby	1
+Health and Beauty	1
+Music	1
+Crafts	1
+Pet Supplies	1
+Children's Clothing	1
+Computers	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Men's Clothing	1
+Crafts	1
+DVDs	1
+DVDs	1
+Toys	1
+Sporting Goods	1
+Music	1
+Cameras	1
+Music	1
+Men's Clothing	1
+Women's Clothing	1
+Music	1
+Sporting Goods	1
+Music	1
+Pet Supplies	1
+Men's Clothing	1
+Baby	1
+Toys	1
+Crafts	1
+Men's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+Consumer Electronics	1
+Baby	1
+Toys	1
+Men's Clothing	1
+Crafts	1
+Video Games	1
+Video Games	1
+Cameras	1
+Children's Clothing	1
+DVDs	1
+Toys	1
+Garden	1
+Children's Clothing	1
+Cameras	1
+Health and Beauty	1
+Books	1
+Sporting Goods	1
+Music	1
+Children's Clothing	1
+Baby	1
+Sporting Goods	1
+Computers	1
+Women's Clothing	1
+Garden	1
+Video Games	1
+Children's Clothing	1
+Consumer Electronics	1
+Men's Clothing	1
+CDs	1
+Cameras	1
+Baby	1
+Pet Supplies	1
+Computers	1
+Music	1
+Music	1
+Garden	1
+Crafts	1
+Video Games	1
+DVDs	1
+Garden	1
+Sporting Goods	1
+Pet Supplies	1
+Garden	1
+Children's Clothing	1
+Garden	1
+Consumer Electronics	1
+Music	1
+Baby	1
+Baby	1
+Pet Supplies	1
+Cameras	1
+Children's Clothing	1
+Children's Clothing	1
+Music	1
+Toys	1
+Cameras	1
+Computers	1
+Crafts	1
+Women's Clothing	1
+Garden	1
+Health and Beauty	1
+Sporting Goods	1
+Consumer Electronics	1
+Computers	1
+DVDs	1
+Toys	1
+Women's Clothing	1
+Video Games	1
+DVDs	1
+Health and Beauty	1
+Toys	1
+Computers	1
+Children's Clothing	1
+CDs	1
+Cameras	1
+Music	1
+CDs	1
+Pet Supplies	1
+Consumer Electronics	1
+Video Games	1
+Sporting Goods	1
+Sporting Goods	1
+Toys	1
+Pet Supplies	1
+Garden	1
+Cameras	1
+Video Games	1
+Music	1
+Video Games	1
+Pet Supplies	1
+Music	1
+Toys	1
+CDs	1
+Cameras	1
+Health and Beauty	1
+Sporting Goods	1
+Music	1
+Video Games	1
+Pet Supplies	1
+Music	1
+DVDs	1
+Women's Clothing	1
+DVDs	1
+Men's Clothing	1
+Video Games	1
+Baby	1
+Computers	1
+Sporting Goods	1
+Cameras	1
+Baby	1
+Computers	1
+Garden	1
+DVDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Women's Clothing	1
+Toys	1
+Music	1
+Toys	1
+Crafts	1
+Video Games	1
+Cameras	1
+Pet Supplies	1
+Books	1
+Books	1
+Women's Clothing	1
+Garden	1
+Garden	1
+DVDs	1
+Crafts	1
+Pet Supplies	1
+Garden	1
+Consumer Electronics	1
+Women's Clothing	1
+Sporting Goods	1
+Music	1
+Books	1
+Computers	1
+Computers	1
+Women's Clothing	1
+CDs	1
+Sporting Goods	1
+Garden	1
+Computers	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Baby	1
+Consumer Electronics	1
+Health and Beauty	1
+Health and Beauty	1
+Health and Beauty	1
+Crafts	1
+Men's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Health and Beauty	1
+Pet Supplies	1
+Children's Clothing	1
+Toys	1
+DVDs	1
+Video Games	1
+Books	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Children's Clothing	1
+Video Games	1
+Music	1
+Pet Supplies	1
+Sporting Goods	1
+Cameras	1
+Women's Clothing	1
+Sporting Goods	1
+Cameras	1
+Cameras	1
+Music	1
+Books	1
+Consumer Electronics	1
+Baby	1
+Consumer Electronics	1
+Books	1
+Music	1
+Sporting Goods	1
+Cameras	1
+Music	1
+CDs	1
+DVDs	1
+Crafts	1
+Video Games	1
+Consumer Electronics	1
+Garden	1
+Children's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Video Games	1
+Women's Clothing	1
+Sporting Goods	1
+Video Games	1
+Sporting Goods	1
+CDs	1
+Sporting Goods	1
+Sporting Goods	1
+Pet Supplies	1
+Baby	1
+Books	1
+Health and Beauty	1
+Computers	1
+Men's Clothing	1
+Sporting Goods	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Children's Clothing	1
+Pet Supplies	1
+Children's Clothing	1
+CDs	1
+Cameras	1
+Crafts	1
+Pet Supplies	1
+Sporting Goods	1
+Women's Clothing	1
+Video Games	1
+Pet Supplies	1
+Music	1
+DVDs	1
+Video Games	1
+Video Games	1
+Video Games	1
+Video Games	1
+Crafts	1
+Garden	1
+Books	1
+Books	1
+Baby	1
+Toys	1
+Sporting Goods	1
+Women's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Women's Clothing	1
+Consumer Electronics	1
+Consumer Electronics	1
+Women's Clothing	1
+Baby	1
+Garden	1
+Garden	1
+Music	1
+Video Games	1
+Computers	1
+CDs	1
+Sporting Goods	1
+CDs	1
+Video Games	1
+Books	1
+Pet Supplies	1
+Women's Clothing	1
+Garden	1
+Music	1
+Crafts	1
+Consumer Electronics	1
+Children's Clothing	1
+Pet Supplies	1
+Crafts	1
+CDs	1
+Men's Clothing	1
+Books	1
+Men's Clothing	1
+Sporting Goods	1
+Cameras	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Pet Supplies	1
+Video Games	1
+Video Games	1
+Men's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Baby	1
+Men's Clothing	1
+Cameras	1
+Computers	1
+CDs	1
+Garden	1
+CDs	1
+Computers	1
+Children's Clothing	1
+Baby	1
+CDs	1
+Health and Beauty	1
+CDs	1
+Pet Supplies	1
+DVDs	1
+Women's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Cameras	1
+Sporting Goods	1
+Women's Clothing	1
+Cameras	1
+Toys	1
+Women's Clothing	1
+Crafts	1
+Toys	1
+Crafts	1
+Books	1
+Books	1
+DVDs	1
+CDs	1
+Garden	1
+Video Games	1
+Music	1
+Women's Clothing	1
+Computers	1
+Music	1
+Women's Clothing	1
+CDs	1
+Sporting Goods	1
+DVDs	1
+CDs	1
+Computers	1
+Women's Clothing	1
+Music	1
+CDs	1
+Baby	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+Toys	1
+Children's Clothing	1
+Garden	1
+Baby	1
+Garden	1
+Women's Clothing	1
+DVDs	1
+Music	1
+Consumer Electronics	1
+Books	1
+Toys	1
+Men's Clothing	1
+Women's Clothing	1
+Video Games	1
+Crafts	1
+Video Games	1
+DVDs	1
+Consumer Electronics	1
+Computers	1
+Video Games	1
+Music	1
+Pet Supplies	1
+Cameras	1
+Toys	1
+Men's Clothing	1
+Consumer Electronics	1
+Women's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+DVDs	1
+Consumer Electronics	1
+Women's Clothing	1
+Women's Clothing	1
+Baby	1
+Men's Clothing	1
+Computers	1
+Crafts	1
+Toys	1
+Crafts	1
+Video Games	1
+Garden	1
+Books	1
+DVDs	1
+CDs	1
+DVDs	1
+Pet Supplies	1
+Computers	1
+Cameras	1
+Health and Beauty	1
+Computers	1
+DVDs	1
+Books	1
+Books	1
+Crafts	1
+Books	1
+Video Games	1
+Children's Clothing	1
+Crafts	1
+Computers	1
+Cameras	1
+Crafts	1
+Pet Supplies	1
+Health and Beauty	1
+CDs	1
+Children's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+Health and Beauty	1
+CDs	1
+Computers	1
+Music	1
+Music	1
+Music	1
+Cameras	1
+Books	1
+Pet Supplies	1
+Women's Clothing	1
+Toys	1
+CDs	1
+Baby	1
+DVDs	1
+Women's Clothing	1
+CDs	1
+Sporting Goods	1
+Crafts	1
+Computers	1
+Computers	1
+Sporting Goods	1
+Pet Supplies	1
+Books	1
+Garden	1
+Cameras	1
+Toys	1
+Pet Supplies	1
+Men's Clothing	1
+Baby	1
+Health and Beauty	1
+Pet Supplies	1
+Garden	1
+Garden	1
+Consumer Electronics	1
+Baby	1
+Cameras	1
+Cameras	1
+Pet Supplies	1
+Music	1
+Children's Clothing	1
+Music	1
+Garden	1
+Baby	1
+Women's Clothing	1
+Books	1
+Sporting Goods	1
+Women's Clothing	1
+Video Games	1
+Consumer Electronics	1
+Men's Clothing	1
+CDs	1
+Garden	1
+Pet Supplies	1
+Books	1
+Books	1
+Crafts	1
+Garden	1
+Video Games	1
+Consumer Electronics	1
+DVDs	1
+CDs	1
+Health and Beauty	1
+Toys	1
+Video Games	1
+Health and Beauty	1
+Sporting Goods	1
+Toys	1
+Men's Clothing	1
+Toys	1
+Cameras	1
+Video Games	1
+Garden	1
+Sporting Goods	1
+Children's Clothing	1
+Computers	1
+Consumer Electronics	1
+Books	1
+Video Games	1
+Computers	1
+Women's Clothing	1
+Garden	1
+Garden	1
+Men's Clothing	1
+Baby	1
+Garden	1
+Women's Clothing	1
+Video Games	1
+Men's Clothing	1
+DVDs	1
+Garden	1
+Books	1
+Pet Supplies	1
+Video Games	1
+Computers	1
+Crafts	1
+Music	1
+Video Games	1
+Garden	1
+CDs	1
+Crafts	1
+Baby	1
+Health and Beauty	1
+Garden	1
+Sporting Goods	1
+DVDs	1
+Books	1
+Toys	1
+Consumer Electronics	1
+Garden	1
+Children's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Computers	1
+Cameras	1
+Cameras	1
+Garden	1
+Cameras	1
+Men's Clothing	1
+Pet Supplies	1
+CDs	1
+DVDs	1
+Pet Supplies	1
+Women's Clothing	1
+Video Games	1
+Crafts	1
+Computers	1
+Music	1
+CDs	1
+Women's Clothing	1
+Books	1
+Cameras	1
+Pet Supplies	1
+Consumer Electronics	1
+Computers	1
+Video Games	1
+CDs	1
+Computers	1
+Garden	1
+Music	1
+Garden	1
+Baby	1
+Men's Clothing	1
+Crafts	1
+Men's Clothing	1
+DVDs	1
+Pet Supplies	1
+CDs	1
+Pet Supplies	1
+Baby	1
+Computers	1
+Books	1
+Children's Clothing	1
+Consumer Electronics	1
+Books	1
+Garden	1
+CDs	1
+Consumer Electronics	1
+CDs	1
+Pet Supplies	1
+Cameras	1
+Men's Clothing	1
+Computers	1
+Garden	1
+Toys	1
+Health and Beauty	1
+Baby	1
+Music	1
+Books	1
+Music	1
+Baby	1
+Toys	1
+Crafts	1
+Video Games	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+Crafts	1
+Cameras	1
+Consumer Electronics	1
+Sporting Goods	1
+Video Games	1
+Garden	1
+CDs	1
+DVDs	1
+Garden	1
+Books	1
+DVDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Cameras	1
+Children's Clothing	1
+Crafts	1
+Sporting Goods	1
+Health and Beauty	1
+Computers	1
+Computers	1
+Health and Beauty	1
+Sporting Goods	1
+Toys	1
+Cameras	1
+Sporting Goods	1
+Baby	1
+Music	1
+Sporting Goods	1
+Crafts	1
+Crafts	1
+Children's Clothing	1
+Books	1
+Books	1
+Music	1
+Books	1
+Baby	1
+Baby	1
+Cameras	1
+Baby	1
+Garden	1
+Baby	1
+Music	1
+Garden	1
+Music	1
+Health and Beauty	1
+Cameras	1
+Crafts	1
+Men's Clothing	1
+Children's Clothing	1
+Cameras	1
+Sporting Goods	1
+Music	1
+Health and Beauty	1
+Consumer Electronics	1
+DVDs	1
+Toys	1
+DVDs	1
+Children's Clothing	1
+Video Games	1
+Books	1
+Women's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+Women's Clothing	1
+Music	1
+Crafts	1
+Men's Clothing	1
+Garden	1
+Toys	1
+Cameras	1
+Baby	1
+Consumer Electronics	1
+Video Games	1
+Computers	1
+Cameras	1
+Books	1
+Men's Clothing	1
+Baby	1
+Children's Clothing	1
+Men's Clothing	1
+Garden	1
+Baby	1
+Health and Beauty	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Baby	1
+Computers	1
+Sporting Goods	1
+DVDs	1
+DVDs	1
+Garden	1
+Women's Clothing	1
+Health and Beauty	1
+Children's Clothing	1
+Books	1
+Children's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Baby	1
+Toys	1
+Cameras	1
+Video Games	1
+Sporting Goods	1
+Pet Supplies	1
+Crafts	1
+Men's Clothing	1
+CDs	1
+Children's Clothing	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Pet Supplies	1
+Baby	1
+Health and Beauty	1
+Consumer Electronics	1
+Sporting Goods	1
+Men's Clothing	1
+Health and Beauty	1
+DVDs	1
+Garden	1
+Men's Clothing	1
+Computers	1
+Books	1
+Women's Clothing	1
+Children's Clothing	1
+Cameras	1
+Men's Clothing	1
+Books	1
+Consumer Electronics	1
+Video Games	1
+Garden	1
+CDs	1
+Men's Clothing	1
+Cameras	1
+Men's Clothing	1
+Children's Clothing	1
+CDs	1
+Consumer Electronics	1
+Computers	1
+Children's Clothing	1
+Crafts	1
+Health and Beauty	1
+Sporting Goods	1
+Health and Beauty	1
+Pet Supplies	1
+Garden	1
+CDs	1
+Garden	1
+Health and Beauty	1
+DVDs	1
+Toys	1
+Health and Beauty	1
+Video Games	1
+Health and Beauty	1
+Computers	1
+DVDs	1
+Computers	1
+DVDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Consumer Electronics	1
+Health and Beauty	1
+CDs	1
+DVDs	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+DVDs	1
+CDs	1
+Music	1
+Children's Clothing	1
+Books	1
+Books	1
+Health and Beauty	1
+Women's Clothing	1
+Cameras	1
+DVDs	1
+Sporting Goods	1
+Pet Supplies	1
+Baby	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Men's Clothing	1
+Toys	1
+Music	1
+Health and Beauty	1
+Books	1
+Baby	1
+Cameras	1
+DVDs	1
+Music	1
+Video Games	1
+Video Games	1
+Consumer Electronics	1
+Toys	1
+Sporting Goods	1
+Pet Supplies	1
+Health and Beauty	1
+Cameras	1
+Computers	1
+Pet Supplies	1
+Health and Beauty	1
+Children's Clothing	1
+Consumer Electronics	1
+Consumer Electronics	1
+Women's Clothing	1
+CDs	1
+DVDs	1
+Sporting Goods	1
+CDs	1
+Pet Supplies	1
+Books	1
+Cameras	1
+Video Games	1
+Men's Clothing	1
+Cameras	1
+Computers	1
+Crafts	1
+Women's Clothing	1
+CDs	1
+CDs	1
+Sporting Goods	1
+Pet Supplies	1
+Books	1
+Baby	1
+Pet Supplies	1
+Consumer Electronics	1
+Consumer Electronics	1
+Video Games	1
+Cameras	1
+Cameras	1
+Video Games	1
+DVDs	1
+Garden	1
+CDs	1
+Consumer Electronics	1
+Health and Beauty	1
+Crafts	1
+Health and Beauty	1
+Baby	1
+Music	1
+Baby	1
+Children's Clothing	1
+Sporting Goods	1
+CDs	1
+Video Games	1
+Health and Beauty	1
+Toys	1
+Cameras	1
+Books	1
+Music	1
+Crafts	1
+Women's Clothing	1
+Children's Clothing	1
+Crafts	1
+Women's Clothing	1
+Cameras	1
+Garden	1
+Women's Clothing	1
+Computers	1
+Crafts	1
+Pet Supplies	1
+Sporting Goods	1
+Children's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Music	1
+Sporting Goods	1
+Toys	1
+Men's Clothing	1
+Men's Clothing	1
+Cameras	1
+Pet Supplies	1
+Music	1
+Women's Clothing	1
+Video Games	1
+Cameras	1
+Toys	1
+Consumer Electronics	1
+Garden	1
+Video Games	1
+Cameras	1
+Video Games	1
+CDs	1
+Computers	1
+CDs	1
+Garden	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Video Games	1
+Pet Supplies	1
+Health and Beauty	1
+Pet Supplies	1
+Women's Clothing	1
+Toys	1
+Crafts	1
+Books	1
+Cameras	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Sporting Goods	1
+Toys	1
+CDs	1
+Men's Clothing	1
+Women's Clothing	1
+Consumer Electronics	1
+Children's Clothing	1
+Books	1
+Baby	1
+Men's Clothing	1
+Sporting Goods	1
+Garden	1
+Computers	1
+Men's Clothing	1
+Children's Clothing	1
+Men's Clothing	1
+Books	1
+Video Games	1
+CDs	1
+Children's Clothing	1
+Sporting Goods	1
+Books	1
+DVDs	1
+Video Games	1
+Computers	1
+Pet Supplies	1
+Video Games	1
+CDs	1
+CDs	1
+Consumer Electronics	1
+Sporting Goods	1
+DVDs	1
+Health and Beauty	1
+Pet Supplies	1
+Cameras	1
+Women's Clothing	1
+Health and Beauty	1
+Health and Beauty	1
+DVDs	1
+Video Games	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+Pet Supplies	1
+Computers	1
+Consumer Electronics	1
+CDs	1
+Men's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+Crafts	1
+Computers	1
+Sporting Goods	1
+Baby	1
+Crafts	1
+Books	1
+DVDs	1
+DVDs	1
+DVDs	1
+Consumer Electronics	1
+Books	1
+Books	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+Sporting Goods	1
+Men's Clothing	1
+DVDs	1
+Health and Beauty	1
+Music	1
+Consumer Electronics	1
+Toys	1
+Toys	1
+Cameras	1
+CDs	1
+Crafts	1
+Cameras	1
+Sporting Goods	1
+Books	1
+Men's Clothing	1
+Sporting Goods	1
+Toys	1
+Cameras	1
+Video Games	1
+Books	1
+Toys	1
+Baby	1
+Toys	1
+Books	1
+Toys	1
+Men's Clothing	1
+Cameras	1
+Women's Clothing	1
+Garden	1
+Crafts	1
+Toys	1
+Consumer Electronics	1
+Cameras	1
+Health and Beauty	1
+Toys	1
+Video Games	1
+Music	1
+Garden	1
+Computers	1
+Health and Beauty	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Computers	1
+Baby	1
+Crafts	1
+Video Games	1
+Toys	1
+Consumer Electronics	1
+DVDs	1
+Children's Clothing	1
+Women's Clothing	1
+Books	1
+Cameras	1
+Health and Beauty	1
+Children's Clothing	1
+Cameras	1
+Crafts	1
+Women's Clothing	1
+Video Games	1
+Video Games	1
+Sporting Goods	1
+Video Games	1
+Children's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+Consumer Electronics	1
+Garden	1
+CDs	1
+Pet Supplies	1
+Toys	1
+Consumer Electronics	1
+Women's Clothing	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Garden	1
+Women's Clothing	1
+Pet Supplies	1
+DVDs	1
+Cameras	1
+Garden	1
+Books	1
+Music	1
+Children's Clothing	1
+Women's Clothing	1
+CDs	1
+Garden	1
+Music	1
+Toys	1
+Video Games	1
+Baby	1
+Books	1
+CDs	1
+Music	1
+Toys	1
+Health and Beauty	1
+Cameras	1
+Consumer Electronics	1
+Video Games	1
+Pet Supplies	1
+Cameras	1
+Men's Clothing	1
+Toys	1
+Crafts	1
+Toys	1
+CDs	1
+Health and Beauty	1
+Toys	1
+Books	1
+Crafts	1
+Children's Clothing	1
+Baby	1
+Books	1
+Garden	1
+Pet Supplies	1
+Children's Clothing	1
+Crafts	1
+Video Games	1
+Pet Supplies	1
+Video Games	1
+Men's Clothing	1
+Crafts	1
+Crafts	1
+Children's Clothing	1
+Toys	1
+DVDs	1
+Baby	1
+DVDs	1
+Women's Clothing	1
+Health and Beauty	1
+Sporting Goods	1
+CDs	1
+Toys	1
+Music	1
+Baby	1
+Music	1
+Children's Clothing	1
+Cameras	1
+Books	1
+Consumer Electronics	1
+Music	1
+Computers	1
+Pet Supplies	1
+Men's Clothing	1
+Crafts	1
+Pet Supplies	1
+Crafts	1
+Children's Clothing	1
+Women's Clothing	1
+Toys	1
+CDs	1
+Baby	1
+Children's Clothing	1
+CDs	1
+Toys	1
+CDs	1
+Toys	1
+Children's Clothing	1
+Toys	1
+Video Games	1
+CDs	1
+Toys	1
+Children's Clothing	1
+Children's Clothing	1
+Women's Clothing	1
+CDs	1
+Pet Supplies	1
+Sporting Goods	1
+Women's Clothing	1
+Toys	1
+Music	1
+Cameras	1
+Music	1
+Baby	1
+Consumer Electronics	1
+Consumer Electronics	1
+Consumer Electronics	1
+Men's Clothing	1
+CDs	1
+Computers	1
+Women's Clothing	1
+DVDs	1
+Sporting Goods	1
+Computers	1
+Baby	1
+Health and Beauty	1
+CDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Sporting Goods	1
+Cameras	1
+Computers	1
+Baby	1
+Music	1
+Computers	1
+CDs	1
+Pet Supplies	1
+Computers	1
+Women's Clothing	1
+Cameras	1
+Consumer Electronics	1
+Women's Clothing	1
+Toys	1
+CDs	1
+Men's Clothing	1
+Pet Supplies	1
+Computers	1
+Baby	1
+Consumer Electronics	1
+Computers	1
+Crafts	1
+Toys	1
+DVDs	1
+Health and Beauty	1
+Pet Supplies	1
+Video Games	1
+Men's Clothing	1
+Sporting Goods	1
+Sporting Goods	1
+Toys	1
+DVDs	1
+Health and Beauty	1
+Books	1
+CDs	1
+Video Games	1
+Children's Clothing	1
+Garden	1
+Men's Clothing	1
+Children's Clothing	1
+Cameras	1
+Computers	1
+Cameras	1
+Men's Clothing	1
+DVDs	1
+Video Games	1
+Men's Clothing	1
+Crafts	1
+Books	1
+Children's Clothing	1
+Sporting Goods	1
+Video Games	1
+Music	1
+Health and Beauty	1
+Toys	1
+Consumer Electronics	1
+Pet Supplies	1
+Garden	1
+Music	1
+Garden	1
+Garden	1
+Consumer Electronics	1
+Sporting Goods	1
+DVDs	1
+Garden	1
+DVDs	1
+Books	1
+Video Games	1
+Computers	1
+Men's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+Crafts	1
+Computers	1
+Cameras	1
+Video Games	1
+Health and Beauty	1
+Men's Clothing	1
+Pet Supplies	1
+CDs	1
+CDs	1
+Men's Clothing	1
+Men's Clothing	1
+Men's Clothing	1
+Computers	1
+Computers	1
+Sporting Goods	1
+Women's Clothing	1
+Consumer Electronics	1
+Garden	1
+Music	1
+Men's Clothing	1
+Books	1
+Consumer Electronics	1
+Sporting Goods	1
+Computers	1
+Sporting Goods	1
+Children's Clothing	1
+Books	1
+Children's Clothing	1
+Books	1
+Consumer Electronics	1
+Consumer Electronics	1
+Sporting Goods	1
+Crafts	1
+Pet Supplies	1
+Video Games	1
+Children's Clothing	1
+Music	1
+Men's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Sporting Goods	1
+Cameras	1
+Video Games	1
+Crafts	1
+Video Games	1
+Crafts	1
+Children's Clothing	1
+Women's Clothing	1
+Garden	1
+CDs	1
+Music	1
+CDs	1
+Consumer Electronics	1
+Men's Clothing	1
+Toys	1
+Cameras	1
+Baby	1
+Garden	1
+Toys	1
+Crafts	1
+Women's Clothing	1
+Children's Clothing	1
+Children's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+Children's Clothing	1
+Crafts	1
+Baby	1
+Computers	1
+Consumer Electronics	1
+Garden	1
+CDs	1
+Pet Supplies	1
+Books	1
+Books	1
+Men's Clothing	1
+Computers	1
+Men's Clothing	1
+Crafts	1
+Baby	1
+Health and Beauty	1
+Toys	1
+Garden	1
+Computers	1
+Cameras	1
+Books	1
+Video Games	1
+DVDs	1
+Pet Supplies	1
+Garden	1
+Video Games	1
+Sporting Goods	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Baby	1
+Women's Clothing	1
+Toys	1
+Music	1
+Sporting Goods	1
+CDs	1
+Computers	1
+Children's Clothing	1
+Baby	1
+Cameras	1
+Crafts	1
+Toys	1
+Health and Beauty	1
+Pet Supplies	1
+Toys	1
+Children's Clothing	1
+Cameras	1
+Sporting Goods	1
+Sporting Goods	1
+Women's Clothing	1
+Children's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Crafts	1
+Children's Clothing	1
+Books	1
+Sporting Goods	1
+Baby	1
+Books	1
+Books	1
+Garden	1
+Music	1
+Books	1
+Computers	1
+Books	1
+Consumer Electronics	1
+Computers	1
+Cameras	1
+DVDs	1
+Baby	1
+Crafts	1
+Health and Beauty	1
+Garden	1
+Toys	1
+Music	1
+Toys	1
+Sporting Goods	1
+Computers	1
+Cameras	1
+Pet Supplies	1
+Books	1
+Health and Beauty	1
+Consumer Electronics	1
+Health and Beauty	1
+Consumer Electronics	1
+Music	1
+CDs	1
+Health and Beauty	1
+Music	1
+Children's Clothing	1
+CDs	1
+Pet Supplies	1
+Sporting Goods	1
+Toys	1
+Music	1
+Toys	1
+Men's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+DVDs	1
+Children's Clothing	1
+Consumer Electronics	1
+Women's Clothing	1
+Books	1
+Pet Supplies	1
+Computers	1
+Music	1
+Pet Supplies	1
+Books	1
+Sporting Goods	1
+Music	1
+Music	1
+Health and Beauty	1
+Women's Clothing	1
+Sporting Goods	1
+Music	1
+Toys	1
+Baby	1
+Crafts	1
+Baby	1
+Computers	1
+Men's Clothing	1
+Garden	1
+Cameras	1
+Computers	1
+Women's Clothing	1
+Cameras	1
+Sporting Goods	1
+Baby	1
+Sporting Goods	1
+Toys	1
+Crafts	1
+Crafts	1
+Baby	1
+CDs	1
+Music	1
+Men's Clothing	1
+Books	1
+Women's Clothing	1
+Garden	1
+Men's Clothing	1
+Children's Clothing	1
+Video Games	1
+Computers	1
+Toys	1
+Women's Clothing	1
+Consumer Electronics	1
+DVDs	1
+Toys	1
+Toys	1
+Garden	1
+Books	1
+Toys	1
+DVDs	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Pet Supplies	1
+Books	1
+CDs	1
+Video Games	1
+Video Games	1
+CDs	1
+Health and Beauty	1
+Crafts	1
+Music	1
+Children's Clothing	1
+Baby	1
+Music	1
+Crafts	1
+Cameras	1
+Pet Supplies	1
+Consumer Electronics	1
+Pet Supplies	1
+Women's Clothing	1
+Toys	1
+Pet Supplies	1
+Pet Supplies	1
+Women's Clothing	1
+Sporting Goods	1
+Toys	1
+Women's Clothing	1
+Sporting Goods	1
+Computers	1
+Cameras	1
+Cameras	1
+Toys	1
+Garden	1
+Cameras	1
+Baby	1
+Books	1
+Crafts	1
+Children's Clothing	1
+Video Games	1
+Health and Beauty	1
+Cameras	1
+Pet Supplies	1
+Baby	1
+Garden	1
+Toys	1
+Computers	1
+DVDs	1
+Cameras	1
+Video Games	1
+Cameras	1
+Children's Clothing	1
+Computers	1
+Men's Clothing	1
+Books	1
+Music	1
+Children's Clothing	1
+CDs	1
+Books	1
+Video Games	1
+Books	1
+Pet Supplies	1
+Toys	1
+CDs	1
+CDs	1
+Garden	1
+Video Games	1
+Consumer Electronics	1
+Toys	1
+DVDs	1
+Books	1
+Children's Clothing	1
+Sporting Goods	1
+Toys	1
+Sporting Goods	1
+Pet Supplies	1
+Women's Clothing	1
+Crafts	1
+Toys	1
+Sporting Goods	1
+Music	1
+Garden	1
+Pet Supplies	1
+Video Games	1
+Sporting Goods	1
+Toys	1
+Computers	1
+CDs	1
+Consumer Electronics	1
+Toys	1
+Pet Supplies	1
+Cameras	1
+Health and Beauty	1
+Cameras	1
+DVDs	1
+Men's Clothing	1
+DVDs	1
+Baby	1
+DVDs	1
+Music	1
+Toys	1
+Health and Beauty	1
+Women's Clothing	1
+Sporting Goods	1
+Consumer Electronics	1
+Women's Clothing	1
+Crafts	1
+CDs	1
+Health and Beauty	1
+Baby	1
+Music	1
+Health and Beauty	1
+Crafts	1
+Consumer Electronics	1
+Pet Supplies	1
+CDs	1
+Toys	1
+DVDs	1
+Men's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+Consumer Electronics	1
+Consumer Electronics	1
+Sporting Goods	1
+Cameras	1
+Video Games	1
+Music	1
+Music	1
+Men's Clothing	1
+Books	1
+Health and Beauty	1
+Men's Clothing	1
+Children's Clothing	1
+Cameras	1
+Music	1
+CDs	1
+Men's Clothing	1
+Toys	1
+Men's Clothing	1
+Consumer Electronics	1
+Sporting Goods	1
+Computers	1
+Video Games	1
+Children's Clothing	1
+Books	1
+Crafts	1
+Music	1
+Computers	1
+Video Games	1
+Men's Clothing	1
+Video Games	1
+Music	1
+Crafts	1
+Cameras	1
+Crafts	1
+Toys	1
+Men's Clothing	1
+DVDs	1
+Computers	1
+Sporting Goods	1
+Garden	1
+CDs	1
+Toys	1
+Children's Clothing	1
+Music	1
+Music	1
+Women's Clothing	1
+Computers	1
+Books	1
+Music	1
+Baby	1
+DVDs	1
+Crafts	1
+Health and Beauty	1
+Computers	1
+Women's Clothing	1
+Pet Supplies	1
+Cameras	1
+Garden	1
+Music	1
+Crafts	1
+Toys	1
+Health and Beauty	1
+Books	1
+Health and Beauty	1
+Children's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Toys	1
+Consumer Electronics	1
+DVDs	1
+Men's Clothing	1
+DVDs	1
+DVDs	1
+Computers	1
+Men's Clothing	1
+Children's Clothing	1
+Computers	1
+Pet Supplies	1
+Baby	1
+Sporting Goods	1
+Video Games	1
+Garden	1
+Health and Beauty	1
+Computers	1
+Toys	1
+Children's Clothing	1
+Cameras	1
+Pet Supplies	1
+Computers	1
+Baby	1
+Toys	1
+Health and Beauty	1
+Books	1
+Pet Supplies	1
+Children's Clothing	1
+Video Games	1
+Pet Supplies	1
+Toys	1
+Toys	1
+Women's Clothing	1
+Children's Clothing	1
+Music	1
+Sporting Goods	1
+Pet Supplies	1
+Video Games	1
+DVDs	1
+Computers	1
+DVDs	1
+Garden	1
+Music	1
+Books	1
+Children's Clothing	1
+DVDs	1
+Garden	1
+Computers	1
+Computers	1
+Books	1
+Garden	1
+DVDs	1
+Pet Supplies	1
+Health and Beauty	1
+Books	1
+DVDs	1
+Cameras	1
+Music	1
+Baby	1
+Music	1
+Men's Clothing	1
+Video Games	1
+Health and Beauty	1
+Consumer Electronics	1
+Women's Clothing	1
+Music	1
+Men's Clothing	1
+Garden	1
+Consumer Electronics	1
+Baby	1
+Consumer Electronics	1
+Pet Supplies	1
+Men's Clothing	1
+Cameras	1
+Men's Clothing	1
+Children's Clothing	1
+Video Games	1
+Video Games	1
+Toys	1
+Men's Clothing	1
+Music	1
+Cameras	1
+Books	1
+Men's Clothing	1
+Children's Clothing	1
+Garden	1
+Books	1
+Toys	1
+Crafts	1
+DVDs	1
+Baby	1
+Computers	1
+Pet Supplies	1
+Toys	1
+Music	1
+Toys	1
+Health and Beauty	1
+Garden	1
+Pet Supplies	1
+Cameras	1
+Sporting Goods	1
+Men's Clothing	1
+Men's Clothing	1
+Music	1
+Sporting Goods	1
+Cameras	1
+Books	1
+Books	1
+Garden	1
+Cameras	1
+Computers	1
+Pet Supplies	1
+Sporting Goods	1
+CDs	1
+Pet Supplies	1
+Women's Clothing	1
+Books	1
+Men's Clothing	1
+CDs	1
+Garden	1
+Baby	1
+Video Games	1
+Cameras	1
+Women's Clothing	1
+DVDs	1
+Crafts	1
+Crafts	1
+Baby	1
+Men's Clothing	1
+Pet Supplies	1
+Books	1
+Women's Clothing	1
+Consumer Electronics	1
+CDs	1
+Consumer Electronics	1
+Toys	1
+Children's Clothing	1
+Children's Clothing	1
+Crafts	1
+Toys	1
+CDs	1
+Computers	1
+Consumer Electronics	1
+Women's Clothing	1
+Cameras	1
+Video Games	1
+DVDs	1
+Garden	1
+Pet Supplies	1
+Cameras	1
+Video Games	1
+Health and Beauty	1
+Video Games	1
+Consumer Electronics	1
+Toys	1
+Health and Beauty	1
+Women's Clothing	1
+Health and Beauty	1
+DVDs	1
+DVDs	1
+Sporting Goods	1
+DVDs	1
+Men's Clothing	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+Consumer Electronics	1
+Music	1
+Health and Beauty	1
+Sporting Goods	1
+Cameras	1
+Sporting Goods	1
+Computers	1
+Baby	1
+Toys	1
+Cameras	1
+Health and Beauty	1
+Video Games	1
+Music	1
+Consumer Electronics	1
+DVDs	1
+Computers	1
+CDs	1
+CDs	1
+Baby	1
+Children's Clothing	1
+Health and Beauty	1
+DVDs	1
+Women's Clothing	1
+Crafts	1
+Music	1
+Toys	1
+Health and Beauty	1
+DVDs	1
+Video Games	1
+Cameras	1
+Garden	1
+Computers	1
+DVDs	1
+Consumer Electronics	1
+Sporting Goods	1
+Men's Clothing	1
+Women's Clothing	1
+CDs	1
+Garden	1
+Baby	1
+Music	1
+Crafts	1
+Video Games	1
+Music	1
+Music	1
+CDs	1
+Pet Supplies	1
+Pet Supplies	1
+Computers	1
+Cameras	1
+Crafts	1
+Garden	1
+Health and Beauty	1
+Video Games	1
+Garden	1
+Toys	1
+Children's Clothing	1
+Garden	1
+Children's Clothing	1
+Books	1
+Computers	1
+Health and Beauty	1
+Cameras	1
+Computers	1
+Women's Clothing	1
+CDs	1
+Men's Clothing	1
+Children's Clothing	1
+Computers	1
+Books	1
+Women's Clothing	1
+Sporting Goods	1
+Books	1
+Video Games	1
+Men's Clothing	1
+CDs	1
+Women's Clothing	1
+Men's Clothing	1
+Baby	1
+CDs	1
+Computers	1
+Video Games	1
+Music	1
+Health and Beauty	1
+CDs	1
+Books	1
+Cameras	1
+Health and Beauty	1
+Health and Beauty	1
+Pet Supplies	1
+Men's Clothing	1
+Computers	1
+Video Games	1
+Crafts	1
+Women's Clothing	1
+Cameras	1
+Cameras	1
+DVDs	1
+Baby	1
+Sporting Goods	1
+Men's Clothing	1
+Consumer Electronics	1
+Garden	1
+Cameras	1
+Baby	1
+Music	1
+Toys	1
+Sporting Goods	1
+Music	1
+Garden	1
+Consumer Electronics	1
+Crafts	1
+Video Games	1
+Crafts	1
+CDs	1
+Children's Clothing	1
+Women's Clothing	1
+Children's Clothing	1
+Books	1
+Baby	1
+CDs	1
+Children's Clothing	1
+Children's Clothing	1
+Toys	1
+Books	1
+Music	1
+CDs	1
+Music	1
+Books	1
+Women's Clothing	1
+CDs	1
+Baby	1
+Pet Supplies	1
+CDs	1
+Video Games	1
+Toys	1
+DVDs	1
+Music	1
+Toys	1
+Consumer Electronics	1
+DVDs	1
+Books	1
+Music	1
+Toys	1
+Computers	1
+Garden	1
+Women's Clothing	1
+Consumer Electronics	1
+Toys	1
+Cameras	1
+Toys	1
+Consumer Electronics	1
+Video Games	1
+Pet Supplies	1
+Video Games	1
+DVDs	1
+Men's Clothing	1
+Video Games	1
+Health and Beauty	1
+Men's Clothing	1
+Books	1
+Garden	1
+Crafts	1
+Women's Clothing	1
+Consumer Electronics	1
+CDs	1
+Music	1
+Crafts	1
+Garden	1
+Toys	1
+DVDs	1
+Women's Clothing	1
+Crafts	1
+Video Games	1
+Computers	1
+Books	1
+Video Games	1
+Women's Clothing	1
+Men's Clothing	1
+Toys	1
+Women's Clothing	1
+Baby	1
+Computers	1
+Video Games	1
+Women's Clothing	1
+Cameras	1
+DVDs	1
+Consumer Electronics	1
+DVDs	1
+DVDs	1
+Women's Clothing	1
+Cameras	1
+CDs	1
+Cameras	1
+Baby	1
+Health and Beauty	1
+Garden	1
+Books	1
+Baby	1
+Video Games	1
+Video Games	1
+DVDs	1
+Health and Beauty	1
+Cameras	1
+Sporting Goods	1
+Men's Clothing	1
+Sporting Goods	1
+Video Games	1
+Books	1
+Video Games	1
+Women's Clothing	1
+DVDs	1
+Baby	1
+Music	1
+Video Games	1
+Garden	1
+Books	1
+Music	1
+Cameras	1
+Toys	1
+Books	1
+Computers	1
+Cameras	1
+Toys	1
+Crafts	1
+Garden	1
+Books	1
+CDs	1
+Music	1
+Cameras	1
+Children's Clothing	1
+Women's Clothing	1
+Men's Clothing	1
+Consumer Electronics	1
+Cameras	1
+Men's Clothing	1
+Women's Clothing	1
+Toys	1
+Books	1
+Books	1
+Cameras	1
+Cameras	1
+Women's Clothing	1
+Pet Supplies	1
+Pet Supplies	1
+DVDs	1
+Video Games	1
+Computers	1
+Women's Clothing	1
+Cameras	1
+CDs	1
+Computers	1
+Video Games	1
+Garden	1
+Sporting Goods	1
+Sporting Goods	1
+Cameras	1
+Men's Clothing	1
+Women's Clothing	1
+CDs	1
+Books	1
+Computers	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Books	1
+Health and Beauty	1
+Consumer Electronics	1
+Toys	1
+CDs	1
+Women's Clothing	1
+Books	1
+Children's Clothing	1
+Garden	1
+Baby	1
+Consumer Electronics	1
+Computers	1
+Cameras	1
+Sporting Goods	1
+Crafts	1
+Baby	1
+Music	1
+CDs	1
+Women's Clothing	1
+Children's Clothing	1
+Music	1
+Children's Clothing	1
+Health and Beauty	1
+Pet Supplies	1
+Health and Beauty	1
+Children's Clothing	1
+Health and Beauty	1
+Men's Clothing	1
+Health and Beauty	1
+Crafts	1
+Computers	1
+Computers	1
+Children's Clothing	1
+Women's Clothing	1
+Health and Beauty	1
+Video Games	1
+DVDs	1
+Music	1
+Women's Clothing	1
+Pet Supplies	1
+Sporting Goods	1
+Baby	1
+Consumer Electronics	1
+Books	1
+Men's Clothing	1
+Pet Supplies	1
+Crafts	1
+Men's Clothing	1
+Garden	1
+Music	1
+Consumer Electronics	1
+Men's Clothing	1
+Cameras	1
+Sporting Goods	1
+Books	1
+DVDs	1
+Books	1
+CDs	1
+Men's Clothing	1
+Toys	1
+Computers	1
+Pet Supplies	1
+Consumer Electronics	1
+Consumer Electronics	1
+Men's Clothing	1
+Health and Beauty	1
+CDs	1
+Video Games	1
+Women's Clothing	1
+Consumer Electronics	1
+Pet Supplies	1
+Children's Clothing	1
+Computers	1
+Crafts	1
+Women's Clothing	1
+Consumer Electronics	1
+CDs	1
+Baby	1
+Health and Beauty	1
+Crafts	1
+Toys	1
+Computers	1
+Children's Clothing	1
+Toys	1
+Sporting Goods	1
+CDs	1
+Pet Supplies	1
+Crafts	1
+Books	1
+Toys	1
+Pet Supplies	1
+Consumer Electronics	1
+Computers	1
+Computers	1
+Crafts	1
+Sporting Goods	1
+Cameras	1
+DVDs	1
+Children's Clothing	1
+Video Games	1
+Consumer Electronics	1
+DVDs	1
+Toys	1
+Video Games	1
+Crafts	1
+Music	1
+DVDs	1
+Children's Clothing	1
+Consumer Electronics	1
+Women's Clothing	1
+Sporting Goods	1
+CDs	1
+Garden	1
+Consumer Electronics	1
+Baby	1
+Video Games	1
+Men's Clothing	1
+Women's Clothing	1
+Pet Supplies	1
+Music	1
+Pet Supplies	1
+Sporting Goods	1
+Health and Beauty	1
+Music	1
+Video Games	1
+Books	1
+DVDs	1
+Video Games	1
+Women's Clothing	1
+Computers	1
+Toys	1
+Consumer Electronics	1
+Toys	1
+CDs	1
+Books	1
+Crafts	1
+Video Games	1
+Books	1
+Books	1
+Men's Clothing	1
+DVDs	1
+Garden	1
+Pet Supplies	1
+Men's Clothing	1
+Crafts	1
+Crafts	1
+CDs	1
+Health and Beauty	1
+Computers	1
+Sporting Goods	1
+Music	1
+Baby	1
+Cameras	1
+Computers	1
+Cameras	1
+Baby	1
+Pet Supplies	1
+Women's Clothing	1
+Video Games	1
+Baby	1
+Toys	1
+Garden	1
+Video Games	1
+Children's Clothing	1
+Health and Beauty	1
+Consumer Electronics	1
+Cameras	1
+Crafts	1
+Consumer Electronics	1
+Men's Clothing	1
+Computers	1
+CDs	1

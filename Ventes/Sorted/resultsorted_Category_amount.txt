@@ -1,0 +1,10000 @@
+Baby	0.75
+Baby	1.4
+Baby	100.6
+Baby	101.95
+Baby	102.24
+Baby	102.47
+Baby	107.4
+Baby	109.39
+Baby	11.4
+Baby	11.86
+Baby	111.75
+Baby	114.16
+Baby	115.93
+Baby	117.67
+Baby	118.22
+Baby	118.92
+Baby	119.86
+Baby	120.23
+Baby	120.91
+Baby	122.35
+Baby	123.68
+Baby	123.86
+Baby	125.32
+Baby	126.3
+Baby	128.81
+Baby	129.83
+Baby	13.06
+Baby	130.54
+Baby	130.91
+Baby	134.51
+Baby	134.52
+Baby	137.28
+Baby	137.81
+Baby	138.23
+Baby	138.97
+Baby	139.78
+Baby	141.26
+Baby	141.93
+Baby	142.02
+Baby	144.14
+Baby	145.21
+Baby	146.14
+Baby	147.16
+Baby	147.23
+Baby	147.73
+Baby	148.43
+Baby	148.52
+Baby	148.79
+Baby	151.06
+Baby	152.32
+Baby	152.78
+Baby	153.5
+Baby	153.75
+Baby	154.06
+Baby	155.28
+Baby	155.56
+Baby	157.25
+Baby	157.65
+Baby	159.31
+Baby	159.76
+Baby	159.84
+Baby	159.94
+Baby	16.87
+Baby	160.07
+Baby	160.46
+Baby	160.59
+Baby	161.13
+Baby	161.5
+Baby	162.05
+Baby	164.6
+Baby	165.13
+Baby	165.25
+Baby	165.3
+Baby	166.39
+Baby	166.66
+Baby	166.68
+Baby	167.99
+Baby	168.68
+Baby	170.3
+Baby	170.87
+Baby	172.31
+Baby	172.74
+Baby	179.26
+Baby	179.84
+Baby	18.15
+Baby	181.4
+Baby	185.67
+Baby	186.64
+Baby	186.92
+Baby	187.7
+Baby	187.95
+Baby	188.46
+Baby	188.64
+Baby	189.9
+Baby	19.37
+Baby	190.89
+Baby	191.36
+Baby	191.83
+Baby	192.13
+Baby	193.25
+Baby	194.03
+Baby	194.66
+Baby	197.64
+Baby	198.03
+Baby	199.4
+Baby	20.61
+Baby	200.2
+Baby	201.87
+Baby	204.03
+Baby	204.89
+Baby	205.06
+Baby	206.05
+Baby	206.9
+Baby	209.22
+Baby	210.4
+Baby	211.85
+Baby	212.03
+Baby	214.41
+Baby	214.89
+Baby	215.15
+Baby	215.36
+Baby	216.46
+Baby	217.12
+Baby	218.16
+Baby	218.29
+Baby	218.54
+Baby	219.83
+Baby	22.88
+Baby	221.06
+Baby	222.51
+Baby	222.61
+Baby	223
+Baby	223.87
+Baby	224.2
+Baby	224.6
+Baby	225.53
+Baby	225.98
+Baby	226.12
+Baby	226.79
+Baby	228.07
+Baby	228.1
+Baby	228.73
+Baby	23.64
+Baby	23.68
+Baby	230.61
+Baby	230.77
+Baby	230.97
+Baby	231.3
+Baby	232.14
+Baby	233.18
+Baby	235.58
+Baby	235.94
+Baby	236.56
+Baby	237.45
+Baby	238.38
+Baby	238.4
+Baby	238.6
+Baby	238.95
+Baby	239.43
+Baby	24.26
+Baby	240.44
+Baby	240.72
+Baby	241.61
+Baby	242.27
+Baby	242.91
+Baby	243.24
+Baby	243.66
+Baby	243.7
+Baby	245.49
+Baby	245.63
+Baby	246.43
+Baby	247.25
+Baby	247.61
+Baby	248.92
+Baby	249.35
+Baby	249.36
+Baby	249.69
+Baby	25.51
+Baby	250.19
+Baby	250.69
+Baby	250.76
+Baby	252.49
+Baby	253.53
+Baby	253.6
+Baby	254.72
+Baby	255.44
+Baby	255.68
+Baby	257.48
+Baby	258.59
+Baby	259.14
+Baby	260.31
+Baby	260.89
+Baby	261.53
+Baby	261.79
+Baby	262.17
+Baby	263.79
+Baby	263.87
+Baby	263.89
+Baby	264.2
+Baby	264.71
+Baby	264.82
+Baby	265.08
+Baby	267.28
+Baby	267.38
+Baby	267.67
+Baby	27.56
+Baby	270.58
+Baby	270.85
+Baby	272.17
+Baby	274.99
+Baby	276.04
+Baby	276.22
+Baby	276.22
+Baby	276.82
+Baby	277.13
+Baby	28.36
+Baby	281.93
+Baby	282.33
+Baby	283.79
+Baby	284.48
+Baby	285.25
+Baby	285.46
+Baby	285.84
+Baby	286.25
+Baby	287.12
+Baby	287.47
+Baby	288.18
+Baby	288.63
+Baby	288.71
+Baby	291.19
+Baby	292.53
+Baby	292.69
+Baby	294.01
+Baby	294.44
+Baby	296.75
+Baby	296.98
+Baby	298.87
+Baby	298.9
+Baby	3.61
+Baby	30.57
+Baby	300.63
+Baby	302.1
+Baby	303.9
+Baby	304.63
+Baby	308.11
+Baby	308.26
+Baby	309.16
+Baby	31.29
+Baby	310.32
+Baby	310.68
+Baby	311.51
+Baby	312.16
+Baby	312.22
+Baby	312.54
+Baby	312.97
+Baby	313.94
+Baby	314.41
+Baby	314.51
+Baby	317.98
+Baby	32.81
+Baby	320.16
+Baby	322.51
+Baby	322.57
+Baby	322.6
+Baby	323.35
+Baby	323.42
+Baby	326.88
+Baby	327.67
+Baby	328.42
+Baby	328.79
+Baby	329.87
+Baby	33.01
+Baby	330.6
+Baby	330.88
+Baby	333.92
+Baby	335.03
+Baby	335.08
+Baby	335.09
+Baby	335.68
+Baby	336.96
+Baby	337.92
+Baby	338.4
+Baby	339.33
+Baby	339.68
+Baby	339.98
+Baby	340.57
+Baby	341.38
+Baby	342.25
+Baby	343.14
+Baby	343.41
+Baby	343.92
+Baby	350.97
+Baby	351.98
+Baby	353.5
+Baby	354.37
+Baby	356.95
+Baby	357.38
+Baby	357.41
+Baby	357.9
+Baby	358.26
+Baby	358.61
+Baby	359.14
+Baby	359.27
+Baby	359.91
+Baby	360.34
+Baby	363.36
+Baby	364.3
+Baby	368.15
+Baby	369.76
+Baby	371.07
+Baby	371.5
+Baby	371.71
+Baby	372.72
+Baby	372.74
+Baby	372.88
+Baby	373.28
+Baby	373.7
+Baby	374.04
+Baby	374.5
+Baby	374.68
+Baby	378.6
+Baby	378.97
+Baby	379.08
+Baby	379.19
+Baby	379.45
+Baby	38.39
+Baby	38.57
+Baby	38.67
+Baby	380.12
+Baby	380.86
+Baby	381.54
+Baby	383.83
+Baby	384.57
+Baby	385.1
+Baby	385.28
+Baby	385.62
+Baby	385.83
+Baby	386.11
+Baby	386.14
+Baby	387.3
+Baby	387.5
+Baby	389.45
+Baby	39.26
+Baby	39.47
+Baby	390.4
+Baby	393.03
+Baby	395.82
+Baby	396.25
+Baby	396.72
+Baby	398.58
+Baby	398.73
+Baby	399.73
+Baby	399.83
+Baby	401.86
+Baby	403.95
+Baby	404.91
+Baby	404.99
+Baby	405.12
+Baby	408.72
+Baby	409.48
+Baby	41.42
+Baby	410.52
+Baby	410.8
+Baby	411.15
+Baby	412.08
+Baby	414.45
+Baby	415.45
+Baby	416.07
+Baby	417.19
+Baby	418.15
+Baby	418.73
+Baby	419.08
+Baby	419.17
+Baby	419.57
+Baby	419.93
+Baby	42.86
+Baby	421.75
+Baby	423.64
+Baby	423.8
+Baby	425.54
+Baby	43.32
+Baby	430.69
+Baby	430.72
+Baby	431.65
+Baby	432.37
+Baby	432.9
+Baby	434.94
+Baby	436.17
+Baby	436.85
+Baby	438.16
+Baby	438.33
+Baby	438.58
+Baby	438.78
+Baby	439.3
+Baby	439.35
+Baby	44.22
+Baby	441.41
+Baby	441.66
+Baby	441.7
+Baby	441.92
+Baby	442.47
+Baby	443.96
+Baby	444.35
+Baby	444.5
+Baby	445.17
+Baby	445.85
+Baby	446.54
+Baby	448.21
+Baby	448.9
+Baby	449.92
+Baby	45.16
+Baby	45.82
+Baby	451.49
+Baby	451.83
+Baby	451.96
+Baby	453.75
+Baby	454.06
+Baby	455.6
+Baby	456.48
+Baby	456.62
+Baby	457.57
+Baby	460.02
+Baby	462.29
+Baby	465.05
+Baby	468.52
+Baby	47.19
+Baby	470.52
+Baby	471.77
+Baby	472.37
+Baby	474.19
+Baby	474.31
+Baby	477.28
+Baby	478.63
+Baby	479.8
+Baby	480.58
+Baby	481.25
+Baby	483.02
+Baby	483.56
+Baby	483.98
+Baby	484.11
+Baby	484.32
+Baby	485.3
+Baby	485.7
+Baby	487.02
+Baby	487.1
+Baby	49.48
+Baby	491.61
+Baby	491.9
+Baby	492.15
+Baby	493.91
+Baby	493.94
+Baby	494.16
+Baby	494.66
+Baby	494.88
+Baby	495.55
+Baby	495.94
+Baby	496.36
+Baby	497.89
+Baby	498.22
+Baby	498.24
+Baby	498.42
+Baby	50.08
+Baby	52.09
+Baby	52.62
+Baby	53.04
+Baby	53.37
+Baby	54.73
+Baby	55.12
+Baby	56.32
+Baby	57.25
+Baby	59.08
+Baby	6.78
+Baby	60.09
+Baby	61.22
+Baby	61.76
+Baby	62.14
+Baby	63.04
+Baby	63.15
+Baby	63.84
+Baby	64.76
+Baby	65.2
+Baby	66.07
+Baby	66.73
+Baby	66.88
+Baby	68.06
+Baby	68.33
+Baby	68.65
+Baby	68.83
+Baby	69.56
+Baby	70.71
+Baby	70.82
+Baby	73.61
+Baby	74.74
+Baby	76.2
+Baby	77
+Baby	77.48
+Baby	78.57
+Baby	79.67
+Baby	8.66
+Baby	8.71
+Baby	80.67
+Baby	81
+Baby	81.96
+Baby	82.34
+Baby	82.34
+Baby	85.18
+Baby	91.86
+Baby	92.6
+Baby	93.37
+Baby	93.66
+Baby	94.17
+Baby	96.35
+Baby	96.51
+Baby	96.93
+Baby	97.69
+Books	0.42
+Books	1.91
+Books	10.82
+Books	100.41
+Books	101.72
+Books	101.88
+Books	102.01
+Books	103.87
+Books	105.3
+Books	105.42
+Books	105.54
+Books	105.8
+Books	106.72
+Books	109.02
+Books	109.79
+Books	111.85
+Books	112.29
+Books	113.47
+Books	113.85
+Books	114.5
+Books	114.97
+Books	116.17
+Books	117.29
+Books	119.73
+Books	120.19
+Books	121.36
+Books	123.9
+Books	124.2
+Books	125.37
+Books	125.54
+Books	125.63
+Books	126.74
+Books	13.16
+Books	130.21
+Books	130.99
+Books	131.43
+Books	132.13
+Books	132.63
+Books	132.71
+Books	133.17
+Books	133.33
+Books	133.48
+Books	133.57
+Books	134.44
+Books	134.54
+Books	135.85
+Books	135.96
+Books	136.61
+Books	136.96
+Books	137.77
+Books	14.71
+Books	14.83
+Books	140.28
+Books	140.5
+Books	143.13
+Books	143.24
+Books	144.9
+Books	145.2
+Books	145.25
+Books	145.83
+Books	146.3
+Books	146.66
+Books	147.25
+Books	147.41
+Books	147.93
+Books	148.35
+Books	148.7
+Books	15.83
+Books	150.12
+Books	152.38
+Books	152.67
+Books	153.21
+Books	154.4
+Books	155.23
+Books	155.63
+Books	157.08
+Books	158.36
+Books	158.72
+Books	158.91
+Books	160.98
+Books	163.38
+Books	163.57
+Books	164.23
+Books	165
+Books	165.05
+Books	165.16
+Books	167.59
+Books	167.64
+Books	168.06
+Books	168.55
+Books	169.29
+Books	17.5
+Books	170.65
+Books	171.78
+Books	172.45
+Books	172.57
+Books	173.97
+Books	175.17
+Books	176.02
+Books	176.07
+Books	177.79
+Books	178.48
+Books	178.64
+Books	179.14
+Books	179.48
+Books	179.52
+Books	18.03
+Books	18.11
+Books	18.15
+Books	180.53
+Books	181.09
+Books	181.51
+Books	181.51
+Books	182.48
+Books	182.99
+Books	183.02
+Books	185.9
+Books	187.39
+Books	187.93
+Books	188.27
+Books	188.45
+Books	188.8
+Books	189.79
+Books	189.85
+Books	19.57
+Books	19.8
+Books	19.85
+Books	193.49
+Books	194.3
+Books	194.68
+Books	194.8
+Books	195.53
+Books	197.87
+Books	197.89
+Books	199.99
+Books	2.46
+Books	2.55
+Books	20.89
+Books	200.79
+Books	201.56
+Books	205.51
+Books	205.7
+Books	206.02
+Books	206.68
+Books	206.7
+Books	206.85
+Books	208.09
+Books	209.36
+Books	21.24
+Books	21.61
+Books	21.76
+Books	21.85
+Books	210.42
+Books	210.92
+Books	211.51
+Books	212.87
+Books	214
+Books	214.16
+Books	215.07
+Books	215.35
+Books	215.91
+Books	216.04
+Books	216.83
+Books	218.11
+Books	218.55
+Books	218.8
+Books	218.92
+Books	218.95
+Books	219.28
+Books	22
+Books	22.43
+Books	22.51
+Books	220.21
+Books	220.63
+Books	220.92
+Books	221.19
+Books	221.24
+Books	221.77
+Books	221.95
+Books	222.22
+Books	222.24
+Books	222.67
+Books	222.87
+Books	223.83
+Books	224.46
+Books	228.61
+Books	229
+Books	229.3
+Books	23.23
+Books	23.51
+Books	23.78
+Books	23.83
+Books	233.09
+Books	233.33
+Books	234.03
+Books	237.03
+Books	237.29
+Books	239.5
+Books	24.35
+Books	240.4
+Books	240.84
+Books	241.73
+Books	241.89
+Books	242.84
+Books	242.87
+Books	243.41
+Books	244.08
+Books	244.72
+Books	246.69
+Books	248.84
+Books	249.64
+Books	25.24
+Books	25.3
+Books	250.19
+Books	250.81
+Books	251.11
+Books	252.6
+Books	253.06
+Books	253.49
+Books	254.53
+Books	256.21
+Books	256.23
+Books	257.97
+Books	257.98
+Books	258.01
+Books	259.01
+Books	259.03
+Books	259.06
+Books	259.97
+Books	26.01
+Books	260.34
+Books	261.08
+Books	261.3
+Books	261.45
+Books	261.72
+Books	264.1
+Books	264.75
+Books	266.37
+Books	266.68
+Books	266.79
+Books	268.88
+Books	269.16
+Books	269.2
+Books	269.7
+Books	269.72
+Books	270.34
+Books	272.44
+Books	272.62
+Books	273.18
+Books	273.49
+Books	274.2
+Books	274.88
+Books	277.14
+Books	278.37
+Books	28.52
+Books	28.99
+Books	280.13
+Books	282.4
+Books	283.09
+Books	283.38
+Books	285.73
+Books	286.14
+Books	287.55
+Books	288.58
+Books	288.77
+Books	289.5
+Books	289.63
+Books	290.34
+Books	290.55
+Books	290.93
+Books	290.98
+Books	291.05
+Books	291.31
+Books	292.61
+Books	293.38
+Books	294.14
+Books	294.96
+Books	295.09
+Books	295.39
+Books	295.4
+Books	296.02
+Books	296.77
+Books	296.95
+Books	296.96
+Books	298.56
+Books	30.14
+Books	300.15
+Books	300.73
+Books	301.21
+Books	302.48
+Books	303.49
+Books	303.65
+Books	305.09
+Books	305.66
+Books	306.17
+Books	306.2
+Books	307.56
+Books	307.89
+Books	308.07
+Books	308.99
+Books	309.18
+Books	309.34
+Books	309.8
+Books	309.95
+Books	31.08
+Books	310.79
+Books	312.85
+Books	313.09
+Books	313.66
+Books	314.32
+Books	315.34
+Books	316.39
+Books	317.13
+Books	317.53
+Books	320.1
+Books	320.76
+Books	321.19
+Books	321.34
+Books	321.39
+Books	321.92
+Books	322.07
+Books	322.37
+Books	323.12
+Books	323.37
+Books	323.95
+Books	324.47
+Books	324.78
+Books	325.55
+Books	326.41
+Books	327.47
+Books	329.49
+Books	33.24
+Books	33.55
+Books	331.23
+Books	331.85
+Books	333
+Books	333.94
+Books	334.16
+Books	334.39
+Books	334.45
+Books	335.5
+Books	335.62
+Books	337.77
+Books	338.57
+Books	338.68
+Books	34.13
+Books	340.66
+Books	340.98
+Books	342.32
+Books	344.09
+Books	344.66
+Books	347.6
+Books	347.6
+Books	348.23
+Books	348.32
+Books	349.3
+Books	35.12
+Books	350.18
+Books	350.22
+Books	350.29
+Books	350.52
+Books	350.56
+Books	351.7
+Books	352.4
+Books	354.27
+Books	354.36
+Books	355.41
+Books	356.57
+Books	356.93
+Books	357.31
+Books	357.37
+Books	358.59
+Books	359.72
+Books	360.91
+Books	361.09
+Books	361.23
+Books	361.43
+Books	361.82
+Books	363.13
+Books	363.34
+Books	363.76
+Books	363.91
+Books	364.48
+Books	366.36
+Books	367.62
+Books	367.68
+Books	367.85
+Books	369.6
+Books	369.98
+Books	37.19
+Books	37.37
+Books	37.96
+Books	370.49
+Books	370.82
+Books	372.65
+Books	373.03
+Books	375.55
+Books	377.35
+Books	377.88
+Books	379.18
+Books	38.29
+Books	381.94
+Books	383.09
+Books	383.67
+Books	384.23
+Books	388.1
+Books	39.14
+Books	39.72
+Books	390.94
+Books	391.41
+Books	392.81
+Books	393.14
+Books	393.25
+Books	393.74
+Books	394.14
+Books	394.17
+Books	394.82
+Books	395.2
+Books	397.18
+Books	399.62
+Books	400.64
+Books	403.39
+Books	404.86
+Books	405.93
+Books	407.51
+Books	407.66
+Books	408.34
+Books	408.49
+Books	41.2
+Books	410.89
+Books	411.08
+Books	412.44
+Books	414.08
+Books	414.59
+Books	416.31
+Books	417.72
+Books	418.02
+Books	418.37
+Books	418.94
+Books	421.39
+Books	421.42
+Books	421.81
+Books	422.27
+Books	423.26
+Books	424.85
+Books	424.95
+Books	427.81
+Books	428.71
+Books	429.93
+Books	430.15
+Books	430.7
+Books	430.82
+Books	431.41
+Books	432.95
+Books	434.36
+Books	434.53
+Books	434.96
+Books	436
+Books	436.06
+Books	436.83
+Books	437.59
+Books	437.75
+Books	437.91
+Books	438.11
+Books	438.36
+Books	44.57
+Books	44.58
+Books	440.7
+Books	441.5
+Books	444
+Books	444.27
+Books	444.33
+Books	444.7
+Books	445.3
+Books	446.78
+Books	448.28
+Books	449.4
+Books	45.71
+Books	45.94
+Books	453.89
+Books	454.49
+Books	455.33
+Books	455.89
+Books	458.53
+Books	458.88
+Books	459.78
+Books	46.23
+Books	460.59
+Books	461.19
+Books	461.38
+Books	461.49
+Books	461.62
+Books	461.77
+Books	462.34
+Books	463.28
+Books	464.59
+Books	465.87
+Books	466.39
+Books	466.43
+Books	466.9
+Books	467.48
+Books	468.08
+Books	468.54
+Books	469.08
+Books	469.54
+Books	469.97
+Books	470.37
+Books	470.48
+Books	471.5
+Books	472.12
+Books	472.56
+Books	473.99
+Books	474.59
+Books	477.91
+Books	48.31
+Books	48.53
+Books	480.28
+Books	481.26
+Books	482.05
+Books	482.22
+Books	482.26
+Books	482.94
+Books	485.83
+Books	486.57
+Books	486.8
+Books	487.1
+Books	488.53
+Books	489.38
+Books	49.26
+Books	490.73
+Books	491.24
+Books	492.45
+Books	492.69
+Books	493.24
+Books	495.44
+Books	495.69
+Books	495.89
+Books	496.41
+Books	497.17
+Books	497.62
+Books	5.38
+Books	50.48
+Books	50.53
+Books	51.58
+Books	51.75
+Books	51.89
+Books	55.32
+Books	55.76
+Books	56.8
+Books	57.07
+Books	57.76
+Books	59.31
+Books	6.66
+Books	60.75
+Books	61.66
+Books	63.32
+Books	64.04
+Books	64.95
+Books	65.02
+Books	66.69
+Books	67.14
+Books	67.95
+Books	69.49
+Books	7.73
+Books	70.6
+Books	73.96
+Books	75.58
+Books	76.06
+Books	76.32
+Books	77.8
+Books	77.89
+Books	78.14
+Books	78.19
+Books	78.71
+Books	78.82
+Books	79.31
+Books	8.36
+Books	80.05
+Books	81.42
+Books	82.27
+Books	82.92
+Books	85.38
+Books	87.59
+Books	87.73
+Books	88.43
+Books	90.51
+Books	90.64
+Books	91.66
+Books	93.39
+Books	93.67
+Books	93.91
+Books	94.32
+Books	94.37
+Books	94.94
+Books	96.32
+Books	96.56
+Books	96.65
+Books	97.33
+Books	99.16
+Books	99.53
+CDs	0.59
+CDs	0.74
+CDs	1.23
+CDs	1.75
+CDs	1.93
+CDs	1.93
+CDs	100.51
+CDs	100.77
+CDs	102.53
+CDs	102.66
+CDs	103.36
+CDs	104.94
+CDs	106.29
+CDs	107.38
+CDs	107.53
+CDs	108.27
+CDs	108.69
+CDs	11
+CDs	110.73
+CDs	112.07
+CDs	113.33
+CDs	114.26
+CDs	116.09
+CDs	116.63
+CDs	117.24
+CDs	117.86
+CDs	118.25
+CDs	118.6
+CDs	119.73
+CDs	119.96
+CDs	120.27
+CDs	120.87
+CDs	121.24
+CDs	124.12
+CDs	124.26
+CDs	125.35
+CDs	125.85
+CDs	125.88
+CDs	129.23
+CDs	130.71
+CDs	131.3
+CDs	132.79
+CDs	133.47
+CDs	134.23
+CDs	136.52
+CDs	137.64
+CDs	138.28
+CDs	138.45
+CDs	143.16
+CDs	144.14
+CDs	144.54
+CDs	144.84
+CDs	146.44
+CDs	147.05
+CDs	147.33
+CDs	147.78
+CDs	147.91
+CDs	147.98
+CDs	149.04
+CDs	149.1
+CDs	149.84
+CDs	15.27
+CDs	150.88
+CDs	152.19
+CDs	152.9
+CDs	152.94
+CDs	153.14
+CDs	154.53
+CDs	155.5
+CDs	156.35
+CDs	156.42
+CDs	160.87
+CDs	162.39
+CDs	162.68
+CDs	164.65
+CDs	164.92
+CDs	165.65
+CDs	166.33
+CDs	167.8
+CDs	17.16
+CDs	17.89
+CDs	172.78
+CDs	173.18
+CDs	173.29
+CDs	175.77
+CDs	176.32
+CDs	177.49
+CDs	178
+CDs	179.03
+CDs	179.55
+CDs	18.12
+CDs	18.34
+CDs	181.23
+CDs	181.35
+CDs	181.91
+CDs	183.05
+CDs	183.77
+CDs	184.55
+CDs	184.66
+CDs	185.22
+CDs	185.23
+CDs	185.93
+CDs	186.02
+CDs	186.5
+CDs	187.42
+CDs	187.9
+CDs	188.54
+CDs	189.43
+CDs	189.94
+CDs	19.34
+CDs	191.1
+CDs	191.26
+CDs	191.42
+CDs	193.16
+CDs	194.1
+CDs	196.2
+CDs	198.61
+CDs	199.33
+CDs	199.38
+CDs	20.17
+CDs	20.2
+CDs	20.26
+CDs	201.07
+CDs	201.26
+CDs	201.52
+CDs	202.08
+CDs	202.48
+CDs	202.51
+CDs	203.1
+CDs	203.43
+CDs	205.79
+CDs	206.06
+CDs	206.49
+CDs	206.97
+CDs	207.25
+CDs	209.22
+CDs	209.29
+CDs	209.51
+CDs	209.87
+CDs	21.48
+CDs	21.56
+CDs	21.97
+CDs	210.62
+CDs	210.7
+CDs	211.5
+CDs	211.86
+CDs	212.01
+CDs	214.26
+CDs	218.64
+CDs	219.53
+CDs	22.62
+CDs	22.93
+CDs	221.09
+CDs	221.41
+CDs	221.79
+CDs	222
+CDs	223.64
+CDs	224.29
+CDs	224.38
+CDs	225.39
+CDs	225.85
+CDs	227.27
+CDs	227.38
+CDs	227.8
+CDs	228.21
+CDs	228.6
+CDs	228.74
+CDs	229.01
+CDs	229.33
+CDs	23.48
+CDs	232.54
+CDs	232.94
+CDs	233.99
+CDs	234.02
+CDs	234.9
+CDs	235.2
+CDs	235.36
+CDs	236.25
+CDs	236.54
+CDs	237.94
+CDs	238.06
+CDs	238.16
+CDs	238.78
+CDs	238.88
+CDs	238.9
+CDs	240.53
+CDs	242.05
+CDs	242.67
+CDs	244.05
+CDs	245.16
+CDs	246.04
+CDs	248.24
+CDs	249.13
+CDs	250.46
+CDs	251.17
+CDs	251.95
+CDs	252.24
+CDs	254.28
+CDs	254.74
+CDs	255.28
+CDs	255.44
+CDs	255.57
+CDs	256.7
+CDs	259.47
+CDs	259.65
+CDs	26.8
+CDs	26.9
+CDs	261.5
+CDs	262.17
+CDs	263.29
+CDs	264.04
+CDs	265.47
+CDs	267.01
+CDs	267.14
+CDs	267.22
+CDs	267.76
+CDs	268.34
+CDs	268.44
+CDs	268.72
+CDs	270.49
+CDs	270.53
+CDs	271
+CDs	271.25
+CDs	271.29
+CDs	271.85
+CDs	272.31
+CDs	273.15
+CDs	274.39
+CDs	275.83
+CDs	276.48
+CDs	276.81
+CDs	276.84
+CDs	278.55
+CDs	278.7
+CDs	28.91
+CDs	280.74
+CDs	281.37
+CDs	283.85
+CDs	284.07
+CDs	285.57
+CDs	285.74
+CDs	286.75
+CDs	287.23
+CDs	287.58
+CDs	288.76
+CDs	288.84
+CDs	289.02
+CDs	289.04
+CDs	293.08
+CDs	294.33
+CDs	294.79
+CDs	295.52
+CDs	296.21
+CDs	296.36
+CDs	297.57
+CDs	299.03
+CDs	299.3
+CDs	3.31
+CDs	3.38
+CDs	30.77
+CDs	300.02
+CDs	301.18
+CDs	302.82
+CDs	303.92
+CDs	304.11
+CDs	304.92
+CDs	306.15
+CDs	307.46
+CDs	307.47
+CDs	307.94
+CDs	308.64
+CDs	308.74
+CDs	309.63
+CDs	309.66
+CDs	311.93
+CDs	311.94
+CDs	313.09
+CDs	314.65
+CDs	314.73
+CDs	317.22
+CDs	318.81
+CDs	319.55
+CDs	319.79
+CDs	319.89
+CDs	32.04
+CDs	322.39
+CDs	325.33
+CDs	325.56
+CDs	326.17
+CDs	327.94
+CDs	328.55
+CDs	329.17
+CDs	33.53
+CDs	332.11
+CDs	335.86
+CDs	336.92
+CDs	337.29
+CDs	337.41
+CDs	338.07
+CDs	341.16
+CDs	341.43
+CDs	343.55
+CDs	343.55
+CDs	343.62
+CDs	343.81
+CDs	346.28
+CDs	348.1
+CDs	349.94
+CDs	35.99
+CDs	350.24
+CDs	350.66
+CDs	351.69
+CDs	352.1
+CDs	352.19
+CDs	352.85
+CDs	354.01
+CDs	355.38
+CDs	355.81
+CDs	356.17
+CDs	356.42
+CDs	357.58
+CDs	358.22
+CDs	358.3
+CDs	36.83
+CDs	360.14
+CDs	360.81
+CDs	361.02
+CDs	361.45
+CDs	362
+CDs	362.97
+CDs	363.28
+CDs	363.7
+CDs	364.88
+CDs	365.04
+CDs	37.67
+CDs	37.83
+CDs	370.77
+CDs	372.81
+CDs	374.51
+CDs	376.22
+CDs	376.91
+CDs	377.16
+CDs	377.91
+CDs	379.07
+CDs	379.57
+CDs	380.1
+CDs	380.42
+CDs	380.7
+CDs	381
+CDs	381.01
+CDs	381.55
+CDs	382.75
+CDs	382.92
+CDs	383.72
+CDs	383.77
+CDs	385.72
+CDs	385.86
+CDs	386.82
+CDs	386.85
+CDs	387.05
+CDs	387.33
+CDs	387.49
+CDs	388.39
+CDs	388.63
+CDs	388.63
+CDs	388.94
+CDs	389.97
+CDs	39.84
+CDs	393.1
+CDs	393.8
+CDs	393.93
+CDs	395.29
+CDs	395.74
+CDs	396.97
+CDs	398.89
+CDs	399.09
+CDs	4.4
+CDs	40.04
+CDs	401.03
+CDs	402.56
+CDs	403.67
+CDs	404.3
+CDs	405.67
+CDs	405.76
+CDs	407.49
+CDs	409.76
+CDs	409.81
+CDs	412.63
+CDs	413.62
+CDs	414.33
+CDs	414.37
+CDs	414.89
+CDs	417.38
+CDs	418.29
+CDs	419.03
+CDs	419.92
+CDs	42.34
+CDs	42.47
+CDs	42.86
+CDs	424.48
+CDs	424.81
+CDs	425.92
+CDs	426.44
+CDs	427.08
+CDs	427.23
+CDs	427.67
+CDs	427.97
+CDs	427.97
+CDs	428.18
+CDs	429.72
+CDs	43.32
+CDs	43.39
+CDs	43.69
+CDs	430.02
+CDs	430.98
+CDs	431.86
+CDs	432.13
+CDs	432.98
+CDs	434.89
+CDs	437.34
+CDs	438.01
+CDs	438.19
+CDs	438.66
+CDs	44.84
+CDs	440.03
+CDs	440.07
+CDs	441.87
+CDs	442.65
+CDs	442.79
+CDs	444.15
+CDs	444.26
+CDs	444.5
+CDs	445.07
+CDs	445.5
+CDs	445.63
+CDs	447.46
+CDs	447.54
+CDs	448.28
+CDs	448.61
+CDs	449.41
+CDs	451.4
+CDs	451.42
+CDs	453.07
+CDs	455.47
+CDs	456.76
+CDs	458.93
+CDs	459.03
+CDs	46.06
+CDs	46.07
+CDs	46.98
+CDs	461.15
+CDs	463.5
+CDs	463.97
+CDs	464.57
+CDs	465.27
+CDs	465.38
+CDs	466.64
+CDs	467.62
+CDs	467.75
+CDs	469.23
+CDs	47.24
+CDs	47.26
+CDs	470.12
+CDs	470.77
+CDs	470.78
+CDs	471
+CDs	471.04
+CDs	471.25
+CDs	471.52
+CDs	471.69
+CDs	472.71
+CDs	476.22
+CDs	476.42
+CDs	478.02
+CDs	478.19
+CDs	478.64
+CDs	479.59
+CDs	479.64
+CDs	479.68
+CDs	48.87
+CDs	481.05
+CDs	483.82
+CDs	485.02
+CDs	485.07
+CDs	485.7
+CDs	485.91
+CDs	486.98
+CDs	488.8
+CDs	489.43
+CDs	489.77
+CDs	489.78
+CDs	49.82
+CDs	49.95
+CDs	490.22
+CDs	490.79
+CDs	492.66
+CDs	493.7
+CDs	493.72
+CDs	494.7
+CDs	495.64
+CDs	495.81
+CDs	496.61
+CDs	497.48
+CDs	497.5
+CDs	498.82
+CDs	499.42
+CDs	499.51
+CDs	499.53
+CDs	50.28
+CDs	50.61
+CDs	52.79
+CDs	53.89
+CDs	56.49
+CDs	56.87
+CDs	57.19
+CDs	57.81
+CDs	59.99
+CDs	61.73
+CDs	62.26
+CDs	64.94
+CDs	66.21
+CDs	67.94
+CDs	68.42
+CDs	68.71
+CDs	69.66
+CDs	71.15
+CDs	74.07
+CDs	76.53
+CDs	76.76
+CDs	76.99
+CDs	79.91
+CDs	8.38
+CDs	8.4
+CDs	80.98
+CDs	83.23
+CDs	84.89
+CDs	86.6
+CDs	87.49
+CDs	88
+CDs	88.59
+CDs	89.31
+CDs	89.57
+CDs	89.81
+CDs	93.21
+CDs	93.22
+CDs	93.38
+CDs	93.5
+CDs	93.89
+CDs	94.1
+CDs	94.51
+CDs	95.98
+CDs	97.35
+CDs	98.06
+CDs	98.23
+CDs	98.27
+Cameras	0.45
+Cameras	0.67
+Cameras	101.14
+Cameras	103.59
+Cameras	106.13
+Cameras	106.31
+Cameras	107.75
+Cameras	107.99
+Cameras	108.51
+Cameras	108.59
+Cameras	113.26
+Cameras	113.93
+Cameras	116.56
+Cameras	118.4
+Cameras	119.26
+Cameras	12.4
+Cameras	12.76
+Cameras	122.19
+Cameras	122.39
+Cameras	122.68
+Cameras	123.43
+Cameras	125.14
+Cameras	125.33
+Cameras	127.57
+Cameras	129.06
+Cameras	129.5
+Cameras	13.49
+Cameras	13.59
+Cameras	13.78
+Cameras	130.24
+Cameras	131.6
+Cameras	133.22
+Cameras	133.95
+Cameras	134.25
+Cameras	136.65
+Cameras	136.9
+Cameras	137.46
+Cameras	141.12
+Cameras	141.3
+Cameras	141.81
+Cameras	142.36
+Cameras	144.05
+Cameras	144.08
+Cameras	145.28
+Cameras	146.07
+Cameras	146.34
+Cameras	146.49
+Cameras	147.54
+Cameras	149.28
+Cameras	149.93
+Cameras	150.27
+Cameras	150.73
+Cameras	151.64
+Cameras	151.66
+Cameras	152.86
+Cameras	153.37
+Cameras	153.94
+Cameras	154.51
+Cameras	156.06
+Cameras	157.61
+Cameras	159.22
+Cameras	160.48
+Cameras	161.03
+Cameras	163.82
+Cameras	166.09
+Cameras	168.05
+Cameras	168.67
+Cameras	168.88
+Cameras	170.72
+Cameras	171.65
+Cameras	172.36
+Cameras	172.85
+Cameras	172.98
+Cameras	174.76
+Cameras	175.99
+Cameras	176.01
+Cameras	176.15
+Cameras	179.18
+Cameras	18.55
+Cameras	181.51
+Cameras	181.87
+Cameras	182.24
+Cameras	182.46
+Cameras	182.46
+Cameras	183.56
+Cameras	183.7
+Cameras	184.5
+Cameras	186.36
+Cameras	188.3
+Cameras	188.8
+Cameras	19.63
+Cameras	190.78
+Cameras	191.6
+Cameras	192.32
+Cameras	193.01
+Cameras	193.59
+Cameras	194.68
+Cameras	195.06
+Cameras	196.29
+Cameras	196.47
+Cameras	198.54
+Cameras	198.95
+Cameras	199.02
+Cameras	199.42
+Cameras	199.75
+Cameras	20.1
+Cameras	20.31
+Cameras	20.51
+Cameras	20.59
+Cameras	20.96
+Cameras	200.44
+Cameras	201.05
+Cameras	201.25
+Cameras	201.4
+Cameras	201.51
+Cameras	202.05
+Cameras	203.56
+Cameras	205.96
+Cameras	208.49
+Cameras	211.31
+Cameras	214.36
+Cameras	214.44
+Cameras	214.96
+Cameras	215.06
+Cameras	215.35
+Cameras	215.73
+Cameras	218
+Cameras	22.46
+Cameras	222.42
+Cameras	223.71
+Cameras	223.76
+Cameras	224.02
+Cameras	224.88
+Cameras	226.74
+Cameras	228.28
+Cameras	228.6
+Cameras	230.4
+Cameras	231.08
+Cameras	234.56
+Cameras	236.2
+Cameras	236.57
+Cameras	237.57
+Cameras	238.75
+Cameras	24.77
+Cameras	24.99
+Cameras	241.2
+Cameras	241.59
+Cameras	242.14
+Cameras	242.21
+Cameras	242.31
+Cameras	248.16
+Cameras	249.34
+Cameras	252.99
+Cameras	253.46
+Cameras	253.88
+Cameras	254.4
+Cameras	256.83
+Cameras	257.66
+Cameras	258.77
+Cameras	259.07
+Cameras	26.24
+Cameras	26.3
+Cameras	261.5
+Cameras	262.41
+Cameras	263.52
+Cameras	263.66
+Cameras	266.58
+Cameras	266.75
+Cameras	266.9
+Cameras	267.08
+Cameras	267.63
+Cameras	269.43
+Cameras	271.56
+Cameras	274.7
+Cameras	274.82
+Cameras	276.35
+Cameras	277.64
+Cameras	278.92
+Cameras	28.68
+Cameras	281.96
+Cameras	282.89
+Cameras	283.43
+Cameras	283.68
+Cameras	283.93
+Cameras	283.99
+Cameras	285.35
+Cameras	285.57
+Cameras	285.9
+Cameras	287.02
+Cameras	287.65
+Cameras	288.89
+Cameras	289.09
+Cameras	289.28
+Cameras	289.68
+Cameras	289.87
+Cameras	291.38
+Cameras	292.38
+Cameras	293.13
+Cameras	298.51
+Cameras	298.93
+Cameras	299.05
+Cameras	299.45
+Cameras	299.71
+Cameras	3.11
+Cameras	300.41
+Cameras	300.94
+Cameras	303.41
+Cameras	305.17
+Cameras	305.67
+Cameras	305.99
+Cameras	306.01
+Cameras	307.11
+Cameras	308.05
+Cameras	308.91
+Cameras	308.93
+Cameras	309.97
+Cameras	31.23
+Cameras	31.51
+Cameras	310.2
+Cameras	312.12
+Cameras	313.13
+Cameras	313.82
+Cameras	318.5
+Cameras	318.98
+Cameras	319.38
+Cameras	319.97
+Cameras	32.03
+Cameras	322.12
+Cameras	322.27
+Cameras	325.98
+Cameras	326.11
+Cameras	326.23
+Cameras	326.65
+Cameras	328.76
+Cameras	329.35
+Cameras	33.24
+Cameras	330.47
+Cameras	330.99
+Cameras	331.5
+Cameras	331.7
+Cameras	337
+Cameras	339.19
+Cameras	339.37
+Cameras	339.46
+Cameras	34.26
+Cameras	34.78
+Cameras	340.76
+Cameras	341.41
+Cameras	341.92
+Cameras	343.49
+Cameras	344.13
+Cameras	344.22
+Cameras	344.81
+Cameras	345.18
+Cameras	346.35
+Cameras	347.1
+Cameras	347.71
+Cameras	348.47
+Cameras	349.35
+Cameras	35.32
+Cameras	350.14
+Cameras	350.91
+Cameras	351.4
+Cameras	351.63
+Cameras	351.93
+Cameras	352.43
+Cameras	355.03
+Cameras	355.47
+Cameras	355.69
+Cameras	355.84
+Cameras	357.16
+Cameras	358.48
+Cameras	36.44
+Cameras	36.84
+Cameras	361.25
+Cameras	362.61
+Cameras	363.23
+Cameras	363.52
+Cameras	364.82
+Cameras	365.84
+Cameras	366.46
+Cameras	366.76
+Cameras	369.22
+Cameras	369.57
+Cameras	369.83
+Cameras	37.57
+Cameras	37.93
+Cameras	372.07
+Cameras	372.41
+Cameras	373.15
+Cameras	373.23
+Cameras	373.38
+Cameras	374.9
+Cameras	376.39
+Cameras	376.79
+Cameras	379.21
+Cameras	379.6
+Cameras	380.34
+Cameras	382.66
+Cameras	384.42
+Cameras	384.58
+Cameras	385.8
+Cameras	385.96
+Cameras	387
+Cameras	387.13
+Cameras	387.28
+Cameras	388.87
+Cameras	390.54
+Cameras	391.19
+Cameras	391.48
+Cameras	392.07
+Cameras	392.32
+Cameras	394.04
+Cameras	394.99
+Cameras	395.81
+Cameras	395.92
+Cameras	396.09
+Cameras	396.1
+Cameras	397.93
+Cameras	397.97
+Cameras	40.85
+Cameras	400.35
+Cameras	400.48
+Cameras	400.91
+Cameras	403.62
+Cameras	411.43
+Cameras	411.58
+Cameras	413.18
+Cameras	413.51
+Cameras	413.94
+Cameras	417.15
+Cameras	417.3
+Cameras	418.94
+Cameras	419.15
+Cameras	42.28
+Cameras	42.43
+Cameras	422.63
+Cameras	423.92
+Cameras	424.09
+Cameras	424.6
+Cameras	425.19
+Cameras	425.53
+Cameras	425.95
+Cameras	426.95
+Cameras	427.08
+Cameras	427.27
+Cameras	429.96
+Cameras	431.24
+Cameras	431.26
+Cameras	433.5
+Cameras	435.4
+Cameras	435.88
+Cameras	436.01
+Cameras	436.8
+Cameras	437.44
+Cameras	439.45
+Cameras	439.76
+Cameras	439.95
+Cameras	44.8
+Cameras	44.96
+Cameras	440.08
+Cameras	440.13
+Cameras	440.55
+Cameras	441.31
+Cameras	441.45
+Cameras	442.04
+Cameras	442.33
+Cameras	442.59
+Cameras	442.66
+Cameras	443
+Cameras	443.31
+Cameras	443.69
+Cameras	444.09
+Cameras	444.13
+Cameras	446.26
+Cameras	446.65
+Cameras	447.07
+Cameras	447.84
+Cameras	449.65
+Cameras	451.34
+Cameras	451.63
+Cameras	451.8
+Cameras	452.04
+Cameras	452.65
+Cameras	453.64
+Cameras	453.66
+Cameras	455.39
+Cameras	455.98
+Cameras	456.13
+Cameras	457.18
+Cameras	457.78
+Cameras	457.91
+Cameras	459.35
+Cameras	46.48
+Cameras	46.65
+Cameras	460.82
+Cameras	462.15
+Cameras	463.39
+Cameras	463.71
+Cameras	465.78
+Cameras	465.85
+Cameras	466.95
+Cameras	467.55
+Cameras	467.63
+Cameras	468.29
+Cameras	468.87
+Cameras	469.19
+Cameras	469.63
+Cameras	47.62
+Cameras	470.25
+Cameras	470.63
+Cameras	470.82
+Cameras	471.49
+Cameras	471.81
+Cameras	472.76
+Cameras	472.83
+Cameras	473.51
+Cameras	476.33
+Cameras	476.79
+Cameras	477.31
+Cameras	477.35
+Cameras	477.45
+Cameras	477.7
+Cameras	477.74
+Cameras	479.49
+Cameras	48.07
+Cameras	48.22
+Cameras	48.93
+Cameras	48.96
+Cameras	480.6
+Cameras	481.18
+Cameras	481.72
+Cameras	482.6
+Cameras	482.77
+Cameras	484.28
+Cameras	485
+Cameras	488.5
+Cameras	488.55
+Cameras	488.76
+Cameras	489.07
+Cameras	49.2
+Cameras	49.83
+Cameras	490.26
+Cameras	491.99
+Cameras	494.86
+Cameras	494.93
+Cameras	494.94
+Cameras	495.09
+Cameras	495.45
+Cameras	495.52
+Cameras	498.76
+Cameras	498.8
+Cameras	499.09
+Cameras	499.84
+Cameras	50.35
+Cameras	51.76
+Cameras	51.79
+Cameras	53.51
+Cameras	53.69
+Cameras	53.7
+Cameras	55.29
+Cameras	57
+Cameras	57.01
+Cameras	58.84
+Cameras	59.72
+Cameras	6.9
+Cameras	60.19
+Cameras	60.48
+Cameras	60.53
+Cameras	66.14
+Cameras	67.46
+Cameras	67.49
+Cameras	68.02
+Cameras	68.2
+Cameras	68.23
+Cameras	69.9
+Cameras	7.31
+Cameras	70.03
+Cameras	70.74
+Cameras	71.07
+Cameras	71.93
+Cameras	72.41
+Cameras	72.52
+Cameras	75.95
+Cameras	76.78
+Cameras	77.32
+Cameras	78.42
+Cameras	80.72
+Cameras	80.76
+Cameras	81.32
+Cameras	81.92
+Cameras	82.88
+Cameras	83.8
+Cameras	84.42
+Cameras	84.56
+Cameras	84.88
+Cameras	86.8
+Cameras	87.38
+Cameras	87.43
+Cameras	88.44
+Cameras	88.91
+Cameras	89.28
+Cameras	89.28
+Cameras	9.88
+Cameras	9.95
+Cameras	91.01
+Cameras	92.76
+Cameras	93.58
+Cameras	95.33
+Cameras	95.46
+Cameras	95.81
+Cameras	97.82
+Cameras	98.26
+Cameras	98.8
+Cameras	98.9
+Cameras	98.93
+Cameras	99.16
+Cameras	99.35
+Children's Clothing	100.21
+Children's Clothing	101.46
+Children's Clothing	101.49
+Children's Clothing	105.19
+Children's Clothing	105.74
+Children's Clothing	108.17
+Children's Clothing	108.59
+Children's Clothing	109.04
+Children's Clothing	110.78
+Children's Clothing	112.42
+Children's Clothing	112.57
+Children's Clothing	114.15
+Children's Clothing	114.9
+Children's Clothing	116.42
+Children's Clothing	117.12
+Children's Clothing	117.34
+Children's Clothing	120.38
+Children's Clothing	120.81
+Children's Clothing	120.98
+Children's Clothing	121.64
+Children's Clothing	121.66
+Children's Clothing	124.37
+Children's Clothing	125.11
+Children's Clothing	127.57
+Children's Clothing	128.09
+Children's Clothing	13
+Children's Clothing	13.25
+Children's Clothing	13.33
+Children's Clothing	131.91
+Children's Clothing	132.8
+Children's Clothing	133.52
+Children's Clothing	134.46
+Children's Clothing	135.03
+Children's Clothing	136.12
+Children's Clothing	136.41
+Children's Clothing	137.74
+Children's Clothing	139.17
+Children's Clothing	139.45
+Children's Clothing	139.54
+Children's Clothing	139.67
+Children's Clothing	140.72
+Children's Clothing	142.15
+Children's Clothing	142.18
+Children's Clothing	142.24
+Children's Clothing	142.41
+Children's Clothing	142.98
+Children's Clothing	144.58
+Children's Clothing	145.46
+Children's Clothing	145.99
+Children's Clothing	148.11
+Children's Clothing	149.04
+Children's Clothing	150.45
+Children's Clothing	150.74
+Children's Clothing	151.04
+Children's Clothing	151.91
+Children's Clothing	152.48
+Children's Clothing	153.44
+Children's Clothing	153.94
+Children's Clothing	155.32
+Children's Clothing	156.32
+Children's Clothing	157.26
+Children's Clothing	157.45
+Children's Clothing	158
+Children's Clothing	158.69
+Children's Clothing	159.08
+Children's Clothing	159.26
+Children's Clothing	159.87
+Children's Clothing	16.96
+Children's Clothing	160.12
+Children's Clothing	162.64
+Children's Clothing	165.3
+Children's Clothing	165.85
+Children's Clothing	166.08
+Children's Clothing	167.62
+Children's Clothing	167.68
+Children's Clothing	168.07
+Children's Clothing	168.24
+Children's Clothing	169.09
+Children's Clothing	169.33
+Children's Clothing	17.48
+Children's Clothing	170.93
+Children's Clothing	171.39
+Children's Clothing	171.9
+Children's Clothing	172.94
+Children's Clothing	173.76
+Children's Clothing	174.18
+Children's Clothing	175.75
+Children's Clothing	176.18
+Children's Clothing	176.42
+Children's Clothing	176.5
+Children's Clothing	176.66
+Children's Clothing	177.62
+Children's Clothing	177.71
+Children's Clothing	179.4
+Children's Clothing	180.61
+Children's Clothing	180.91
+Children's Clothing	182.76
+Children's Clothing	183.13
+Children's Clothing	183.38
+Children's Clothing	184.25
+Children's Clothing	184.54
+Children's Clothing	185.52
+Children's Clothing	189.51
+Children's Clothing	189.67
+Children's Clothing	191.02
+Children's Clothing	191.28
+Children's Clothing	192.22
+Children's Clothing	192.26
+Children's Clothing	192.78
+Children's Clothing	193.93
+Children's Clothing	194.12
+Children's Clothing	195.4
+Children's Clothing	196.42
+Children's Clothing	197.62
+Children's Clothing	198.62
+Children's Clothing	199.09
+Children's Clothing	199.3
+Children's Clothing	199.58
+Children's Clothing	20.78
+Children's Clothing	200.09
+Children's Clothing	201.38
+Children's Clothing	201.56
+Children's Clothing	202.63
+Children's Clothing	203.62
+Children's Clothing	203.82
+Children's Clothing	204.67
+Children's Clothing	205.56
+Children's Clothing	206.27
+Children's Clothing	206.4
+Children's Clothing	206.94
+Children's Clothing	207.31
+Children's Clothing	207.95
+Children's Clothing	208.05
+Children's Clothing	208.76
+Children's Clothing	21.05
+Children's Clothing	21.28
+Children's Clothing	21.67
+Children's Clothing	21.76
+Children's Clothing	210.48
+Children's Clothing	210.66
+Children's Clothing	211.32
+Children's Clothing	211.85
+Children's Clothing	213.26
+Children's Clothing	213.29
+Children's Clothing	214.55
+Children's Clothing	214.6
+Children's Clothing	214.7
+Children's Clothing	216.29
+Children's Clothing	216.5
+Children's Clothing	217.11
+Children's Clothing	217.44
+Children's Clothing	217.79
+Children's Clothing	218.02
+Children's Clothing	218.57
+Children's Clothing	22.6
+Children's Clothing	22.9
+Children's Clothing	220.76
+Children's Clothing	221.45
+Children's Clothing	222.37
+Children's Clothing	223.32
+Children's Clothing	223.39
+Children's Clothing	224.57
+Children's Clothing	226.79
+Children's Clothing	228.86
+Children's Clothing	232.85
+Children's Clothing	232.89
+Children's Clothing	233.35
+Children's Clothing	234.35
+Children's Clothing	235.63
+Children's Clothing	236.49
+Children's Clothing	238.13
+Children's Clothing	238.49
+Children's Clothing	239.14
+Children's Clothing	239.66
+Children's Clothing	239.98
+Children's Clothing	240
+Children's Clothing	244.22
+Children's Clothing	244.83
+Children's Clothing	244.97
+Children's Clothing	246.67
+Children's Clothing	247.4
+Children's Clothing	249.33
+Children's Clothing	25.2
+Children's Clothing	250.24
+Children's Clothing	250.27
+Children's Clothing	250.68
+Children's Clothing	250.97
+Children's Clothing	251.02
+Children's Clothing	251.49
+Children's Clothing	251.8
+Children's Clothing	254.28
+Children's Clothing	256.87
+Children's Clothing	257.18
+Children's Clothing	257.23
+Children's Clothing	257.43
+Children's Clothing	257.77
+Children's Clothing	257.84
+Children's Clothing	26.02
+Children's Clothing	26.18
+Children's Clothing	26.19
+Children's Clothing	26.42
+Children's Clothing	260.38
+Children's Clothing	261.25
+Children's Clothing	262.85
+Children's Clothing	263.4
+Children's Clothing	263.65
+Children's Clothing	265.72
+Children's Clothing	266.08
+Children's Clothing	269.04
+Children's Clothing	269.74
+Children's Clothing	270.07
+Children's Clothing	271.13
+Children's Clothing	271.33
+Children's Clothing	271.72
+Children's Clothing	276.26
+Children's Clothing	276.99
+Children's Clothing	279.47
+Children's Clothing	279.54
+Children's Clothing	279.71
+Children's Clothing	281.51
+Children's Clothing	281.54
+Children's Clothing	282.04
+Children's Clothing	282.21
+Children's Clothing	282.26
+Children's Clothing	282.96
+Children's Clothing	283.86
+Children's Clothing	284.12
+Children's Clothing	284.42
+Children's Clothing	284.94
+Children's Clothing	285.58
+Children's Clothing	287.54
+Children's Clothing	287.87
+Children's Clothing	288.64
+Children's Clothing	29.23
+Children's Clothing	290.67
+Children's Clothing	291.02
+Children's Clothing	291.48
+Children's Clothing	291.76
+Children's Clothing	292.62
+Children's Clothing	293.59
+Children's Clothing	293.77
+Children's Clothing	294.63
+Children's Clothing	294.65
+Children's Clothing	294.83
+Children's Clothing	294.98
+Children's Clothing	295.04
+Children's Clothing	295.13
+Children's Clothing	295.9
+Children's Clothing	296.17
+Children's Clothing	299.01
+Children's Clothing	299.45
+Children's Clothing	3.74
+Children's Clothing	30.67
+Children's Clothing	300.05
+Children's Clothing	300.28
+Children's Clothing	301.75
+Children's Clothing	301.9
+Children's Clothing	303.09
+Children's Clothing	304.62
+Children's Clothing	304.76
+Children's Clothing	304.92
+Children's Clothing	305.6
+Children's Clothing	306.51
+Children's Clothing	307.33
+Children's Clothing	307.84
+Children's Clothing	308.03
+Children's Clothing	308.47
+Children's Clothing	308.89
+Children's Clothing	31.79
+Children's Clothing	310.54
+Children's Clothing	311.52
+Children's Clothing	312.04
+Children's Clothing	312.3
+Children's Clothing	312.5
+Children's Clothing	312.79
+Children's Clothing	314.05
+Children's Clothing	315.86
+Children's Clothing	317.26
+Children's Clothing	318.64
+Children's Clothing	319.56
+Children's Clothing	319.83
+Children's Clothing	320.26
+Children's Clothing	320.59
+Children's Clothing	322.35
+Children's Clothing	322.43
+Children's Clothing	322.76
+Children's Clothing	323.57
+Children's Clothing	323.87
+Children's Clothing	323.97
+Children's Clothing	324.21
+Children's Clothing	324.27
+Children's Clothing	326.28
+Children's Clothing	328.44
+Children's Clothing	329.25
+Children's Clothing	33.85
+Children's Clothing	33.95
+Children's Clothing	330.99
+Children's Clothing	331.38
+Children's Clothing	331.66
+Children's Clothing	333.15
+Children's Clothing	336.05
+Children's Clothing	336.17
+Children's Clothing	336.6
+Children's Clothing	337.64
+Children's Clothing	337.76
+Children's Clothing	338.78
+Children's Clothing	339.02
+Children's Clothing	339.67
+Children's Clothing	34.65
+Children's Clothing	340.66
+Children's Clothing	342.52
+Children's Clothing	343.12
+Children's Clothing	345.31
+Children's Clothing	346.38
+Children's Clothing	347.19
+Children's Clothing	347.49
+Children's Clothing	348.35
+Children's Clothing	349.11
+Children's Clothing	35.04
+Children's Clothing	35.82
+Children's Clothing	35.9
+Children's Clothing	35.94
+Children's Clothing	35.97
+Children's Clothing	350.97
+Children's Clothing	351.38
+Children's Clothing	351.68
+Children's Clothing	352.08
+Children's Clothing	353.98
+Children's Clothing	354.22
+Children's Clothing	354.26
+Children's Clothing	354.52
+Children's Clothing	354.71
+Children's Clothing	357.1
+Children's Clothing	357.69
+Children's Clothing	357.82
+Children's Clothing	358.14
+Children's Clothing	358.94
+Children's Clothing	359
+Children's Clothing	36.1
+Children's Clothing	36.42
+Children's Clothing	36.65
+Children's Clothing	362.42
+Children's Clothing	363.01
+Children's Clothing	364.55
+Children's Clothing	366.3
+Children's Clothing	366.36
+Children's Clothing	366.9
+Children's Clothing	366.97
+Children's Clothing	367.03
+Children's Clothing	367.36
+Children's Clothing	369.08
+Children's Clothing	369.09
+Children's Clothing	369.76
+Children's Clothing	369.76
+Children's Clothing	37.91
+Children's Clothing	370.81
+Children's Clothing	370.95
+Children's Clothing	371.58
+Children's Clothing	371.65
+Children's Clothing	372.02
+Children's Clothing	372.14
+Children's Clothing	372.59
+Children's Clothing	374.86
+Children's Clothing	376.11
+Children's Clothing	377.62
+Children's Clothing	377.66
+Children's Clothing	377.91
+Children's Clothing	377.97
+Children's Clothing	378
+Children's Clothing	379.17
+Children's Clothing	379.57
+Children's Clothing	379.9
+Children's Clothing	38.99
+Children's Clothing	382.28
+Children's Clothing	382.83
+Children's Clothing	384.77
+Children's Clothing	385.32
+Children's Clothing	387.16
+Children's Clothing	387.75
+Children's Clothing	388.12
+Children's Clothing	389.15
+Children's Clothing	39.74
+Children's Clothing	39.82
+Children's Clothing	390.17
+Children's Clothing	391.1
+Children's Clothing	391.93
+Children's Clothing	392.88
+Children's Clothing	393.97
+Children's Clothing	395.09
+Children's Clothing	395.28
+Children's Clothing	395.43
+Children's Clothing	395.48
+Children's Clothing	395.59
+Children's Clothing	396.93
+Children's Clothing	398.74
+Children's Clothing	4.94
+Children's Clothing	40.03
+Children's Clothing	40.76
+Children's Clothing	400.66
+Children's Clothing	404.1
+Children's Clothing	404.11
+Children's Clothing	405.45
+Children's Clothing	406.17
+Children's Clothing	407.04
+Children's Clothing	407.55
+Children's Clothing	408.1
+Children's Clothing	408.57
+Children's Clothing	41.27
+Children's Clothing	412.21
+Children's Clothing	412.27
+Children's Clothing	412.75
+Children's Clothing	413.11
+Children's Clothing	414.38
+Children's Clothing	414.83
+Children's Clothing	417.75
+Children's Clothing	417.99
+Children's Clothing	418.24
+Children's Clothing	418.27
+Children's Clothing	418.68
+Children's Clothing	419.06
+Children's Clothing	42.81
+Children's Clothing	421.49
+Children's Clothing	425.65
+Children's Clothing	426.93
+Children's Clothing	428.07
+Children's Clothing	43.7
+Children's Clothing	431.34
+Children's Clothing	433.3
+Children's Clothing	433.91
+Children's Clothing	434.04
+Children's Clothing	435.07
+Children's Clothing	437.44
+Children's Clothing	437.71
+Children's Clothing	438.49
+Children's Clothing	439.14
+Children's Clothing	439.61
+Children's Clothing	44.25
+Children's Clothing	441.07
+Children's Clothing	441.77
+Children's Clothing	441.79
+Children's Clothing	442.03
+Children's Clothing	443.1
+Children's Clothing	448.13
+Children's Clothing	45.32
+Children's Clothing	45.96
+Children's Clothing	450.24
+Children's Clothing	450.34
+Children's Clothing	451.64
+Children's Clothing	452.44
+Children's Clothing	454.22
+Children's Clothing	454.35
+Children's Clothing	454.79
+Children's Clothing	456.81
+Children's Clothing	457.52
+Children's Clothing	459.6
+Children's Clothing	459.85
+Children's Clothing	459.88
+Children's Clothing	460.28
+Children's Clothing	460.92
+Children's Clothing	462.59
+Children's Clothing	462.65
+Children's Clothing	463.35
+Children's Clothing	465.82
+Children's Clothing	468.82
+Children's Clothing	469.01
+Children's Clothing	469.68
+Children's Clothing	470.05
+Children's Clothing	472.04
+Children's Clothing	473.21
+Children's Clothing	473.73
+Children's Clothing	474.94
+Children's Clothing	479.46
+Children's Clothing	479.84
+Children's Clothing	48.45
+Children's Clothing	480.88
+Children's Clothing	482.09
+Children's Clothing	482.23
+Children's Clothing	482.46
+Children's Clothing	482.46
+Children's Clothing	483.12
+Children's Clothing	484.59
+Children's Clothing	485.71
+Children's Clothing	486.24
+Children's Clothing	486.76
+Children's Clothing	488.2
+Children's Clothing	488.51
+Children's Clothing	489.82
+Children's Clothing	49.02
+Children's Clothing	49.39
+Children's Clothing	490.63
+Children's Clothing	490.86
+Children's Clothing	493.38
+Children's Clothing	494.04
+Children's Clothing	494.51
+Children's Clothing	495.42
+Children's Clothing	496.77
+Children's Clothing	497.19
+Children's Clothing	499.24
+Children's Clothing	499.5
+Children's Clothing	5.3
+Children's Clothing	51.29
+Children's Clothing	51.36
+Children's Clothing	52.33
+Children's Clothing	53.08
+Children's Clothing	53.26
+Children's Clothing	58.09
+Children's Clothing	58.81
+Children's Clothing	59.49
+Children's Clothing	60.14
+Children's Clothing	61.22
+Children's Clothing	61.54
+Children's Clothing	62.12
+Children's Clothing	64.19
+Children's Clothing	65
+Children's Clothing	65.17
+Children's Clothing	65.36
+Children's Clothing	65.89
+Children's Clothing	66.78
+Children's Clothing	66.96
+Children's Clothing	67.52
+Children's Clothing	68.38
+Children's Clothing	7.09
+Children's Clothing	70.79
+Children's Clothing	70.95
+Children's Clothing	71.45
+Children's Clothing	73.44
+Children's Clothing	75.15
+Children's Clothing	75.6
+Children's Clothing	77.2
+Children's Clothing	77.75
+Children's Clothing	78.78
+Children's Clothing	79.89
+Children's Clothing	8.4
+Children's Clothing	8.59
+Children's Clothing	80.44
+Children's Clothing	80.61
+Children's Clothing	80.9
+Children's Clothing	81.76
+Children's Clothing	82.79
+Children's Clothing	83.06
+Children's Clothing	83.87
+Children's Clothing	84.25
+Children's Clothing	84.55
+Children's Clothing	88.35
+Children's Clothing	89.1
+Children's Clothing	89.21
+Children's Clothing	90.47
+Children's Clothing	91.45
+Children's Clothing	92.93
+Children's Clothing	93.03
+Children's Clothing	93.78
+Children's Clothing	95.71
+Children's Clothing	96.52
+Children's Clothing	99.83
+Computers	0.11
+Computers	1.62
+Computers	100.14
+Computers	100.38
+Computers	100.8
+Computers	102.53
+Computers	103.56
+Computers	103.56
+Computers	104.09
+Computers	106.08
+Computers	106.92
+Computers	108.85
+Computers	109.12
+Computers	110.17
+Computers	111.34
+Computers	111.9
+Computers	114.37
+Computers	114.99
+Computers	116.35
+Computers	116.41
+Computers	118.09
+Computers	119.61
+Computers	119.81
+Computers	119.92
+Computers	121.42
+Computers	121.6
+Computers	121.61
+Computers	124.56
+Computers	124.64
+Computers	124.86
+Computers	125.4
+Computers	127.34
+Computers	13.98
+Computers	130.41
+Computers	131.19
+Computers	131.77
+Computers	131.81
+Computers	132.37
+Computers	132.75
+Computers	133.03
+Computers	133.69
+Computers	134.61
+Computers	136.8
+Computers	138.73
+Computers	14.1
+Computers	14.53
+Computers	140.15
+Computers	140.3
+Computers	140.94
+Computers	140.96
+Computers	141.33
+Computers	141.38
+Computers	142.64
+Computers	144.9
+Computers	145.46
+Computers	147.63
+Computers	147.68
+Computers	148.55
+Computers	149.05
+Computers	149.29
+Computers	150.41
+Computers	150.78
+Computers	151.54
+Computers	152.26
+Computers	156.58
+Computers	156.69
+Computers	157.34
+Computers	157.45
+Computers	157.52
+Computers	16.51
+Computers	16.9
+Computers	160.6
+Computers	160.82
+Computers	160.9
+Computers	161.5
+Computers	162.37
+Computers	162.53
+Computers	162.85
+Computers	164.54
+Computers	164.78
+Computers	166.32
+Computers	166.53
+Computers	166.57
+Computers	168.63
+Computers	169.05
+Computers	169.4
+Computers	17.21
+Computers	171
+Computers	171.43
+Computers	173.96
+Computers	175.63
+Computers	175.91
+Computers	176.84
+Computers	18.38
+Computers	182.05
+Computers	182.68
+Computers	183.43
+Computers	183.53
+Computers	183.68
+Computers	184.05
+Computers	184.62
+Computers	184.64
+Computers	184.9
+Computers	187.11
+Computers	187.56
+Computers	188.18
+Computers	188.18
+Computers	188.79
+Computers	188.83
+Computers	189.74
+Computers	189.88
+Computers	191.19
+Computers	192.8
+Computers	193.47
+Computers	194.01
+Computers	194.81
+Computers	195.73
+Computers	196.68
+Computers	197.17
+Computers	198.39
+Computers	2.6
+Computers	2.7
+Computers	2.76
+Computers	201.74
+Computers	202.29
+Computers	202.7
+Computers	205.45
+Computers	207.48
+Computers	207.55
+Computers	207.59
+Computers	207.96
+Computers	208.16
+Computers	208.67
+Computers	209.68
+Computers	210.25
+Computers	211.1
+Computers	211.28
+Computers	211.74
+Computers	212.02
+Computers	212.18
+Computers	212.44
+Computers	213.94
+Computers	215.37
+Computers	216.48
+Computers	216.75
+Computers	218.45
+Computers	219.42
+Computers	219.65
+Computers	22.2
+Computers	220.75
+Computers	221.75
+Computers	221.87
+Computers	223.13
+Computers	224.79
+Computers	224.85
+Computers	226.87
+Computers	227.6
+Computers	228.03
+Computers	228.28
+Computers	228.79
+Computers	23.41
+Computers	23.54
+Computers	230.33
+Computers	231.22
+Computers	232.08
+Computers	232.26
+Computers	232.3
+Computers	233.1
+Computers	233.51
+Computers	233.52
+Computers	233.98
+Computers	234.3
+Computers	234.73
+Computers	235.57
+Computers	237.77
+Computers	238
+Computers	24.63
+Computers	240.11
+Computers	240.36
+Computers	241.39
+Computers	241.6
+Computers	242.64
+Computers	243.47
+Computers	244.35
+Computers	244.59
+Computers	244.76
+Computers	244.98
+Computers	245.89
+Computers	246.59
+Computers	247.62
+Computers	249.24
+Computers	249.65
+Computers	249.99
+Computers	25.16
+Computers	25.46
+Computers	250.89
+Computers	253.63
+Computers	255.58
+Computers	256.74
+Computers	258.24
+Computers	259.96
+Computers	26.07
+Computers	26.55
+Computers	260.11
+Computers	260.28
+Computers	261.16
+Computers	261.26
+Computers	261.39
+Computers	263.44
+Computers	264.44
+Computers	264.69
+Computers	265.13
+Computers	268.75
+Computers	269.45
+Computers	269.91
+Computers	27.13
+Computers	270.29
+Computers	272.53
+Computers	273.39
+Computers	274.42
+Computers	275.23
+Computers	276.68
+Computers	278.39
+Computers	278.41
+Computers	278.61
+Computers	278.98
+Computers	280.63
+Computers	281.66
+Computers	284.84
+Computers	285.77
+Computers	285.78
+Computers	287.65
+Computers	289.69
+Computers	29.22
+Computers	290.17
+Computers	290.43
+Computers	290.99
+Computers	292.22
+Computers	293.83
+Computers	294.36
+Computers	294.88
+Computers	295.48
+Computers	296.19
+Computers	296.61
+Computers	296.78
+Computers	296.79
+Computers	297.33
+Computers	298.17
+Computers	301.98
+Computers	302.07
+Computers	304.65
+Computers	307.06
+Computers	307.18
+Computers	307.9
+Computers	308.3
+Computers	309.23
+Computers	31.3
+Computers	310.47
+Computers	310.96
+Computers	311.6
+Computers	313.11
+Computers	315.33
+Computers	315.89
+Computers	317.06
+Computers	317.21
+Computers	317.32
+Computers	317.61
+Computers	318.24
+Computers	319.96
+Computers	321.49
+Computers	322.33
+Computers	322.49
+Computers	322.57
+Computers	323.21
+Computers	324.2
+Computers	324.61
+Computers	325.27
+Computers	325.47
+Computers	325.74
+Computers	325.79
+Computers	326.11
+Computers	328.69
+Computers	329.5
+Computers	329.88
+Computers	330.62
+Computers	331.21
+Computers	332.48
+Computers	333.82
+Computers	334.18
+Computers	337.55
+Computers	337.59
+Computers	338.95
+Computers	339.37
+Computers	339.89
+Computers	339.96
+Computers	34.42
+Computers	340.81
+Computers	342.18
+Computers	342.31
+Computers	342.35
+Computers	343.91
+Computers	344.3
+Computers	345.1
+Computers	345.62
+Computers	346.29
+Computers	347.62
+Computers	349.77
+Computers	350.19
+Computers	351.89
+Computers	352.69
+Computers	352.84
+Computers	352.87
+Computers	354.26
+Computers	355.7
+Computers	356.5
+Computers	357.33
+Computers	358.19
+Computers	359.29
+Computers	359.65
+Computers	359.77
+Computers	36.21
+Computers	36.26
+Computers	36.79
+Computers	360.66
+Computers	360.69
+Computers	360.96
+Computers	361.32
+Computers	362.27
+Computers	363.08
+Computers	367.01
+Computers	367.52
+Computers	368.94
+Computers	368.94
+Computers	37.07
+Computers	371.04
+Computers	371.3
+Computers	373.15
+Computers	373.35
+Computers	373.51
+Computers	375.31
+Computers	375.88
+Computers	376.61
+Computers	377.12
+Computers	38.24
+Computers	38.79
+Computers	38.94
+Computers	380
+Computers	380.66
+Computers	381.18
+Computers	382.01
+Computers	382.32
+Computers	382.56
+Computers	385.6
+Computers	386.15
+Computers	386.49
+Computers	388.39
+Computers	388.54
+Computers	388.71
+Computers	389.2
+Computers	389.33
+Computers	39.24
+Computers	39.72
+Computers	391.67
+Computers	392.79
+Computers	393.85
+Computers	395.63
+Computers	398.7
+Computers	399.48
+Computers	400.61
+Computers	401.13
+Computers	401.42
+Computers	402.53
+Computers	403.05
+Computers	403.45
+Computers	403.63
+Computers	403.99
+Computers	405.28
+Computers	405.83
+Computers	406.57
+Computers	407.51
+Computers	408
+Computers	408.14
+Computers	412.77
+Computers	414.47
+Computers	414.79
+Computers	414.98
+Computers	415.38
+Computers	416.07
+Computers	416.21
+Computers	418.85
+Computers	419.63
+Computers	420.02
+Computers	420.95
+Computers	421.82
+Computers	422.29
+Computers	422.56
+Computers	426.54
+Computers	426.64
+Computers	427
+Computers	427.38
+Computers	428.07
+Computers	428.64
+Computers	429.52
+Computers	429.56
+Computers	429.57
+Computers	429.73
+Computers	429.93
+Computers	43.68
+Computers	430.02
+Computers	430.22
+Computers	433.99
+Computers	436.22
+Computers	439.74
+Computers	44.58
+Computers	44.97
+Computers	441.01
+Computers	441.81
+Computers	442.82
+Computers	442.9
+Computers	445.18
+Computers	445.89
+Computers	446
+Computers	447.12
+Computers	448.61
+Computers	45.06
+Computers	450.18
+Computers	450.53
+Computers	451.41
+Computers	452.39
+Computers	454.24
+Computers	454.77
+Computers	455.4
+Computers	455.78
+Computers	456.54
+Computers	456.62
+Computers	457.17
+Computers	458.09
+Computers	458.15
+Computers	458.66
+Computers	458.75
+Computers	459.56
+Computers	459.82
+Computers	46.49
+Computers	461.48
+Computers	462.38
+Computers	464.34
+Computers	464.96
+Computers	465.38
+Computers	465.64
+Computers	466.6
+Computers	468.36
+Computers	469.44
+Computers	469.53
+Computers	47.14
+Computers	470.09
+Computers	471
+Computers	472.45
+Computers	473.29
+Computers	473.52
+Computers	473.86
+Computers	474.13
+Computers	478.2
+Computers	478.32
+Computers	478.39
+Computers	479.06
+Computers	479.73
+Computers	479.92
+Computers	48.85
+Computers	481.68
+Computers	481.87
+Computers	481.93
+Computers	484.19
+Computers	485.57
+Computers	485.63
+Computers	486.76
+Computers	487.46
+Computers	49.13
+Computers	49.14
+Computers	490.93
+Computers	491.39
+Computers	492.65
+Computers	493.29
+Computers	494.32
+Computers	494.44
+Computers	495.78
+Computers	496.6
+Computers	497
+Computers	497.85
+Computers	498.09
+Computers	498.21
+Computers	498.96
+Computers	499.27
+Computers	499.55
+Computers	499.6
+Computers	51.11
+Computers	54.26
+Computers	54.63
+Computers	54.75
+Computers	55.16
+Computers	57.3
+Computers	58.76
+Computers	59.04
+Computers	60.3
+Computers	61.1
+Computers	62.07
+Computers	62.13
+Computers	62.14
+Computers	62.83
+Computers	63.85
+Computers	63.86
+Computers	64.19
+Computers	64.71
+Computers	66.07
+Computers	67.12
+Computers	67.26
+Computers	67.94
+Computers	69.62
+Computers	7.58
+Computers	71.51
+Computers	72.61
+Computers	73.06
+Computers	73.11
+Computers	74.83
+Computers	74.95
+Computers	75.86
+Computers	76.12
+Computers	77.16
+Computers	77.36
+Computers	79.36
+Computers	82.84
+Computers	82.86
+Computers	83.43
+Computers	83.51
+Computers	83.74
+Computers	84.89
+Computers	85.8
+Computers	87.48
+Computers	9.52
+Computers	9.91
+Computers	90.49
+Computers	91.11
+Computers	91.56
+Computers	92.43
+Computers	94.18
+Computers	94.69
+Computers	95.19
+Computers	97.37
+Computers	98.85
+Computers	99.79
+Computers	99.91
+Consumer Electronics	0.76
+Consumer Electronics	1.91
+Consumer Electronics	1.94
+Consumer Electronics	10.9
+Consumer Electronics	100.75
+Consumer Electronics	101.75
+Consumer Electronics	102.4
+Consumer Electronics	102.56
+Consumer Electronics	103.02
+Consumer Electronics	104.78
+Consumer Electronics	104.82
+Consumer Electronics	105.36
+Consumer Electronics	105.93
+Consumer Electronics	106.2
+Consumer Electronics	106.61
+Consumer Electronics	106.99
+Consumer Electronics	107.99
+Consumer Electronics	109.2
+Consumer Electronics	109.21
+Consumer Electronics	109.25
+Consumer Electronics	110.66
+Consumer Electronics	110.69
+Consumer Electronics	111.55
+Consumer Electronics	113.14
+Consumer Electronics	113.66
+Consumer Electronics	115.29
+Consumer Electronics	117.81
+Consumer Electronics	117.82
+Consumer Electronics	118.32
+Consumer Electronics	118.46
+Consumer Electronics	119.09
+Consumer Electronics	119.22
+Consumer Electronics	12.37
+Consumer Electronics	120.23
+Consumer Electronics	120.47
+Consumer Electronics	120.78
+Consumer Electronics	121.72
+Consumer Electronics	122.02
+Consumer Electronics	122.17
+Consumer Electronics	122.38
+Consumer Electronics	122.55
+Consumer Electronics	124.89
+Consumer Electronics	125.46
+Consumer Electronics	127.3
+Consumer Electronics	129.9
+Consumer Electronics	130.6
+Consumer Electronics	131.05
+Consumer Electronics	132.79
+Consumer Electronics	133.34
+Consumer Electronics	134.21
+Consumer Electronics	134.7
+Consumer Electronics	136.48
+Consumer Electronics	137.58
+Consumer Electronics	139.07
+Consumer Electronics	139.9
+Consumer Electronics	14.72
+Consumer Electronics	141.7
+Consumer Electronics	141.86
+Consumer Electronics	143.44
+Consumer Electronics	147.58
+Consumer Electronics	147.98
+Consumer Electronics	148.08
+Consumer Electronics	148.14
+Consumer Electronics	149.42
+Consumer Electronics	150.11
+Consumer Electronics	150.56
+Consumer Electronics	150.99
+Consumer Electronics	151.38
+Consumer Electronics	151.86
+Consumer Electronics	153.11
+Consumer Electronics	153.84
+Consumer Electronics	153.93
+Consumer Electronics	154.01
+Consumer Electronics	155.04
+Consumer Electronics	156.71
+Consumer Electronics	157.25
+Consumer Electronics	159.61
+Consumer Electronics	16.04
+Consumer Electronics	160.03
+Consumer Electronics	160.98
+Consumer Electronics	162.63
+Consumer Electronics	163.31
+Consumer Electronics	163.49
+Consumer Electronics	164.27
+Consumer Electronics	164.55
+Consumer Electronics	167.01
+Consumer Electronics	167.21
+Consumer Electronics	169.37
+Consumer Electronics	17.5
+Consumer Electronics	170.03
+Consumer Electronics	170.2
+Consumer Electronics	171.62
+Consumer Electronics	172.91
+Consumer Electronics	174.36
+Consumer Electronics	177.19
+Consumer Electronics	179.27
+Consumer Electronics	180.52
+Consumer Electronics	180.61
+Consumer Electronics	181.11
+Consumer Electronics	182.55
+Consumer Electronics	183.15
+Consumer Electronics	184.1
+Consumer Electronics	184.36
+Consumer Electronics	185.67
+Consumer Electronics	186.6
+Consumer Electronics	187.28
+Consumer Electronics	187.67
+Consumer Electronics	187.85
+Consumer Electronics	188.16
+Consumer Electronics	188.86
+Consumer Electronics	189.3
+Consumer Electronics	189.43
+Consumer Electronics	190.62
+Consumer Electronics	191.16
+Consumer Electronics	191.39
+Consumer Electronics	192.84
+Consumer Electronics	193.96
+Consumer Electronics	194.03
+Consumer Electronics	194.28
+Consumer Electronics	195.25
+Consumer Electronics	196.08
+Consumer Electronics	198.68
+Consumer Electronics	2.01
+Consumer Electronics	20.38
+Consumer Electronics	205.51
+Consumer Electronics	206.2
+Consumer Electronics	206.92
+Consumer Electronics	207.73
+Consumer Electronics	21.5
+Consumer Electronics	212.49
+Consumer Electronics	213.26
+Consumer Electronics	215.04
+Consumer Electronics	215.11
+Consumer Electronics	216.12
+Consumer Electronics	216.56
+Consumer Electronics	216.75
+Consumer Electronics	219.21
+Consumer Electronics	219.25
+Consumer Electronics	222.75
+Consumer Electronics	223.36
+Consumer Electronics	224.49
+Consumer Electronics	225.17
+Consumer Electronics	225.58
+Consumer Electronics	226.08
+Consumer Electronics	228.17
+Consumer Electronics	228.25
+Consumer Electronics	229.9
+Consumer Electronics	23.22
+Consumer Electronics	231.65
+Consumer Electronics	232.11
+Consumer Electronics	232.14
+Consumer Electronics	232.45
+Consumer Electronics	233
+Consumer Electronics	233.61
+Consumer Electronics	234.06
+Consumer Electronics	234.25
+Consumer Electronics	236.54
+Consumer Electronics	236.85
+Consumer Electronics	238.39
+Consumer Electronics	239.29
+Consumer Electronics	239.49
+Consumer Electronics	241.32
+Consumer Electronics	244.33
+Consumer Electronics	245.15
+Consumer Electronics	245.78
+Consumer Electronics	246.66
+Consumer Electronics	247.47
+Consumer Electronics	248.48
+Consumer Electronics	248.96
+Consumer Electronics	249.97
+Consumer Electronics	25.74
+Consumer Electronics	25.78
+Consumer Electronics	250.21
+Consumer Electronics	252.06
+Consumer Electronics	252.88
+Consumer Electronics	252.9
+Consumer Electronics	254.34
+Consumer Electronics	254.47
+Consumer Electronics	256.56
+Consumer Electronics	256.87
+Consumer Electronics	259.02
+Consumer Electronics	26.22
+Consumer Electronics	260.53
+Consumer Electronics	260.58
+Consumer Electronics	263.18
+Consumer Electronics	263.28
+Consumer Electronics	263.36
+Consumer Electronics	263.49
+Consumer Electronics	265.2
+Consumer Electronics	265.97
+Consumer Electronics	266.31
+Consumer Electronics	267.56
+Consumer Electronics	268.6
+Consumer Electronics	270.73
+Consumer Electronics	271.25
+Consumer Electronics	271.48
+Consumer Electronics	272.7
+Consumer Electronics	272.99
+Consumer Electronics	273.06
+Consumer Electronics	277.72
+Consumer Electronics	277.74
+Consumer Electronics	28.37
+Consumer Electronics	28.4
+Consumer Electronics	28.67
+Consumer Electronics	280.77
+Consumer Electronics	281.19
+Consumer Electronics	281.88
+Consumer Electronics	282.01
+Consumer Electronics	283.09
+Consumer Electronics	284.48
+Consumer Electronics	284.56
+Consumer Electronics	284.8
+Consumer Electronics	284.87
+Consumer Electronics	284.96
+Consumer Electronics	286.71
+Consumer Electronics	289.3
+Consumer Electronics	29.07
+Consumer Electronics	29.43
+Consumer Electronics	290.49
+Consumer Electronics	293.15
+Consumer Electronics	294.62
+Consumer Electronics	296.2
+Consumer Electronics	296.8
+Consumer Electronics	297.37
+Consumer Electronics	297.7
+Consumer Electronics	299.39
+Consumer Electronics	299.83
+Consumer Electronics	3.85
+Consumer Electronics	30.82
+Consumer Electronics	300.92
+Consumer Electronics	301.4
+Consumer Electronics	302.24
+Consumer Electronics	303.93
+Consumer Electronics	304.62
+Consumer Electronics	306.06
+Consumer Electronics	306.08
+Consumer Electronics	307.14
+Consumer Electronics	308.08
+Consumer Electronics	309.11
+Consumer Electronics	311.32
+Consumer Electronics	313.96
+Consumer Electronics	314.21
+Consumer Electronics	314.41
+Consumer Electronics	315.11
+Consumer Electronics	315.87
+Consumer Electronics	316.85
+Consumer Electronics	317.53
+Consumer Electronics	318.87
+Consumer Electronics	32.86
+Consumer Electronics	321.14
+Consumer Electronics	321.67
+Consumer Electronics	322.26
+Consumer Electronics	323.17
+Consumer Electronics	323.55
+Consumer Electronics	323.78
+Consumer Electronics	324.32
+Consumer Electronics	325.1
+Consumer Electronics	325.71
+Consumer Electronics	326.42
+Consumer Electronics	327.12
+Consumer Electronics	327.28
+Consumer Electronics	329.63
+Consumer Electronics	33.83
+Consumer Electronics	330.56
+Consumer Electronics	331.6
+Consumer Electronics	331.68
+Consumer Electronics	332.98
+Consumer Electronics	333.05
+Consumer Electronics	334.07
+Consumer Electronics	334.26
+Consumer Electronics	334.73
+Consumer Electronics	334.8
+Consumer Electronics	334.99
+Consumer Electronics	335.33
+Consumer Electronics	335.61
+Consumer Electronics	336.38
+Consumer Electronics	336.72
+Consumer Electronics	337.01
+Consumer Electronics	337.33
+Consumer Electronics	337.33
+Consumer Electronics	337.41
+Consumer Electronics	337.62
+Consumer Electronics	337.97
+Consumer Electronics	338.7
+Consumer Electronics	34.13
+Consumer Electronics	341.53
+Consumer Electronics	341.83
+Consumer Electronics	343.46
+Consumer Electronics	343.7
+Consumer Electronics	343.7
+Consumer Electronics	344.75
+Consumer Electronics	345.01
+Consumer Electronics	345.1
+Consumer Electronics	345.4
+Consumer Electronics	345.96
+Consumer Electronics	346.35
+Consumer Electronics	347.29
+Consumer Electronics	349.06
+Consumer Electronics	349.96
+Consumer Electronics	35.01
+Consumer Electronics	35.01
+Consumer Electronics	35.89
+Consumer Electronics	351.19
+Consumer Electronics	351.69
+Consumer Electronics	354.62
+Consumer Electronics	355.66
+Consumer Electronics	357.79
+Consumer Electronics	358.19
+Consumer Electronics	358.99
+Consumer Electronics	359.8
+Consumer Electronics	360.41
+Consumer Electronics	361.68
+Consumer Electronics	362.29
+Consumer Electronics	362.65
+Consumer Electronics	363.27
+Consumer Electronics	363.61
+Consumer Electronics	363.89
+Consumer Electronics	364.52
+Consumer Electronics	364.94
+Consumer Electronics	366.56
+Consumer Electronics	37.31
+Consumer Electronics	370.37
+Consumer Electronics	370.89
+Consumer Electronics	371.6
+Consumer Electronics	373.43
+Consumer Electronics	373.6
+Consumer Electronics	373.77
+Consumer Electronics	374.26
+Consumer Electronics	375.74
+Consumer Electronics	376.12
+Consumer Electronics	376.82
+Consumer Electronics	377.6
+Consumer Electronics	378.06
+Consumer Electronics	381.5
+Consumer Electronics	382.95
+Consumer Electronics	383.04
+Consumer Electronics	383.5
+Consumer Electronics	383.87
+Consumer Electronics	383.92
+Consumer Electronics	384.07
+Consumer Electronics	384.59
+Consumer Electronics	384.74
+Consumer Electronics	385.7
+Consumer Electronics	385.89
+Consumer Electronics	386.24
+Consumer Electronics	386.57
+Consumer Electronics	388.39
+Consumer Electronics	388.44
+Consumer Electronics	388.66
+Consumer Electronics	388.83
+Consumer Electronics	390.15
+Consumer Electronics	391.02
+Consumer Electronics	391.5
+Consumer Electronics	392.13
+Consumer Electronics	392.87
+Consumer Electronics	392.9
+Consumer Electronics	393.55
+Consumer Electronics	394.08
+Consumer Electronics	394.6
+Consumer Electronics	395.99
+Consumer Electronics	396.12
+Consumer Electronics	396.42
+Consumer Electronics	397.22
+Consumer Electronics	398.69
+Consumer Electronics	398.94
+Consumer Electronics	399.4
+Consumer Electronics	400.33
+Consumer Electronics	401.51
+Consumer Electronics	402.27
+Consumer Electronics	402.49
+Consumer Electronics	403.62
+Consumer Electronics	403.77
+Consumer Electronics	404.01
+Consumer Electronics	406.53
+Consumer Electronics	407.43
+Consumer Electronics	407.87
+Consumer Electronics	409.13
+Consumer Electronics	410.05
+Consumer Electronics	410.53
+Consumer Electronics	410.64
+Consumer Electronics	411.35
+Consumer Electronics	412.03
+Consumer Electronics	413.85
+Consumer Electronics	415.36
+Consumer Electronics	416.04
+Consumer Electronics	417.24
+Consumer Electronics	417.27
+Consumer Electronics	418.38
+Consumer Electronics	419.85
+Consumer Electronics	42.48
+Consumer Electronics	422.48
+Consumer Electronics	423.52
+Consumer Electronics	423.94
+Consumer Electronics	424.19
+Consumer Electronics	424.42
+Consumer Electronics	426.87
+Consumer Electronics	426.9
+Consumer Electronics	427.32
+Consumer Electronics	428.72
+Consumer Electronics	428.74
+Consumer Electronics	428.81
+Consumer Electronics	43.37
+Consumer Electronics	43.97
+Consumer Electronics	430.36
+Consumer Electronics	430.4
+Consumer Electronics	432.13
+Consumer Electronics	432.15
+Consumer Electronics	432.45
+Consumer Electronics	433.71
+Consumer Electronics	433.97
+Consumer Electronics	435.3
+Consumer Electronics	435.67
+Consumer Electronics	437.19
+Consumer Electronics	438.48
+Consumer Electronics	438.7
+Consumer Electronics	438.74
+Consumer Electronics	439.33
+Consumer Electronics	44.18
+Consumer Electronics	441.17
+Consumer Electronics	441.43
+Consumer Electronics	441.85
+Consumer Electronics	443.59
+Consumer Electronics	443.79
+Consumer Electronics	444.78
+Consumer Electronics	444.93
+Consumer Electronics	446.19
+Consumer Electronics	446.96
+Consumer Electronics	447.17
+Consumer Electronics	448.22
+Consumer Electronics	448.39
+Consumer Electronics	45.26
+Consumer Electronics	450.3
+Consumer Electronics	450.59
+Consumer Electronics	450.79
+Consumer Electronics	455.71
+Consumer Electronics	456.61
+Consumer Electronics	457.08
+Consumer Electronics	457.71
+Consumer Electronics	457.82
+Consumer Electronics	460.51
+Consumer Electronics	461.33
+Consumer Electronics	461.55
+Consumer Electronics	461.92
+Consumer Electronics	462.7
+Consumer Electronics	464.02
+Consumer Electronics	464.24
+Consumer Electronics	465.98
+Consumer Electronics	466.61
+Consumer Electronics	466.97
+Consumer Electronics	467.56
+Consumer Electronics	468.8
+Consumer Electronics	47.29
+Consumer Electronics	47.37
+Consumer Electronics	47.45
+Consumer Electronics	470.16
+Consumer Electronics	470.71
+Consumer Electronics	472.96
+Consumer Electronics	473.63
+Consumer Electronics	474.08
+Consumer Electronics	474.46
+Consumer Electronics	476.47
+Consumer Electronics	477.01
+Consumer Electronics	477.22
+Consumer Electronics	477.46
+Consumer Electronics	477.54
+Consumer Electronics	478.23
+Consumer Electronics	48.11
+Consumer Electronics	480.24
+Consumer Electronics	480.42
+Consumer Electronics	481.17
+Consumer Electronics	481.44
+Consumer Electronics	481.61
+Consumer Electronics	482.38
+Consumer Electronics	483.08
+Consumer Electronics	483.41
+Consumer Electronics	484.69
+Consumer Electronics	484.73
+Consumer Electronics	484.94
+Consumer Electronics	484.95
+Consumer Electronics	485.71
+Consumer Electronics	485.8
+Consumer Electronics	486.31
+Consumer Electronics	486.4
+Consumer Electronics	487.05
+Consumer Electronics	487.27
+Consumer Electronics	487.45
+Consumer Electronics	489.45
+Consumer Electronics	489.69
+Consumer Electronics	489.9
+Consumer Electronics	490.22
+Consumer Electronics	491.28
+Consumer Electronics	493.1
+Consumer Electronics	494.48
+Consumer Electronics	494.99
+Consumer Electronics	497.22
+Consumer Electronics	498.73
+Consumer Electronics	498.79
+Consumer Electronics	498.93
+Consumer Electronics	499.17
+Consumer Electronics	5.63
+Consumer Electronics	52
+Consumer Electronics	52.46
+Consumer Electronics	54.12
+Consumer Electronics	54.54
+Consumer Electronics	54.93
+Consumer Electronics	55.02
+Consumer Electronics	55.34
+Consumer Electronics	57.07
+Consumer Electronics	57.16
+Consumer Electronics	57.74
+Consumer Electronics	58.07
+Consumer Electronics	59.07
+Consumer Electronics	59.32
+Consumer Electronics	59.58
+Consumer Electronics	6.26
+Consumer Electronics	62.72
+Consumer Electronics	63.01
+Consumer Electronics	64.04
+Consumer Electronics	65.32
+Consumer Electronics	65.94
+Consumer Electronics	66.34
+Consumer Electronics	67.71
+Consumer Electronics	71.25
+Consumer Electronics	74.58
+Consumer Electronics	75.3
+Consumer Electronics	75.38
+Consumer Electronics	76.45
+Consumer Electronics	76.89
+Consumer Electronics	78.8
+Consumer Electronics	79.67
+Consumer Electronics	79.74
+Consumer Electronics	8.24
+Consumer Electronics	8.9
+Consumer Electronics	81.05
+Consumer Electronics	81.41
+Consumer Electronics	81.94
+Consumer Electronics	82.56
+Consumer Electronics	83.29
+Consumer Electronics	84.16
+Consumer Electronics	84.26
+Consumer Electronics	84.35
+Consumer Electronics	84.58
+Consumer Electronics	85.95
+Consumer Electronics	86.04
+Consumer Electronics	87.77
+Consumer Electronics	89.53
+Consumer Electronics	89.97
+Consumer Electronics	9.33
+Consumer Electronics	9.49
+Consumer Electronics	90.22
+Consumer Electronics	90.39
+Consumer Electronics	90.66
+Consumer Electronics	91.03
+Consumer Electronics	91.12
+Consumer Electronics	91.14
+Consumer Electronics	91.81
+Consumer Electronics	93.2
+Consumer Electronics	95
+Consumer Electronics	95.13
+Consumer Electronics	96.31
+Consumer Electronics	96.69
+Consumer Electronics	97.4
+Consumer Electronics	97.63
+Consumer Electronics	98.55
+Crafts	0.69
+Crafts	1.15
+Crafts	102.41
+Crafts	103.46
+Crafts	103.63
+Crafts	105.36
+Crafts	105.74
+Crafts	106.37
+Crafts	107.95
+Crafts	108.34
+Crafts	108.73
+Crafts	108.8
+Crafts	11.34
+Crafts	11.84
+Crafts	110.71
+Crafts	110.8
+Crafts	111.35
+Crafts	112.57
+Crafts	113.72
+Crafts	114.08
+Crafts	114.68
+Crafts	115.51
+Crafts	116.34
+Crafts	116.88
+Crafts	117.76
+Crafts	118.27
+Crafts	119.57
+Crafts	119.65
+Crafts	12.14
+Crafts	12.15
+Crafts	121.04
+Crafts	121.79
+Crafts	125.8
+Crafts	126.07
+Crafts	127.8
+Crafts	129.73
+Crafts	129.98
+Crafts	13.72
+Crafts	130.24
+Crafts	130.31
+Crafts	130.88
+Crafts	131.69
+Crafts	132.12
+Crafts	132.16
+Crafts	132.26
+Crafts	133.14
+Crafts	133.71
+Crafts	134.89
+Crafts	134.94
+Crafts	137.21
+Crafts	139.17
+Crafts	139.34
+Crafts	139.86
+Crafts	140.47
+Crafts	141.51
+Crafts	142.07
+Crafts	142.32
+Crafts	142.38
+Crafts	142.41
+Crafts	142.46
+Crafts	142.51
+Crafts	144.06
+Crafts	145.56
+Crafts	147.82
+Crafts	148.93
+Crafts	149.94
+Crafts	15.13
+Crafts	150.84
+Crafts	151.27
+Crafts	151.41
+Crafts	152.12
+Crafts	154.06
+Crafts	154.62
+Crafts	155.17
+Crafts	155.66
+Crafts	156.31
+Crafts	157.42
+Crafts	158.88
+Crafts	159.17
+Crafts	159.58
+Crafts	159.93
+Crafts	16.09
+Crafts	16.43
+Crafts	160.43
+Crafts	162.38
+Crafts	162.97
+Crafts	163.28
+Crafts	163.76
+Crafts	164.53
+Crafts	166.65
+Crafts	167.05
+Crafts	167.18
+Crafts	168.98
+Crafts	17.65
+Crafts	170.06
+Crafts	170.33
+Crafts	170.94
+Crafts	172.6
+Crafts	173.75
+Crafts	174.17
+Crafts	174.17
+Crafts	175.31
+Crafts	175.4
+Crafts	175.65
+Crafts	175.72
+Crafts	175.85
+Crafts	176
+Crafts	176.22
+Crafts	177.43
+Crafts	177.61
+Crafts	179.45
+Crafts	18.05
+Crafts	18.58
+Crafts	180.49
+Crafts	180.62
+Crafts	180.79
+Crafts	181.32
+Crafts	181.64
+Crafts	182.56
+Crafts	184.12
+Crafts	184.17
+Crafts	187.19
+Crafts	187.3
+Crafts	187.54
+Crafts	187.85
+Crafts	188.5
+Crafts	190.53
+Crafts	191.65
+Crafts	191.82
+Crafts	193.72
+Crafts	193.9
+Crafts	195.52
+Crafts	196.34
+Crafts	196.34
+Crafts	196.42
+Crafts	196.83
+Crafts	197.08
+Crafts	197.31
+Crafts	197.75
+Crafts	198.63
+Crafts	20.07
+Crafts	200.21
+Crafts	202.69
+Crafts	203.12
+Crafts	203.2
+Crafts	203.56
+Crafts	204.36
+Crafts	204.56
+Crafts	204.63
+Crafts	206.1
+Crafts	208.8
+Crafts	21.03
+Crafts	21.33
+Crafts	210.96
+Crafts	212.77
+Crafts	213.12
+Crafts	213.51
+Crafts	214.25
+Crafts	214.99
+Crafts	215.01
+Crafts	215.22
+Crafts	215.58
+Crafts	216.96
+Crafts	216.99
+Crafts	218.31
+Crafts	219.32
+Crafts	219.96
+Crafts	22.36
+Crafts	220.27
+Crafts	224.69
+Crafts	224.71
+Crafts	225.57
+Crafts	225.81
+Crafts	225.82
+Crafts	227.04
+Crafts	227.17
+Crafts	227.44
+Crafts	228.64
+Crafts	23.96
+Crafts	230.76
+Crafts	230.81
+Crafts	233.18
+Crafts	236.79
+Crafts	238.04
+Crafts	239.95
+Crafts	24.31
+Crafts	24.59
+Crafts	240.85
+Crafts	241.14
+Crafts	241.2
+Crafts	241.8
+Crafts	242.16
+Crafts	242.5
+Crafts	244.07
+Crafts	244.08
+Crafts	245.57
+Crafts	249.36
+Crafts	25.28
+Crafts	25.61
+Crafts	25.73
+Crafts	251.01
+Crafts	251.57
+Crafts	251.73
+Crafts	251.8
+Crafts	252.56
+Crafts	253.46
+Crafts	254.39
+Crafts	254.95
+Crafts	255.94
+Crafts	256.6
+Crafts	256.7
+Crafts	257.22
+Crafts	257.23
+Crafts	257.53
+Crafts	26.53
+Crafts	261.7
+Crafts	263.27
+Crafts	263.42
+Crafts	263.43
+Crafts	265.33
+Crafts	265.38
+Crafts	265.69
+Crafts	265.99
+Crafts	266.84
+Crafts	267.03
+Crafts	270.49
+Crafts	270.58
+Crafts	271.43
+Crafts	271.92
+Crafts	271.98
+Crafts	272.13
+Crafts	272.24
+Crafts	275.23
+Crafts	278.07
+Crafts	278.26
+Crafts	278.48
+Crafts	279.59
+Crafts	279.73
+Crafts	28.76
+Crafts	28.86
+Crafts	28.93
+Crafts	280.54
+Crafts	280.61
+Crafts	284.83
+Crafts	286.07
+Crafts	287.09
+Crafts	287.2
+Crafts	288.58
+Crafts	288.96
+Crafts	290.46
+Crafts	291.31
+Crafts	291.75
+Crafts	292.7
+Crafts	293.48
+Crafts	295.53
+Crafts	295.89
+Crafts	296.41
+Crafts	296.45
+Crafts	297.46
+Crafts	297.9
+Crafts	298.18
+Crafts	298.41
+Crafts	298.66
+Crafts	298.87
+Crafts	299.03
+Crafts	299.31
+Crafts	3.7
+Crafts	300.57
+Crafts	301.83
+Crafts	303.21
+Crafts	303.27
+Crafts	304.77
+Crafts	306.24
+Crafts	308.19
+Crafts	308.23
+Crafts	308.4
+Crafts	310.67
+Crafts	310.82
+Crafts	312.03
+Crafts	312.09
+Crafts	312.9
+Crafts	314.01
+Crafts	314.27
+Crafts	314.35
+Crafts	315.27
+Crafts	315.3
+Crafts	315.73
+Crafts	315.85
+Crafts	316.42
+Crafts	316.64
+Crafts	317.01
+Crafts	317.31
+Crafts	317.6
+Crafts	317.95
+Crafts	318.57
+Crafts	318.58
+Crafts	319.53
+Crafts	319.89
+Crafts	320.81
+Crafts	323.4
+Crafts	323.45
+Crafts	325.31
+Crafts	325.94
+Crafts	327.09
+Crafts	327.31
+Crafts	327.56
+Crafts	328.42
+Crafts	328.69
+Crafts	33.13
+Crafts	33.17
+Crafts	330.17
+Crafts	330.64
+Crafts	331.17
+Crafts	334.47
+Crafts	336.07
+Crafts	337.8
+Crafts	338.06
+Crafts	338.1
+Crafts	338.52
+Crafts	34.26
+Crafts	34.54
+Crafts	341.54
+Crafts	342.35
+Crafts	345.73
+Crafts	346.29
+Crafts	347.93
+Crafts	348.43
+Crafts	348.68
+Crafts	348.8
+Crafts	35.81
+Crafts	351.5
+Crafts	351.62
+Crafts	352.2
+Crafts	352.2
+Crafts	352.95
+Crafts	353.33
+Crafts	353.5
+Crafts	354.9
+Crafts	356.98
+Crafts	357.31
+Crafts	357.68
+Crafts	357.88
+Crafts	358.75
+Crafts	359.49
+Crafts	360.34
+Crafts	360.35
+Crafts	360.87
+Crafts	361.49
+Crafts	362.26
+Crafts	362.61
+Crafts	365.05
+Crafts	365.68
+Crafts	367.05
+Crafts	367.2
+Crafts	367.4
+Crafts	368.16
+Crafts	37.11
+Crafts	37.55
+Crafts	371.14
+Crafts	371.76
+Crafts	371.95
+Crafts	373.49
+Crafts	375.07
+Crafts	375.33
+Crafts	375.58
+Crafts	378.98
+Crafts	379.47
+Crafts	379.53
+Crafts	38.31
+Crafts	38.67
+Crafts	382.08
+Crafts	382.88
+Crafts	383.02
+Crafts	384.19
+Crafts	384.63
+Crafts	385.52
+Crafts	386.27
+Crafts	388.46
+Crafts	388.52
+Crafts	39.27
+Crafts	39.38
+Crafts	390.44
+Crafts	391.8
+Crafts	392.63
+Crafts	392.72
+Crafts	393.61
+Crafts	394.35
+Crafts	395.62
+Crafts	398.07
+Crafts	4.61
+Crafts	40.51
+Crafts	40.65
+Crafts	40.95
+Crafts	400.55
+Crafts	401.2
+Crafts	401.67
+Crafts	402
+Crafts	402.77
+Crafts	403.05
+Crafts	403.49
+Crafts	404.83
+Crafts	405.33
+Crafts	407.37
+Crafts	412.75
+Crafts	414.2
+Crafts	414.85
+Crafts	415.18
+Crafts	415.67
+Crafts	415.71
+Crafts	417.28
+Crafts	417.56
+Crafts	417.78
+Crafts	419.06
+Crafts	419.49
+Crafts	419.83
+Crafts	42.81
+Crafts	420.52
+Crafts	422.64
+Crafts	425.3
+Crafts	425.6
+Crafts	426.56
+Crafts	427.19
+Crafts	427.29
+Crafts	427.31
+Crafts	427.4
+Crafts	428.27
+Crafts	428.43
+Crafts	429.18
+Crafts	43.25
+Crafts	43.37
+Crafts	431.05
+Crafts	431.08
+Crafts	431.59
+Crafts	432
+Crafts	434.43
+Crafts	434.68
+Crafts	434.97
+Crafts	437.19
+Crafts	437.43
+Crafts	437.52
+Crafts	437.69
+Crafts	438.62
+Crafts	439.03
+Crafts	44.41
+Crafts	44.57
+Crafts	440.61
+Crafts	441.85
+Crafts	441.9
+Crafts	442.82
+Crafts	443.37
+Crafts	443.46
+Crafts	444.07
+Crafts	445.83
+Crafts	447.03
+Crafts	448.22
+Crafts	449.29
+Crafts	452.23
+Crafts	452.97
+Crafts	453.08
+Crafts	457.27
+Crafts	461.05
+Crafts	461.48
+Crafts	461.75
+Crafts	462.24
+Crafts	462.74
+Crafts	463.28
+Crafts	464.47
+Crafts	464.76
+Crafts	464.97
+Crafts	466.17
+Crafts	466.44
+Crafts	467.1
+Crafts	467.14
+Crafts	469.05
+Crafts	469.61
+Crafts	47.21
+Crafts	47.42
+Crafts	472.05
+Crafts	473.47
+Crafts	475.54
+Crafts	475.74
+Crafts	476.72
+Crafts	479.37
+Crafts	479.76
+Crafts	48.45
+Crafts	48.53
+Crafts	480.53
+Crafts	480.69
+Crafts	480.9
+Crafts	481.87
+Crafts	482.62
+Crafts	482.81
+Crafts	482.99
+Crafts	484.1
+Crafts	487.25
+Crafts	488.01
+Crafts	489.44
+Crafts	489.8
+Crafts	490.33
+Crafts	490.8
+Crafts	492.38
+Crafts	492.86
+Crafts	493.52
+Crafts	494.67
+Crafts	495.51
+Crafts	495.97
+Crafts	497.67
+Crafts	5.9
+Crafts	50.34
+Crafts	54.02
+Crafts	54.05
+Crafts	54.65
+Crafts	55.28
+Crafts	58.87
+Crafts	59.69
+Crafts	6.97
+Crafts	60.1
+Crafts	61.39
+Crafts	62.95
+Crafts	63.36
+Crafts	63.56
+Crafts	64.21
+Crafts	64.82
+Crafts	69.17
+Crafts	69.77
+Crafts	69.78
+Crafts	7.98
+Crafts	70.37
+Crafts	70.46
+Crafts	72.7
+Crafts	74.45
+Crafts	74.87
+Crafts	78.3
+Crafts	8.36
+Crafts	8.45
+Crafts	8.77
+Crafts	81.5
+Crafts	82.58
+Crafts	84.21
+Crafts	87.78
+Crafts	88.25
+Crafts	88.61
+Crafts	89.56
+Crafts	9.89
+Crafts	90.9
+Crafts	91.26
+Crafts	91.43
+Crafts	91.72
+Crafts	91.77
+Crafts	91.97
+Crafts	91.98
+Crafts	97.23
+Crafts	97.71
+Crafts	98.62
+Crafts	98.79
+Crafts	99.78
+DVDs	0.18
+DVDs	0.69
+DVDs	101.83
+DVDs	102.1
+DVDs	102.39
+DVDs	102.74
+DVDs	103.36
+DVDs	106.05
+DVDs	107.4
+DVDs	107.48
+DVDs	108.25
+DVDs	108.75
+DVDs	109.04
+DVDs	109.42
+DVDs	110.04
+DVDs	110.52
+DVDs	111.23
+DVDs	113.27
+DVDs	114
+DVDs	114.24
+DVDs	117.84
+DVDs	117.98
+DVDs	119.85
+DVDs	119.97
+DVDs	120.96
+DVDs	121.61
+DVDs	123.28
+DVDs	123.57
+DVDs	124.32
+DVDs	124.85
+DVDs	126.39
+DVDs	127.24
+DVDs	13.54
+DVDs	130.88
+DVDs	132.6
+DVDs	133.41
+DVDs	134.17
+DVDs	135.86
+DVDs	136.06
+DVDs	136.65
+DVDs	138.01
+DVDs	139.26
+DVDs	14.19
+DVDs	14.55
+DVDs	14.74
+DVDs	14.81
+DVDs	140.07
+DVDs	142.09
+DVDs	142.77
+DVDs	142.86
+DVDs	143.95
+DVDs	145.3
+DVDs	146.4
+DVDs	146.58
+DVDs	146.92
+DVDs	147.52
+DVDs	147.78
+DVDs	148.25
+DVDs	149.57
+DVDs	149.69
+DVDs	15.67
+DVDs	15.84
+DVDs	152.05
+DVDs	152.92
+DVDs	153.54
+DVDs	155.51
+DVDs	159.03
+DVDs	159.38
+DVDs	159.51
+DVDs	159.7
+DVDs	159.88
+DVDs	160.96
+DVDs	161.77
+DVDs	162.43
+DVDs	162.96
+DVDs	164.38
+DVDs	164.65
+DVDs	164.67
+DVDs	165.94
+DVDs	165.96
+DVDs	166.52
+DVDs	167.28
+DVDs	168.29
+DVDs	168.98
+DVDs	169.4
+DVDs	169.45
+DVDs	169.84
+DVDs	170.85
+DVDs	173.64
+DVDs	173.92
+DVDs	174.12
+DVDs	174.89
+DVDs	175.48
+DVDs	176.23
+DVDs	176.74
+DVDs	177.42
+DVDs	177.51
+DVDs	179.44
+DVDs	179.86
+DVDs	180.09
+DVDs	181.17
+DVDs	183.24
+DVDs	183.73
+DVDs	185.21
+DVDs	186.22
+DVDs	187.18
+DVDs	187.25
+DVDs	188.03
+DVDs	188.5
+DVDs	189.81
+DVDs	190.39
+DVDs	191.03
+DVDs	191.65
+DVDs	193.35
+DVDs	196.75
+DVDs	197.05
+DVDs	197.74
+DVDs	198.67
+DVDs	198.81
+DVDs	199.27
+DVDs	2.22
+DVDs	200.04
+DVDs	200.41
+DVDs	201.31
+DVDs	202.14
+DVDs	203.32
+DVDs	203.84
+DVDs	204.18
+DVDs	204.21
+DVDs	204.25
+DVDs	204.78
+DVDs	204.88
+DVDs	207.23
+DVDs	207.46
+DVDs	210.27
+DVDs	210.89
+DVDs	211.84
+DVDs	211.91
+DVDs	213.19
+DVDs	213.39
+DVDs	214.43
+DVDs	215.11
+DVDs	215.12
+DVDs	216.71
+DVDs	217.59
+DVDs	219.15
+DVDs	220.44
+DVDs	221.62
+DVDs	221.72
+DVDs	221.79
+DVDs	222.05
+DVDs	222.17
+DVDs	222.55
+DVDs	222.74
+DVDs	223.58
+DVDs	225.64
+DVDs	225.68
+DVDs	227.7
+DVDs	228.7
+DVDs	228.71
+DVDs	228.82
+DVDs	229.15
+DVDs	229.49
+DVDs	229.91
+DVDs	23.05
+DVDs	230.75
+DVDs	231.75
+DVDs	234.04
+DVDs	234.6
+DVDs	234.95
+DVDs	239.54
+DVDs	239.73
+DVDs	239.87
+DVDs	24.86
+DVDs	241.07
+DVDs	241.35
+DVDs	242.31
+DVDs	242.31
+DVDs	243.25
+DVDs	243.54
+DVDs	244.64
+DVDs	247
+DVDs	247.67
+DVDs	247.74
+DVDs	248.18
+DVDs	249.09
+DVDs	25.59
+DVDs	25.59
+DVDs	25.93
+DVDs	251.46
+DVDs	252.38
+DVDs	252.45
+DVDs	252.52
+DVDs	253.35
+DVDs	253.79
+DVDs	254.15
+DVDs	254.86
+DVDs	255.11
+DVDs	255.59
+DVDs	259.49
+DVDs	259.75
+DVDs	259.76
+DVDs	259.87
+DVDs	260.19
+DVDs	262.91
+DVDs	263.62
+DVDs	263.81
+DVDs	264.13
+DVDs	265.84
+DVDs	267.52
+DVDs	267.8
+DVDs	268
+DVDs	269.7
+DVDs	270.38
+DVDs	271.96
+DVDs	272.16
+DVDs	273.03
+DVDs	276.44
+DVDs	28
+DVDs	281.98
+DVDs	282.1
+DVDs	282.17
+DVDs	283.29
+DVDs	283.72
+DVDs	285.43
+DVDs	285.76
+DVDs	285.83
+DVDs	286.6
+DVDs	288.05
+DVDs	288.75
+DVDs	288.76
+DVDs	290.1
+DVDs	290.35
+DVDs	290.67
+DVDs	290.75
+DVDs	290.82
+DVDs	292.87
+DVDs	295.53
+DVDs	296.43
+DVDs	296.94
+DVDs	297.37
+DVDs	298.44
+DVDs	298.69
+DVDs	299.17
+DVDs	299.37
+DVDs	299.42
+DVDs	299.55
+DVDs	299.59
+DVDs	3.99
+DVDs	300.3
+DVDs	300.53
+DVDs	302.69
+DVDs	302.85
+DVDs	303.52
+DVDs	303.74
+DVDs	303.79
+DVDs	303.88
+DVDs	308.95
+DVDs	309.19
+DVDs	309.2
+DVDs	309.51
+DVDs	309.55
+DVDs	31.49
+DVDs	310.24
+DVDs	312.35
+DVDs	313.38
+DVDs	315.52
+DVDs	316.48
+DVDs	317.3
+DVDs	317.38
+DVDs	317.53
+DVDs	318.77
+DVDs	32.16
+DVDs	320.87
+DVDs	323.93
+DVDs	324.21
+DVDs	324.32
+DVDs	326.79
+DVDs	327.77
+DVDs	328.39
+DVDs	329
+DVDs	329.95
+DVDs	331.37
+DVDs	331.98
+DVDs	332.13
+DVDs	333.29
+DVDs	333.51
+DVDs	335.72
+DVDs	335.88
+DVDs	336.87
+DVDs	337.14
+DVDs	337.64
+DVDs	338.91
+DVDs	339.64
+DVDs	339.72
+DVDs	34.26
+DVDs	340.54
+DVDs	341.87
+DVDs	344.58
+DVDs	344.63
+DVDs	346.61
+DVDs	347.99
+DVDs	348.65
+DVDs	348.98
+DVDs	349.36
+DVDs	35.02
+DVDs	350.62
+DVDs	351.31
+DVDs	351.6
+DVDs	352.93
+DVDs	353.58
+DVDs	358.3
+DVDs	359.47
+DVDs	36.07
+DVDs	361.25
+DVDs	361.41
+DVDs	361.79
+DVDs	361.87
+DVDs	365.23
+DVDs	366.12
+DVDs	366.41
+DVDs	368.06
+DVDs	368.56
+DVDs	368.76
+DVDs	369.18
+DVDs	369.24
+DVDs	37.93
+DVDs	371.01
+DVDs	371.74
+DVDs	371.98
+DVDs	372.63
+DVDs	373.1
+DVDs	373.55
+DVDs	374.31
+DVDs	376.2
+DVDs	376.26
+DVDs	376.97
+DVDs	377.27
+DVDs	378.62
+DVDs	379.38
+DVDs	379.9
+DVDs	38.07
+DVDs	380.67
+DVDs	382.65
+DVDs	384.78
+DVDs	386.79
+DVDs	387.47
+DVDs	388.92
+DVDs	390.2
+DVDs	390.35
+DVDs	390.76
+DVDs	391.38
+DVDs	392.18
+DVDs	392.47
+DVDs	392.57
+DVDs	394.27
+DVDs	394.31
+DVDs	394.84
+DVDs	396
+DVDs	397.7
+DVDs	398.78
+DVDs	399.08
+DVDs	399.49
+DVDs	399.96
+DVDs	399.98
+DVDs	40.78
+DVDs	400.97
+DVDs	401.59
+DVDs	402.13
+DVDs	403.92
+DVDs	403.94
+DVDs	404.06
+DVDs	404.38
+DVDs	405.41
+DVDs	405.72
+DVDs	405.79
+DVDs	405.82
+DVDs	408.12
+DVDs	408.14
+DVDs	408.36
+DVDs	408.71
+DVDs	41.77
+DVDs	411.8
+DVDs	414.79
+DVDs	415.36
+DVDs	416.37
+DVDs	416.51
+DVDs	418.29
+DVDs	419.27
+DVDs	42.57
+DVDs	421.53
+DVDs	421.72
+DVDs	423.4
+DVDs	424.53
+DVDs	426.29
+DVDs	426.74
+DVDs	427.22
+DVDs	427.25
+DVDs	429.21
+DVDs	43.99
+DVDs	430.34
+DVDs	431.51
+DVDs	436.14
+DVDs	436.2
+DVDs	437.37
+DVDs	439.38
+DVDs	439.74
+DVDs	440.11
+DVDs	440.41
+DVDs	440.94
+DVDs	441.93
+DVDs	442.06
+DVDs	442.29
+DVDs	443.4
+DVDs	443.78
+DVDs	444.6
+DVDs	445.17
+DVDs	445.55
+DVDs	447.03
+DVDs	447.33
+DVDs	45
+DVDs	450.33
+DVDs	450.71
+DVDs	451.2
+DVDs	451.59
+DVDs	451.73
+DVDs	451.89
+DVDs	454.63
+DVDs	456.26
+DVDs	456.34
+DVDs	457.14
+DVDs	458.75
+DVDs	461.34
+DVDs	464.73
+DVDs	464.76
+DVDs	464.92
+DVDs	464.94
+DVDs	465.6
+DVDs	465.87
+DVDs	465.98
+DVDs	466.02
+DVDs	469.04
+DVDs	469.44
+DVDs	469.9
+DVDs	470.03
+DVDs	470.82
+DVDs	472.75
+DVDs	473.57
+DVDs	473.62
+DVDs	473.88
+DVDs	475.01
+DVDs	476.84
+DVDs	48.34
+DVDs	48.35
+DVDs	48.52
+DVDs	48.79
+DVDs	480.86
+DVDs	484.02
+DVDs	489.55
+DVDs	49.14
+DVDs	49.55
+DVDs	49.61
+DVDs	49.77
+DVDs	490.33
+DVDs	491.05
+DVDs	492.24
+DVDs	493.86
+DVDs	494.46
+DVDs	494.96
+DVDs	495.99
+DVDs	496.06
+DVDs	496.85
+DVDs	497.61
+DVDs	499.02
+DVDs	5.37
+DVDs	5.95
+DVDs	50.88
+DVDs	50.97
+DVDs	52.27
+DVDs	52.33
+DVDs	52.72
+DVDs	54.15
+DVDs	54.35
+DVDs	54.72
+DVDs	55.7
+DVDs	55.99
+DVDs	56.06
+DVDs	57.87
+DVDs	6.38
+DVDs	61.46
+DVDs	62.3
+DVDs	63.44
+DVDs	64.29
+DVDs	64.95
+DVDs	65.95
+DVDs	66.26
+DVDs	66.75
+DVDs	67.42
+DVDs	68.22
+DVDs	69.44
+DVDs	69.45
+DVDs	7.32
+DVDs	7.78
+DVDs	7.85
+DVDs	70.79
+DVDs	71.29
+DVDs	72.38
+DVDs	72.47
+DVDs	72.87
+DVDs	73.83
+DVDs	74.16
+DVDs	75.12
+DVDs	75.28
+DVDs	76.27
+DVDs	76.34
+DVDs	77.13
+DVDs	78.43
+DVDs	79.24
+DVDs	79.69
+DVDs	8.04
+DVDs	8.14
+DVDs	8.84
+DVDs	81.54
+DVDs	81.61
+DVDs	83.31
+DVDs	83.42
+DVDs	84.1
+DVDs	85.55
+DVDs	86.54
+DVDs	86.61
+DVDs	87.08
+DVDs	87.86
+DVDs	89.44
+DVDs	9.52
+DVDs	90.93
+DVDs	92.86
+DVDs	94.82
+DVDs	97.14
+DVDs	97.33
+Garden	100.49
+Garden	100.59
+Garden	101.36
+Garden	101.46
+Garden	102.46
+Garden	103.97
+Garden	104.87
+Garden	105.06
+Garden	105.15
+Garden	105.52
+Garden	106.06
+Garden	108.58
+Garden	108.61
+Garden	11.05
+Garden	11.25
+Garden	11.38
+Garden	11.4
+Garden	11.96
+Garden	111.72
+Garden	112.38
+Garden	112.55
+Garden	112.77
+Garden	113.28
+Garden	113.96
+Garden	115.05
+Garden	115.39
+Garden	117.23
+Garden	118.27
+Garden	118.39
+Garden	118.71
+Garden	118.76
+Garden	12.68
+Garden	120.27
+Garden	120.76
+Garden	121.73
+Garden	122.18
+Garden	124.16
+Garden	127.19
+Garden	128.19
+Garden	128.43
+Garden	128.86
+Garden	129.73
+Garden	130.38
+Garden	130.76
+Garden	130.86
+Garden	132.08
+Garden	134.29
+Garden	134.33
+Garden	136.9
+Garden	137.28
+Garden	137.79
+Garden	138.01
+Garden	14.62
+Garden	14.67
+Garden	14.78
+Garden	140.49
+Garden	140.53
+Garden	141.31
+Garden	141.57
+Garden	142.3
+Garden	142.59
+Garden	145.04
+Garden	145.98
+Garden	146.38
+Garden	147.88
+Garden	149.31
+Garden	149.47
+Garden	15.84
+Garden	150.01
+Garden	151.47
+Garden	154.68
+Garden	154.73
+Garden	155.33
+Garden	155.55
+Garden	155.67
+Garden	157.58
+Garden	157.59
+Garden	159.72
+Garden	159.91
+Garden	16.15
+Garden	16.6
+Garden	16.85
+Garden	160.62
+Garden	161.32
+Garden	161.38
+Garden	161.71
+Garden	162.29
+Garden	163.45
+Garden	163.83
+Garden	165
+Garden	165.78
+Garden	168.17
+Garden	17.67
+Garden	17.77
+Garden	170.26
+Garden	170.37
+Garden	170.96
+Garden	170.97
+Garden	172.74
+Garden	173
+Garden	173.64
+Garden	174.7
+Garden	175.56
+Garden	176.29
+Garden	176.35
+Garden	176.36
+Garden	178.37
+Garden	179.36
+Garden	18.27
+Garden	181.45
+Garden	182.93
+Garden	183.42
+Garden	185.01
+Garden	186.47
+Garden	189.28
+Garden	190.37
+Garden	190.5
+Garden	190.93
+Garden	192.2
+Garden	192.82
+Garden	193.95
+Garden	193.96
+Garden	197.42
+Garden	198.15
+Garden	199.47
+Garden	2.3
+Garden	20.79
+Garden	200.35
+Garden	201.29
+Garden	203.43
+Garden	207.15
+Garden	208.7
+Garden	209.65
+Garden	209.92
+Garden	211.15
+Garden	211.73
+Garden	211.8
+Garden	212.33
+Garden	213.8
+Garden	215.67
+Garden	217.47
+Garden	217.74
+Garden	218.84
+Garden	221.85
+Garden	224.32
+Garden	225.3
+Garden	225.47
+Garden	226.56
+Garden	228.34
+Garden	23.38
+Garden	23.47
+Garden	230.53
+Garden	232.8
+Garden	233.48
+Garden	234.08
+Garden	234.56
+Garden	235.19
+Garden	237.97
+Garden	238.17
+Garden	238.22
+Garden	238.29
+Garden	238.57
+Garden	239.06
+Garden	24.93
+Garden	240.17
+Garden	240.84
+Garden	242.69
+Garden	244.57
+Garden	244.7
+Garden	244.81
+Garden	246.03
+Garden	246.64
+Garden	247.02
+Garden	247.56
+Garden	247.73
+Garden	248.4
+Garden	249.32
+Garden	249.35
+Garden	249.82
+Garden	25.72
+Garden	250.02
+Garden	250.53
+Garden	251.26
+Garden	252.79
+Garden	252.99
+Garden	253.12
+Garden	253.73
+Garden	253.92
+Garden	256.25
+Garden	256.76
+Garden	259.52
+Garden	259.85
+Garden	26.4
+Garden	260.67
+Garden	260.71
+Garden	261.01
+Garden	261.78
+Garden	261.87
+Garden	262.15
+Garden	262.5
+Garden	263.77
+Garden	264.26
+Garden	264.58
+Garden	265.28
+Garden	265.64
+Garden	266.15
+Garden	266.88
+Garden	267.27
+Garden	268.17
+Garden	270.05
+Garden	270.32
+Garden	270.93
+Garden	271.11
+Garden	273.88
+Garden	274.12
+Garden	276
+Garden	276.32
+Garden	276.45
+Garden	276.49
+Garden	278.2
+Garden	279.88
+Garden	28.1
+Garden	28.15
+Garden	28.62
+Garden	280.67
+Garden	283.93
+Garden	284.15
+Garden	286.57
+Garden	287.6
+Garden	287.8
+Garden	288.13
+Garden	288.31
+Garden	289.88
+Garden	29.15
+Garden	29.92
+Garden	291.61
+Garden	292.74
+Garden	293.9
+Garden	294.73
+Garden	295.15
+Garden	296.42
+Garden	296.63
+Garden	296.75
+Garden	297.64
+Garden	297.72
+Garden	298.7
+Garden	3.61
+Garden	3.85
+Garden	30.64
+Garden	300.93
+Garden	301.14
+Garden	301.92
+Garden	302.69
+Garden	303.06
+Garden	303.34
+Garden	306.4
+Garden	31.9
+Garden	310.95
+Garden	312.24
+Garden	312.9
+Garden	313.14
+Garden	315.04
+Garden	315.29
+Garden	316.73
+Garden	317.11
+Garden	318.33
+Garden	318.96
+Garden	319.16
+Garden	321.84
+Garden	322.95
+Garden	322.96
+Garden	323.77
+Garden	325.49
+Garden	326.34
+Garden	327.05
+Garden	327.25
+Garden	327.77
+Garden	328.44
+Garden	329.03
+Garden	329.55
+Garden	330.15
+Garden	330.68
+Garden	330.82
+Garden	332.09
+Garden	332.58
+Garden	332.59
+Garden	332.72
+Garden	333.08
+Garden	333.31
+Garden	333.37
+Garden	333.4
+Garden	333.55
+Garden	334.76
+Garden	338.6
+Garden	339.88
+Garden	34.58
+Garden	344.43
+Garden	344.58
+Garden	348.21
+Garden	349.53
+Garden	349.83
+Garden	35.82
+Garden	350.67
+Garden	353.31
+Garden	354.68
+Garden	355.01
+Garden	357.63
+Garden	358.99
+Garden	359.98
+Garden	360.81
+Garden	361.04
+Garden	362.14
+Garden	364.22
+Garden	364.79
+Garden	364.97
+Garden	365.55
+Garden	366.13
+Garden	368
+Garden	37.42
+Garden	371.19
+Garden	371.24
+Garden	371.26
+Garden	372.02
+Garden	372.83
+Garden	372.98
+Garden	373.31
+Garden	373.64
+Garden	374.81
+Garden	376.52
+Garden	377.5
+Garden	378.17
+Garden	378.41
+Garden	38.64
+Garden	380.03
+Garden	381.14
+Garden	382.85
+Garden	383.24
+Garden	383.7
+Garden	385.94
+Garden	386.28
+Garden	387.9
+Garden	388.35
+Garden	388.86
+Garden	389.92
+Garden	390.31
+Garden	390.78
+Garden	392.73
+Garden	393.56
+Garden	394.13
+Garden	394.15
+Garden	396.19
+Garden	396.5
+Garden	399.06
+Garden	399.92
+Garden	4.22
+Garden	4.28
+Garden	4.48
+Garden	4.81
+Garden	4.83
+Garden	40.09
+Garden	40.85
+Garden	400.27
+Garden	401.62
+Garden	402.05
+Garden	403.54
+Garden	403.7
+Garden	405.13
+Garden	405.4
+Garden	405.46
+Garden	406.27
+Garden	406.64
+Garden	41.57
+Garden	41.9
+Garden	410.83
+Garden	411.01
+Garden	415.68
+Garden	417.31
+Garden	419.74
+Garden	419.77
+Garden	419.94
+Garden	420.73
+Garden	421.87
+Garden	422.42
+Garden	423.32
+Garden	424.81
+Garden	424.83
+Garden	425.17
+Garden	425.73
+Garden	426.43
+Garden	426.49
+Garden	426.5
+Garden	426.71
+Garden	427.18
+Garden	427.21
+Garden	428.27
+Garden	428.36
+Garden	429.61
+Garden	430.07
+Garden	430.34
+Garden	431.68
+Garden	431.7
+Garden	434.63
+Garden	434.74
+Garden	435.89
+Garden	437.4
+Garden	437.96
+Garden	439.75
+Garden	439.81
+Garden	440.76
+Garden	441.92
+Garden	442.6
+Garden	442.91
+Garden	442.95
+Garden	444.91
+Garden	445.99
+Garden	447.8
+Garden	449.38
+Garden	449.56
+Garden	449.63
+Garden	450.83
+Garden	451.02
+Garden	451.58
+Garden	453.23
+Garden	457.61
+Garden	458.12
+Garden	46.07
+Garden	46.95
+Garden	460.61
+Garden	461.02
+Garden	464.2
+Garden	465.85
+Garden	466.29
+Garden	467.01
+Garden	467.19
+Garden	467.43
+Garden	468.21
+Garden	468.52
+Garden	469.54
+Garden	47.23
+Garden	471.61
+Garden	471.98
+Garden	473.95
+Garden	474.08
+Garden	475.82
+Garden	476.12
+Garden	476.63
+Garden	476.91
+Garden	477.17
+Garden	477.2
+Garden	477.32
+Garden	477.4
+Garden	478.53
+Garden	478.82
+Garden	478.92
+Garden	48.7
+Garden	48.7
+Garden	480.03
+Garden	480.08
+Garden	483.13
+Garden	483.71
+Garden	484.16
+Garden	484.18
+Garden	484.27
+Garden	484.34
+Garden	486.6
+Garden	487.64
+Garden	487.84
+Garden	489.54
+Garden	489.69
+Garden	49.61
+Garden	492.03
+Garden	493.15
+Garden	493.34
+Garden	494.52
+Garden	495.75
+Garden	496.04
+Garden	496.41
+Garden	497.17
+Garden	498.46
+Garden	498.94
+Garden	5.87
+Garden	51
+Garden	52.02
+Garden	52.85
+Garden	53.58
+Garden	54.44
+Garden	55.42
+Garden	55.95
+Garden	55.96
+Garden	56.33
+Garden	59.17
+Garden	59.58
+Garden	6.32
+Garden	61.31
+Garden	61.75
+Garden	62.12
+Garden	62.32
+Garden	62.91
+Garden	67.23
+Garden	69.1
+Garden	69.36
+Garden	69.84
+Garden	7.2
+Garden	7.79
+Garden	70.75
+Garden	71.18
+Garden	71.98
+Garden	72.51
+Garden	72.86
+Garden	75.37
+Garden	75.39
+Garden	75.62
+Garden	75.64
+Garden	76.7
+Garden	77.91
+Garden	78.57
+Garden	8.78
+Garden	8.95
+Garden	82.22
+Garden	83.14
+Garden	85
+Garden	85.57
+Garden	85.76
+Garden	86.31
+Garden	87.57
+Garden	87.73
+Garden	88.14
+Garden	89.78
+Garden	91.31
+Garden	91.52
+Garden	92.9
+Garden	93.79
+Garden	96.28
+Garden	96.82
+Garden	96.85
+Garden	97.02
+Garden	97.15
+Garden	99.09
+Garden	99.81
+Health and Beauty	0.49
+Health and Beauty	0.65
+Health and Beauty	1.29
+Health and Beauty	1.59
+Health and Beauty	10.04
+Health and Beauty	101.67
+Health and Beauty	103.05
+Health and Beauty	103.11
+Health and Beauty	103.45
+Health and Beauty	103.97
+Health and Beauty	104.3
+Health and Beauty	104.4
+Health and Beauty	105.38
+Health and Beauty	105.56
+Health and Beauty	106.33
+Health and Beauty	106.52
+Health and Beauty	106.56
+Health and Beauty	107.04
+Health and Beauty	109.14
+Health and Beauty	109.73
+Health and Beauty	111.48
+Health and Beauty	111.56
+Health and Beauty	112.18
+Health and Beauty	112.24
+Health and Beauty	112.3
+Health and Beauty	113.04
+Health and Beauty	114.21
+Health and Beauty	114.58
+Health and Beauty	115.08
+Health and Beauty	116.55
+Health and Beauty	117.33
+Health and Beauty	117.66
+Health and Beauty	118.31
+Health and Beauty	118.69
+Health and Beauty	119.17
+Health and Beauty	119.35
+Health and Beauty	119.57
+Health and Beauty	120.21
+Health and Beauty	121.64
+Health and Beauty	122.01
+Health and Beauty	123.36
+Health and Beauty	125.19
+Health and Beauty	125.37
+Health and Beauty	125.66
+Health and Beauty	125.69
+Health and Beauty	125.88
+Health and Beauty	126.54
+Health and Beauty	126.65
+Health and Beauty	126.91
+Health and Beauty	127.21
+Health and Beauty	128.47
+Health and Beauty	128.8
+Health and Beauty	13.08
+Health and Beauty	130.71
+Health and Beauty	131.91
+Health and Beauty	131.97
+Health and Beauty	133.16
+Health and Beauty	134.45
+Health and Beauty	135.2
+Health and Beauty	135.7
+Health and Beauty	136.98
+Health and Beauty	137.28
+Health and Beauty	137.46
+Health and Beauty	138.4
+Health and Beauty	139.44
+Health and Beauty	139.82
+Health and Beauty	14.34
+Health and Beauty	14.74
+Health and Beauty	140.55
+Health and Beauty	140.67
+Health and Beauty	142.24
+Health and Beauty	142.87
+Health and Beauty	144.33
+Health and Beauty	145.43
+Health and Beauty	146.7
+Health and Beauty	147.38
+Health and Beauty	151.98
+Health and Beauty	152.86
+Health and Beauty	153.65
+Health and Beauty	154.35
+Health and Beauty	155.41
+Health and Beauty	156.76
+Health and Beauty	158.83
+Health and Beauty	159.31
+Health and Beauty	159.72
+Health and Beauty	159.89
+Health and Beauty	16.13
+Health and Beauty	161.83
+Health and Beauty	163.06
+Health and Beauty	164.5
+Health and Beauty	164.88
+Health and Beauty	165.51
+Health and Beauty	166.14
+Health and Beauty	166.37
+Health and Beauty	166.41
+Health and Beauty	167.42
+Health and Beauty	168.16
+Health and Beauty	169.29
+Health and Beauty	169.95
+Health and Beauty	17.28
+Health and Beauty	170.43
+Health and Beauty	171.27
+Health and Beauty	172.51
+Health and Beauty	173.03
+Health and Beauty	173.24
+Health and Beauty	173.42
+Health and Beauty	174.1
+Health and Beauty	175.14
+Health and Beauty	175.73
+Health and Beauty	176.27
+Health and Beauty	176.34
+Health and Beauty	18.14
+Health and Beauty	18.36
+Health and Beauty	180.45
+Health and Beauty	181.24
+Health and Beauty	181.9
+Health and Beauty	183.44
+Health and Beauty	183.46
+Health and Beauty	186.3
+Health and Beauty	188.01
+Health and Beauty	188.17
+Health and Beauty	188.62
+Health and Beauty	189.78
+Health and Beauty	189.87
+Health and Beauty	19
+Health and Beauty	192.48
+Health and Beauty	193.57
+Health and Beauty	195.17
+Health and Beauty	199.52
+Health and Beauty	199.55
+Health and Beauty	199.96
+Health and Beauty	2.93
+Health and Beauty	203.18
+Health and Beauty	203.79
+Health and Beauty	205.53
+Health and Beauty	205.56
+Health and Beauty	206.04
+Health and Beauty	206.61
+Health and Beauty	206.7
+Health and Beauty	206.72
+Health and Beauty	208.06
+Health and Beauty	208.82
+Health and Beauty	209.4
+Health and Beauty	209.76
+Health and Beauty	21.66
+Health and Beauty	21.97
+Health and Beauty	210.1
+Health and Beauty	210.82
+Health and Beauty	211.04
+Health and Beauty	211.74
+Health and Beauty	212.53
+Health and Beauty	214.42
+Health and Beauty	215.04
+Health and Beauty	215.79
+Health and Beauty	215.87
+Health and Beauty	216.08
+Health and Beauty	216.82
+Health and Beauty	216.9
+Health and Beauty	22.26
+Health and Beauty	22.75
+Health and Beauty	220.18
+Health and Beauty	220.26
+Health and Beauty	221.67
+Health and Beauty	222.09
+Health and Beauty	222.82
+Health and Beauty	223.54
+Health and Beauty	224.15
+Health and Beauty	224.46
+Health and Beauty	228.16
+Health and Beauty	229.31
+Health and Beauty	23.46
+Health and Beauty	230.37
+Health and Beauty	232.57
+Health and Beauty	232.63
+Health and Beauty	233.31
+Health and Beauty	234.47
+Health and Beauty	236.78
+Health and Beauty	236.94
+Health and Beauty	237.34
+Health and Beauty	237.75
+Health and Beauty	237.85
+Health and Beauty	238.31
+Health and Beauty	239.07
+Health and Beauty	240.14
+Health and Beauty	240.33
+Health and Beauty	240.71
+Health and Beauty	241.89
+Health and Beauty	242.29
+Health and Beauty	242.36
+Health and Beauty	242.67
+Health and Beauty	243.27
+Health and Beauty	243.72
+Health and Beauty	244.38
+Health and Beauty	247.44
+Health and Beauty	248.02
+Health and Beauty	249.21
+Health and Beauty	250
+Health and Beauty	252.63
+Health and Beauty	253.77
+Health and Beauty	254.11
+Health and Beauty	257.6
+Health and Beauty	258.73
+Health and Beauty	261.79
+Health and Beauty	262.53
+Health and Beauty	262.8
+Health and Beauty	264.4
+Health and Beauty	267.77
+Health and Beauty	268.11
+Health and Beauty	268.79
+Health and Beauty	268.99
+Health and Beauty	27.06
+Health and Beauty	27.4
+Health and Beauty	27.7
+Health and Beauty	270.18
+Health and Beauty	270.23
+Health and Beauty	270.89
+Health and Beauty	271.37
+Health and Beauty	271.4
+Health and Beauty	271.43
+Health and Beauty	272.38
+Health and Beauty	272.84
+Health and Beauty	274.35
+Health and Beauty	275.79
+Health and Beauty	277.03
+Health and Beauty	279.81
+Health and Beauty	28.06
+Health and Beauty	28.07
+Health and Beauty	28.84
+Health and Beauty	282.34
+Health and Beauty	282.42
+Health and Beauty	283.99
+Health and Beauty	284.15
+Health and Beauty	287.56
+Health and Beauty	289.58
+Health and Beauty	29.22
+Health and Beauty	29.3
+Health and Beauty	29.57
+Health and Beauty	290.12
+Health and Beauty	291.37
+Health and Beauty	291.47
+Health and Beauty	293.04
+Health and Beauty	293.51
+Health and Beauty	293.99
+Health and Beauty	294.08
+Health and Beauty	294.42
+Health and Beauty	294.98
+Health and Beauty	296.07
+Health and Beauty	296.5
+Health and Beauty	3.42
+Health and Beauty	300.07
+Health and Beauty	300.9
+Health and Beauty	301.15
+Health and Beauty	302.64
+Health and Beauty	303.23
+Health and Beauty	304.22
+Health and Beauty	308.07
+Health and Beauty	308.46
+Health and Beauty	308.77
+Health and Beauty	309.52
+Health and Beauty	31.34
+Health and Beauty	31.8
+Health and Beauty	310.11
+Health and Beauty	310.21
+Health and Beauty	310.44
+Health and Beauty	313.44
+Health and Beauty	313.94
+Health and Beauty	315.22
+Health and Beauty	317.11
+Health and Beauty	317.42
+Health and Beauty	317.46
+Health and Beauty	318.25
+Health and Beauty	319.82
+Health and Beauty	32.15
+Health and Beauty	320.08
+Health and Beauty	323.6
+Health and Beauty	324.16
+Health and Beauty	324.98
+Health and Beauty	326.29
+Health and Beauty	326.99
+Health and Beauty	328.08
+Health and Beauty	328.66
+Health and Beauty	329
+Health and Beauty	329.56
+Health and Beauty	330.04
+Health and Beauty	332.39
+Health and Beauty	332.99
+Health and Beauty	333.15
+Health and Beauty	334.61
+Health and Beauty	336.38
+Health and Beauty	338.06
+Health and Beauty	339.24
+Health and Beauty	340.24
+Health and Beauty	340.44
+Health and Beauty	340.91
+Health and Beauty	341.5
+Health and Beauty	341.74
+Health and Beauty	342.18
+Health and Beauty	342.57
+Health and Beauty	342.99
+Health and Beauty	343.04
+Health and Beauty	343.62
+Health and Beauty	343.85
+Health and Beauty	344.08
+Health and Beauty	345.07
+Health and Beauty	345.8
+Health and Beauty	345.96
+Health and Beauty	347.21
+Health and Beauty	347.97
+Health and Beauty	348.04
+Health and Beauty	348.72
+Health and Beauty	348.79
+Health and Beauty	350.29
+Health and Beauty	350.57
+Health and Beauty	350.92
+Health and Beauty	351.5
+Health and Beauty	352.43
+Health and Beauty	352.79
+Health and Beauty	353.42
+Health and Beauty	354.13
+Health and Beauty	354.59
+Health and Beauty	355.29
+Health and Beauty	356.87
+Health and Beauty	357.34
+Health and Beauty	358.15
+Health and Beauty	360.23
+Health and Beauty	361.07
+Health and Beauty	362.65
+Health and Beauty	362.67
+Health and Beauty	362.69
+Health and Beauty	364.81
+Health and Beauty	365.11
+Health and Beauty	367.65
+Health and Beauty	367.76
+Health and Beauty	367.76
+Health and Beauty	368.13
+Health and Beauty	368.42
+Health and Beauty	368.69
+Health and Beauty	369.07
+Health and Beauty	37.2
+Health and Beauty	37.68
+Health and Beauty	370.31
+Health and Beauty	370.57
+Health and Beauty	371.21
+Health and Beauty	371.35
+Health and Beauty	371.45
+Health and Beauty	372.16
+Health and Beauty	372.98
+Health and Beauty	374.77
+Health and Beauty	375.98
+Health and Beauty	376.69
+Health and Beauty	378.81
+Health and Beauty	379.66
+Health and Beauty	380.21
+Health and Beauty	380.53
+Health and Beauty	381.56
+Health and Beauty	383.34
+Health and Beauty	383.65
+Health and Beauty	384.62
+Health and Beauty	384.71
+Health and Beauty	384.89
+Health and Beauty	385.17
+Health and Beauty	388.44
+Health and Beauty	388.87
+Health and Beauty	389.24
+Health and Beauty	389.27
+Health and Beauty	39.7
+Health and Beauty	390.14
+Health and Beauty	391.3
+Health and Beauty	391.69
+Health and Beauty	392.5
+Health and Beauty	392.5
+Health and Beauty	392.69
+Health and Beauty	394.67
+Health and Beauty	395.77
+Health and Beauty	396.28
+Health and Beauty	396.84
+Health and Beauty	396.96
+Health and Beauty	397.43
+Health and Beauty	399.36
+Health and Beauty	399.98
+Health and Beauty	4.55
+Health and Beauty	4.66
+Health and Beauty	40.12
+Health and Beauty	40.14
+Health and Beauty	400.61
+Health and Beauty	400.91
+Health and Beauty	401.31
+Health and Beauty	402.01
+Health and Beauty	402.23
+Health and Beauty	403.52
+Health and Beauty	404.53
+Health and Beauty	407.87
+Health and Beauty	409.7
+Health and Beauty	41.57
+Health and Beauty	411.29
+Health and Beauty	411.54
+Health and Beauty	411.71
+Health and Beauty	411.89
+Health and Beauty	412.3
+Health and Beauty	412.36
+Health and Beauty	413.74
+Health and Beauty	414.3
+Health and Beauty	415.65
+Health and Beauty	415.69
+Health and Beauty	415.89
+Health and Beauty	416.71
+Health and Beauty	417.18
+Health and Beauty	417.4
+Health and Beauty	420.67
+Health and Beauty	421.02
+Health and Beauty	421.39
+Health and Beauty	422.63
+Health and Beauty	422.76
+Health and Beauty	422.98
+Health and Beauty	423.18
+Health and Beauty	424.03
+Health and Beauty	427.38
+Health and Beauty	43.1
+Health and Beauty	43.84
+Health and Beauty	430.78
+Health and Beauty	432.13
+Health and Beauty	432.61
+Health and Beauty	432.82
+Health and Beauty	433.51
+Health and Beauty	433.79
+Health and Beauty	435.19
+Health and Beauty	436.31
+Health and Beauty	437.36
+Health and Beauty	439.9
+Health and Beauty	44.19
+Health and Beauty	44.55
+Health and Beauty	44.87
+Health and Beauty	44.88
+Health and Beauty	441.26
+Health and Beauty	441.82
+Health and Beauty	442.39
+Health and Beauty	443.63
+Health and Beauty	444.65
+Health and Beauty	445.02
+Health and Beauty	446.08
+Health and Beauty	446.26
+Health and Beauty	446.55
+Health and Beauty	446.57
+Health and Beauty	447.06
+Health and Beauty	447.5
+Health and Beauty	45.53
+Health and Beauty	450.33
+Health and Beauty	451.37
+Health and Beauty	451.57
+Health and Beauty	451.91
+Health and Beauty	453.16
+Health and Beauty	453.68
+Health and Beauty	453.96
+Health and Beauty	454.77
+Health and Beauty	456.34
+Health and Beauty	456.39
+Health and Beauty	456.61
+Health and Beauty	457.16
+Health and Beauty	457.28
+Health and Beauty	457.4
+Health and Beauty	457.52
+Health and Beauty	458
+Health and Beauty	460.2
+Health and Beauty	460.29
+Health and Beauty	460.68
+Health and Beauty	462.2
+Health and Beauty	463.32
+Health and Beauty	465.6
+Health and Beauty	468.4
+Health and Beauty	47.38
+Health and Beauty	47.72
+Health and Beauty	472.32
+Health and Beauty	473.61
+Health and Beauty	473.89
+Health and Beauty	474.92
+Health and Beauty	475.22
+Health and Beauty	475.52
+Health and Beauty	475.97
+Health and Beauty	476.02
+Health and Beauty	477.59
+Health and Beauty	478.04
+Health and Beauty	479.66
+Health and Beauty	481.23
+Health and Beauty	481.3
+Health and Beauty	482.07
+Health and Beauty	482.75
+Health and Beauty	483.1
+Health and Beauty	483.45
+Health and Beauty	484.31
+Health and Beauty	484.53
+Health and Beauty	485.49
+Health and Beauty	486.05
+Health and Beauty	487.15
+Health and Beauty	488.29
+Health and Beauty	489.54
+Health and Beauty	49.07
+Health and Beauty	49.47
+Health and Beauty	49.48
+Health and Beauty	490.58
+Health and Beauty	491.57
+Health and Beauty	492.19
+Health and Beauty	494.05
+Health and Beauty	494.22
+Health and Beauty	495.4
+Health and Beauty	495.65
+Health and Beauty	496.3
+Health and Beauty	497.03
+Health and Beauty	498.15
+Health and Beauty	499.35
+Health and Beauty	499.38
+Health and Beauty	499.72
+Health and Beauty	50.48
+Health and Beauty	51.11
+Health and Beauty	51.21
+Health and Beauty	51.64
+Health and Beauty	52.28
+Health and Beauty	53.76
+Health and Beauty	55.62
+Health and Beauty	58.33
+Health and Beauty	59.09
+Health and Beauty	59.43
+Health and Beauty	6.12
+Health and Beauty	62.8
+Health and Beauty	62.85
+Health and Beauty	65.28
+Health and Beauty	66.85
+Health and Beauty	67.06
+Health and Beauty	67.38
+Health and Beauty	67.92
+Health and Beauty	69.62
+Health and Beauty	71.34
+Health and Beauty	71.46
+Health and Beauty	71.6
+Health and Beauty	71.75
+Health and Beauty	75.02
+Health and Beauty	75.92
+Health and Beauty	76.05
+Health and Beauty	76.52
+Health and Beauty	76.86
+Health and Beauty	78.11
+Health and Beauty	78.22
+Health and Beauty	78.68
+Health and Beauty	79.27
+Health and Beauty	80.42
+Health and Beauty	82.08
+Health and Beauty	82.44
+Health and Beauty	82.69
+Health and Beauty	83.23
+Health and Beauty	84
+Health and Beauty	85.08
+Health and Beauty	86.28
+Health and Beauty	88.26
+Health and Beauty	89.13
+Health and Beauty	9.33
+Health and Beauty	9.39
+Health and Beauty	9.39
+Health and Beauty	91.04
+Health and Beauty	91.6
+Health and Beauty	94.9
+Health and Beauty	95.34
+Health and Beauty	96.24
+Health and Beauty	96.89
+Health and Beauty	98.09
+Health and Beauty	98.19
+Health and Beauty	98.99
+Health and Beauty	99.02
+Health and Beauty	99.4
+Men's Clothing	0.35
+Men's Clothing	100.06
+Men's Clothing	100.2
+Men's Clothing	100.27
+Men's Clothing	102.77
+Men's Clothing	103.91
+Men's Clothing	104.28
+Men's Clothing	105.15
+Men's Clothing	105.64
+Men's Clothing	105.67
+Men's Clothing	106.73
+Men's Clothing	107.28
+Men's Clothing	107.31
+Men's Clothing	107.55
+Men's Clothing	109.04
+Men's Clothing	109.06
+Men's Clothing	111.54
+Men's Clothing	111.79
+Men's Clothing	112.12
+Men's Clothing	113.06
+Men's Clothing	113.49
+Men's Clothing	114.63
+Men's Clothing	114.98
+Men's Clothing	118.51
+Men's Clothing	119.12
+Men's Clothing	119.72
+Men's Clothing	12.62
+Men's Clothing	120.8
+Men's Clothing	121.4
+Men's Clothing	121.52
+Men's Clothing	122.49
+Men's Clothing	124
+Men's Clothing	125.27
+Men's Clothing	125.61
+Men's Clothing	126.83
+Men's Clothing	126.97
+Men's Clothing	127.16
+Men's Clothing	127.68
+Men's Clothing	127.73
+Men's Clothing	128.06
+Men's Clothing	128.96
+Men's Clothing	13.88
+Men's Clothing	130.85
+Men's Clothing	131.42
+Men's Clothing	137.33
+Men's Clothing	138.27
+Men's Clothing	138.49
+Men's Clothing	14.14
+Men's Clothing	140.04
+Men's Clothing	140.09
+Men's Clothing	140.09
+Men's Clothing	141.28
+Men's Clothing	141.69
+Men's Clothing	142.15
+Men's Clothing	142.69
+Men's Clothing	144.74
+Men's Clothing	145.14
+Men's Clothing	145.34
+Men's Clothing	145.84
+Men's Clothing	146.67
+Men's Clothing	148.74
+Men's Clothing	150.24
+Men's Clothing	151.81
+Men's Clothing	152.06
+Men's Clothing	152.54
+Men's Clothing	152.57
+Men's Clothing	154.82
+Men's Clothing	155.09
+Men's Clothing	157.55
+Men's Clothing	158.46
+Men's Clothing	159.31
+Men's Clothing	159.78
+Men's Clothing	159.8
+Men's Clothing	16.21
+Men's Clothing	16.48
+Men's Clothing	16.78
+Men's Clothing	160.42
+Men's Clothing	161.24
+Men's Clothing	161.83
+Men's Clothing	162.9
+Men's Clothing	164.2
+Men's Clothing	164.42
+Men's Clothing	166.29
+Men's Clothing	166.46
+Men's Clothing	166.83
+Men's Clothing	167.5
+Men's Clothing	167.66
+Men's Clothing	168.1
+Men's Clothing	168.54
+Men's Clothing	169.33
+Men's Clothing	169.95
+Men's Clothing	170.67
+Men's Clothing	170.71
+Men's Clothing	171.1
+Men's Clothing	172.03
+Men's Clothing	172.55
+Men's Clothing	173.74
+Men's Clothing	174.25
+Men's Clothing	174.53
+Men's Clothing	175.95
+Men's Clothing	179.27
+Men's Clothing	179.47
+Men's Clothing	18.25
+Men's Clothing	18.41
+Men's Clothing	180.45
+Men's Clothing	180.6
+Men's Clothing	181.96
+Men's Clothing	183.33
+Men's Clothing	185.75
+Men's Clothing	186.56
+Men's Clothing	187.01
+Men's Clothing	188.32
+Men's Clothing	188.54
+Men's Clothing	189.47
+Men's Clothing	19.39
+Men's Clothing	190.46
+Men's Clothing	192.17
+Men's Clothing	193.16
+Men's Clothing	195.66
+Men's Clothing	197.32
+Men's Clothing	199.8
+Men's Clothing	20.92
+Men's Clothing	20.92
+Men's Clothing	201.48
+Men's Clothing	201.5
+Men's Clothing	202.52
+Men's Clothing	203.43
+Men's Clothing	204.37
+Men's Clothing	204.41
+Men's Clothing	206.41
+Men's Clothing	208.72
+Men's Clothing	209.18
+Men's Clothing	210.31
+Men's Clothing	214.05
+Men's Clothing	214.26
+Men's Clothing	215.3
+Men's Clothing	216.32
+Men's Clothing	217.64
+Men's Clothing	219.94
+Men's Clothing	220.09
+Men's Clothing	220.11
+Men's Clothing	220.4
+Men's Clothing	222
+Men's Clothing	222.67
+Men's Clothing	223.73
+Men's Clothing	225.86
+Men's Clothing	226.14
+Men's Clothing	226.81
+Men's Clothing	227.4
+Men's Clothing	227.99
+Men's Clothing	228.03
+Men's Clothing	229.3
+Men's Clothing	229.4
+Men's Clothing	229.57
+Men's Clothing	23.67
+Men's Clothing	230.09
+Men's Clothing	230.87
+Men's Clothing	231.4
+Men's Clothing	231.4
+Men's Clothing	232.61
+Men's Clothing	232.98
+Men's Clothing	234.61
+Men's Clothing	235.27
+Men's Clothing	236.48
+Men's Clothing	236.89
+Men's Clothing	237.86
+Men's Clothing	238.3
+Men's Clothing	239.77
+Men's Clothing	24.58
+Men's Clothing	240.98
+Men's Clothing	241.13
+Men's Clothing	241.37
+Men's Clothing	241.46
+Men's Clothing	242.49
+Men's Clothing	243.05
+Men's Clothing	243.22
+Men's Clothing	245
+Men's Clothing	245.51
+Men's Clothing	246.54
+Men's Clothing	247.18
+Men's Clothing	247.46
+Men's Clothing	248.83
+Men's Clothing	248.97
+Men's Clothing	249.08
+Men's Clothing	249.26
+Men's Clothing	249.76
+Men's Clothing	25.08
+Men's Clothing	250.02
+Men's Clothing	253.03
+Men's Clothing	253.17
+Men's Clothing	253.37
+Men's Clothing	253.53
+Men's Clothing	254.57
+Men's Clothing	254.68
+Men's Clothing	258.75
+Men's Clothing	26.39
+Men's Clothing	26.74
+Men's Clothing	260.31
+Men's Clothing	260.78
+Men's Clothing	260.9
+Men's Clothing	261.86
+Men's Clothing	262.38
+Men's Clothing	262.43
+Men's Clothing	264.65
+Men's Clothing	264.98
+Men's Clothing	265.28
+Men's Clothing	265.3
+Men's Clothing	265.56
+Men's Clothing	266.86
+Men's Clothing	267.02
+Men's Clothing	267.82
+Men's Clothing	267.91
+Men's Clothing	269.4
+Men's Clothing	270.48
+Men's Clothing	270.72
+Men's Clothing	271.7
+Men's Clothing	277.47
+Men's Clothing	277.5
+Men's Clothing	277.6
+Men's Clothing	279.08
+Men's Clothing	28.29
+Men's Clothing	28.55
+Men's Clothing	28.87
+Men's Clothing	28.91
+Men's Clothing	280.87
+Men's Clothing	281.36
+Men's Clothing	281.56
+Men's Clothing	282.6
+Men's Clothing	283.06
+Men's Clothing	283.74
+Men's Clothing	284.26
+Men's Clothing	285.1
+Men's Clothing	285.65
+Men's Clothing	287.83
+Men's Clothing	288.63
+Men's Clothing	288.7
+Men's Clothing	288.77
+Men's Clothing	289.71
+Men's Clothing	289.83
+Men's Clothing	29.19
+Men's Clothing	291.28
+Men's Clothing	292.41
+Men's Clothing	292.48
+Men's Clothing	295.43
+Men's Clothing	297.13
+Men's Clothing	297.43
+Men's Clothing	297.61
+Men's Clothing	298.36
+Men's Clothing	298.84
+Men's Clothing	299.09
+Men's Clothing	299.76
+Men's Clothing	30.36
+Men's Clothing	301.36
+Men's Clothing	301.75
+Men's Clothing	302.46
+Men's Clothing	304.11
+Men's Clothing	305.09
+Men's Clothing	305.24
+Men's Clothing	306.01
+Men's Clothing	307.19
+Men's Clothing	309.63
+Men's Clothing	309.9
+Men's Clothing	31.94
+Men's Clothing	31.96
+Men's Clothing	310.05
+Men's Clothing	310.19
+Men's Clothing	310.84
+Men's Clothing	313.34
+Men's Clothing	313.5
+Men's Clothing	314.1
+Men's Clothing	314.94
+Men's Clothing	315.77
+Men's Clothing	316.11
+Men's Clothing	317.52
+Men's Clothing	318.33
+Men's Clothing	318.68
+Men's Clothing	319.6
+Men's Clothing	32.31
+Men's Clothing	32.6
+Men's Clothing	320.29
+Men's Clothing	322.39
+Men's Clothing	323.04
+Men's Clothing	323.43
+Men's Clothing	323.74
+Men's Clothing	326.36
+Men's Clothing	326.44
+Men's Clothing	328.71
+Men's Clothing	329.11
+Men's Clothing	329.28
+Men's Clothing	329.87
+Men's Clothing	33.04
+Men's Clothing	33.07
+Men's Clothing	33.82
+Men's Clothing	33.9
+Men's Clothing	331.04
+Men's Clothing	331.25
+Men's Clothing	331.78
+Men's Clothing	333.4
+Men's Clothing	333.91
+Men's Clothing	333.97
+Men's Clothing	334.26
+Men's Clothing	334.65
+Men's Clothing	335.45
+Men's Clothing	336.06
+Men's Clothing	336.28
+Men's Clothing	336.76
+Men's Clothing	337.12
+Men's Clothing	337.13
+Men's Clothing	339.95
+Men's Clothing	34.96
+Men's Clothing	342.28
+Men's Clothing	343.47
+Men's Clothing	345.9
+Men's Clothing	345.92
+Men's Clothing	347.26
+Men's Clothing	347.48
+Men's Clothing	349.71
+Men's Clothing	35.12
+Men's Clothing	35.4
+Men's Clothing	352.72
+Men's Clothing	353.61
+Men's Clothing	355.51
+Men's Clothing	355.71
+Men's Clothing	356.44
+Men's Clothing	356.56
+Men's Clothing	357.91
+Men's Clothing	358.08
+Men's Clothing	361.35
+Men's Clothing	362.81
+Men's Clothing	363.79
+Men's Clothing	367.52
+Men's Clothing	369.1
+Men's Clothing	369.98
+Men's Clothing	37.97
+Men's Clothing	370.27
+Men's Clothing	370.55
+Men's Clothing	370.63
+Men's Clothing	370.85
+Men's Clothing	373.27
+Men's Clothing	376.1
+Men's Clothing	376.72
+Men's Clothing	376.9
+Men's Clothing	377.02
+Men's Clothing	377.2
+Men's Clothing	377.34
+Men's Clothing	378.09
+Men's Clothing	378.39
+Men's Clothing	379.46
+Men's Clothing	382.22
+Men's Clothing	383.42
+Men's Clothing	383.9
+Men's Clothing	384.67
+Men's Clothing	387.67
+Men's Clothing	389.08
+Men's Clothing	39.11
+Men's Clothing	39.27
+Men's Clothing	393.04
+Men's Clothing	394.19
+Men's Clothing	396.13
+Men's Clothing	396.29
+Men's Clothing	396.39
+Men's Clothing	396.75
+Men's Clothing	397.95
+Men's Clothing	397.99
+Men's Clothing	398.32
+Men's Clothing	398.79
+Men's Clothing	399.44
+Men's Clothing	399.96
+Men's Clothing	4.18
+Men's Clothing	400.38
+Men's Clothing	400.79
+Men's Clothing	400.82
+Men's Clothing	401.3
+Men's Clothing	402.55
+Men's Clothing	402.9
+Men's Clothing	404.31
+Men's Clothing	405.63
+Men's Clothing	406.84
+Men's Clothing	407.36
+Men's Clothing	407.53
+Men's Clothing	407.61
+Men's Clothing	408.43
+Men's Clothing	409.88
+Men's Clothing	41
+Men's Clothing	41.53
+Men's Clothing	410.06
+Men's Clothing	410.67
+Men's Clothing	410.81
+Men's Clothing	412.61
+Men's Clothing	412.88
+Men's Clothing	413.62
+Men's Clothing	414.15
+Men's Clothing	414.58
+Men's Clothing	414.84
+Men's Clothing	415.61
+Men's Clothing	417.18
+Men's Clothing	417.5
+Men's Clothing	417.76
+Men's Clothing	418.26
+Men's Clothing	418.6
+Men's Clothing	418.91
+Men's Clothing	420.92
+Men's Clothing	424.11
+Men's Clothing	424.61
+Men's Clothing	426.23
+Men's Clothing	427.32
+Men's Clothing	427.43
+Men's Clothing	427.97
+Men's Clothing	428.21
+Men's Clothing	428.37
+Men's Clothing	428.78
+Men's Clothing	43.6
+Men's Clothing	432.77
+Men's Clothing	433.26
+Men's Clothing	433.55
+Men's Clothing	433.97
+Men's Clothing	435.67
+Men's Clothing	435.9
+Men's Clothing	436.25
+Men's Clothing	438
+Men's Clothing	438.34
+Men's Clothing	438.39
+Men's Clothing	44.06
+Men's Clothing	44.22
+Men's Clothing	44.39
+Men's Clothing	440.66
+Men's Clothing	440.77
+Men's Clothing	441.2
+Men's Clothing	441.32
+Men's Clothing	441.45
+Men's Clothing	441.91
+Men's Clothing	442.41
+Men's Clothing	443.22
+Men's Clothing	444.02
+Men's Clothing	444.15
+Men's Clothing	444.18
+Men's Clothing	444.47
+Men's Clothing	445.71
+Men's Clothing	447.07
+Men's Clothing	447.52
+Men's Clothing	45.32
+Men's Clothing	450.27
+Men's Clothing	450.3
+Men's Clothing	450.6
+Men's Clothing	451.29
+Men's Clothing	451.63
+Men's Clothing	451.92
+Men's Clothing	452.66
+Men's Clothing	454.46
+Men's Clothing	456.1
+Men's Clothing	457.23
+Men's Clothing	457.54
+Men's Clothing	457.7
+Men's Clothing	457.96
+Men's Clothing	459.15
+Men's Clothing	46
+Men's Clothing	460.26
+Men's Clothing	460.38
+Men's Clothing	462.48
+Men's Clothing	462.87
+Men's Clothing	464.06
+Men's Clothing	464.97
+Men's Clothing	465.21
+Men's Clothing	467.64
+Men's Clothing	467.89
+Men's Clothing	468.41
+Men's Clothing	468.8
+Men's Clothing	470.22
+Men's Clothing	471.33
+Men's Clothing	473.63
+Men's Clothing	473.78
+Men's Clothing	474.8
+Men's Clothing	475.65
+Men's Clothing	477.37
+Men's Clothing	477.44
+Men's Clothing	477.77
+Men's Clothing	478.6
+Men's Clothing	478.66
+Men's Clothing	478.81
+Men's Clothing	479.92
+Men's Clothing	48.46
+Men's Clothing	48.7
+Men's Clothing	480.04
+Men's Clothing	480.11
+Men's Clothing	480.64
+Men's Clothing	481.32
+Men's Clothing	482.18
+Men's Clothing	482.6
+Men's Clothing	482.67
+Men's Clothing	484.02
+Men's Clothing	485.21
+Men's Clothing	485.76
+Men's Clothing	486.46
+Men's Clothing	487.72
+Men's Clothing	488.71
+Men's Clothing	489.07
+Men's Clothing	489.16
+Men's Clothing	489.23
+Men's Clothing	489.29
+Men's Clothing	49.82
+Men's Clothing	490.51
+Men's Clothing	491.45
+Men's Clothing	492.96
+Men's Clothing	494.34
+Men's Clothing	494.6
+Men's Clothing	495.69
+Men's Clothing	496.61
+Men's Clothing	498.32
+Men's Clothing	5.76
+Men's Clothing	51.06
+Men's Clothing	51.87
+Men's Clothing	53.27
+Men's Clothing	53.34
+Men's Clothing	53.65
+Men's Clothing	53.91
+Men's Clothing	56.05
+Men's Clothing	57.97
+Men's Clothing	58.58
+Men's Clothing	59.76
+Men's Clothing	60.89
+Men's Clothing	61.88
+Men's Clothing	63.29
+Men's Clothing	63.42
+Men's Clothing	65.24
+Men's Clothing	65.51
+Men's Clothing	65.85
+Men's Clothing	66.87
+Men's Clothing	68.05
+Men's Clothing	7.06
+Men's Clothing	70.55
+Men's Clothing	72.14
+Men's Clothing	72.45
+Men's Clothing	72.48
+Men's Clothing	72.55
+Men's Clothing	72.99
+Men's Clothing	73.22
+Men's Clothing	74.28
+Men's Clothing	74.38
+Men's Clothing	74.72
+Men's Clothing	76.7
+Men's Clothing	77.38
+Men's Clothing	77.67
+Men's Clothing	78.05
+Men's Clothing	78.73
+Men's Clothing	8.89
+Men's Clothing	80.32
+Men's Clothing	81.97
+Men's Clothing	82.8
+Men's Clothing	83.11
+Men's Clothing	84.01
+Men's Clothing	85.23
+Men's Clothing	86.12
+Men's Clothing	86.33
+Men's Clothing	86.95
+Men's Clothing	87.24
+Men's Clothing	87.36
+Men's Clothing	88.07
+Men's Clothing	88.76
+Men's Clothing	88.88
+Men's Clothing	89.55
+Men's Clothing	91.01
+Men's Clothing	94.67
+Men's Clothing	95.01
+Men's Clothing	95.3
+Men's Clothing	95.59
+Men's Clothing	96.1
+Men's Clothing	98.3
+Men's Clothing	98.52
+Men's Clothing	99.23
+Men's Clothing	99.63
+Men's Clothing	99.77
+Men's Clothing	99.85
+Men's Clothing	99.94
+Music	10.68
+Music	101.72
+Music	102.16
+Music	102.84
+Music	104.05
+Music	104.32
+Music	104.96
+Music	106.68
+Music	108.02
+Music	11.29
+Music	11.63
+Music	111.95
+Music	112
+Music	113.24
+Music	114.03
+Music	115.6
+Music	116.79
+Music	117.2
+Music	117.66
+Music	117.81
+Music	118.9
+Music	119.08
+Music	119.12
+Music	12.16
+Music	12.18
+Music	12.36
+Music	12.86
+Music	121.39
+Music	121.5
+Music	121.99
+Music	122.59
+Music	124.21
+Music	124.33
+Music	126.83
+Music	127.67
+Music	128.06
+Music	128.78
+Music	13.96
+Music	130.11
+Music	130.98
+Music	131.21
+Music	131.43
+Music	132.24
+Music	132.62
+Music	132.98
+Music	134.35
+Music	134.87
+Music	135.06
+Music	135.68
+Music	136.44
+Music	137.15
+Music	138.72
+Music	138.76
+Music	139.48
+Music	140.57
+Music	141.73
+Music	142.52
+Music	143
+Music	144.6
+Music	144.98
+Music	145.08
+Music	148.15
+Music	149.05
+Music	150.46
+Music	151.2
+Music	151.96
+Music	152.45
+Music	152.71
+Music	152.79
+Music	153.25
+Music	153.38
+Music	153.81
+Music	154.5
+Music	155.86
+Music	157.36
+Music	157.72
+Music	158.09
+Music	158.41
+Music	159.37
+Music	16.33
+Music	16.37
+Music	162.24
+Music	162.52
+Music	162.74
+Music	162.77
+Music	163.65
+Music	164.39
+Music	164.58
+Music	164.92
+Music	165.49
+Music	165.86
+Music	166.11
+Music	167.55
+Music	167.84
+Music	168.26
+Music	170.8
+Music	170.82
+Music	172.26
+Music	172.73
+Music	173.3
+Music	173.44
+Music	173.76
+Music	174.71
+Music	178.7
+Music	178.73
+Music	179.95
+Music	18.26
+Music	18.53
+Music	18.63
+Music	18.71
+Music	181.41
+Music	183.74
+Music	185
+Music	186.08
+Music	188.25
+Music	19.95
+Music	19.99
+Music	190.61
+Music	190.73
+Music	191.58
+Music	192.24
+Music	192.52
+Music	192.55
+Music	192.9
+Music	193.18
+Music	193.56
+Music	193.89
+Music	196.22
+Music	196.45
+Music	196.89
+Music	197.44
+Music	198.32
+Music	198.74
+Music	199.08
+Music	20.66
+Music	202.21
+Music	203.68
+Music	204.15
+Music	204.75
+Music	205.22
+Music	207.89
+Music	208.74
+Music	209.54
+Music	209.83
+Music	21.52
+Music	210.96
+Music	211.17
+Music	211.2
+Music	212.04
+Music	212.7
+Music	213.25
+Music	215.1
+Music	215.99
+Music	216.45
+Music	217.16
+Music	217.31
+Music	217.31
+Music	217.7
+Music	219.97
+Music	22.15
+Music	22.34
+Music	22.97
+Music	220.7
+Music	221.07
+Music	222.2
+Music	222.24
+Music	222.36
+Music	222.47
+Music	223.4
+Music	223.89
+Music	225.14
+Music	225.59
+Music	228.44
+Music	228.86
+Music	229.74
+Music	229.97
+Music	23.92
+Music	230.52
+Music	231.53
+Music	231.84
+Music	234.37
+Music	236.57
+Music	237.26
+Music	237.29
+Music	237.97
+Music	238.65
+Music	239.67
+Music	24.05
+Music	24.28
+Music	240.4
+Music	241.06
+Music	243.77
+Music	244.77
+Music	245.79
+Music	245.98
+Music	246.12
+Music	248.66
+Music	249.63
+Music	25.86
+Music	25.87
+Music	251.77
+Music	252.77
+Music	252.97
+Music	253.45
+Music	256.2
+Music	257.56
+Music	259.11
+Music	259.26
+Music	26.34
+Music	26.44
+Music	260.12
+Music	260.13
+Music	260.65
+Music	263
+Music	264.92
+Music	265.79
+Music	266.02
+Music	266.47
+Music	266.49
+Music	266.57
+Music	268.27
+Music	268.39
+Music	269.26
+Music	270.45
+Music	271.61
+Music	271.67
+Music	273.29
+Music	275.69
+Music	277.66
+Music	28.09
+Music	28.21
+Music	283.85
+Music	284.98
+Music	285.49
+Music	286.02
+Music	286.88
+Music	287.37
+Music	287.75
+Music	289.17
+Music	289.95
+Music	29.41
+Music	29.61
+Music	29.93
+Music	290.08
+Music	290.28
+Music	290.54
+Music	290.76
+Music	291.45
+Music	292.32
+Music	292.47
+Music	295.77
+Music	295.83
+Music	296.02
+Music	296.76
+Music	296.85
+Music	297.13
+Music	297.82
+Music	298.64
+Music	298.8
+Music	298.86
+Music	30.42
+Music	30.71
+Music	301.3
+Music	303.12
+Music	303.38
+Music	303.96
+Music	303.96
+Music	304.35
+Music	305
+Music	305.88
+Music	309.34
+Music	31.52
+Music	31.91
+Music	310.22
+Music	310.3
+Music	310.44
+Music	310.61
+Music	312.08
+Music	312.27
+Music	313.24
+Music	314.48
+Music	314.6
+Music	316.57
+Music	316.97
+Music	318.44
+Music	320.29
+Music	320.38
+Music	322
+Music	324.5
+Music	325.52
+Music	326.04
+Music	326.97
+Music	327.66
+Music	328.5
+Music	328.51
+Music	328.98
+Music	329.28
+Music	330.01
+Music	330.31
+Music	330.94
+Music	331.68
+Music	331.73
+Music	333.32
+Music	333.35
+Music	334.92
+Music	335.06
+Music	335.5
+Music	336.28
+Music	336.48
+Music	337.53
+Music	338.06
+Music	339.29
+Music	339.74
+Music	34.65
+Music	340.29
+Music	340.32
+Music	341.82
+Music	342.49
+Music	342.75
+Music	344.28
+Music	347.24
+Music	347.57
+Music	348.61
+Music	349.31
+Music	35.12
+Music	35.69
+Music	350.24
+Music	351.3
+Music	352.93
+Music	353.05
+Music	354.27
+Music	354.76
+Music	354.99
+Music	356.04
+Music	357.2
+Music	357.71
+Music	358.35
+Music	358.82
+Music	359.06
+Music	359.97
+Music	36.89
+Music	361.38
+Music	361.4
+Music	362.68
+Music	363.53
+Music	364.17
+Music	364.24
+Music	364.41
+Music	364.42
+Music	364.64
+Music	364.72
+Music	365.62
+Music	365.83
+Music	366.74
+Music	369.61
+Music	369.94
+Music	37.3
+Music	372.18
+Music	372.72
+Music	374.26
+Music	376.07
+Music	376.34
+Music	377.33
+Music	377.86
+Music	378.96
+Music	38.71
+Music	38.91
+Music	381.73
+Music	383.55
+Music	386.94
+Music	388.29
+Music	389.8
+Music	39.35
+Music	39.4
+Music	390.89
+Music	390.97
+Music	391.2
+Music	392.91
+Music	393.1
+Music	395.69
+Music	395.93
+Music	396.26
+Music	396.75
+Music	396.92
+Music	398.18
+Music	398.22
+Music	398.32
+Music	4.33
+Music	40.55
+Music	401.1
+Music	401.62
+Music	401.7
+Music	402.42
+Music	402.45
+Music	406.4
+Music	406.69
+Music	407.02
+Music	407.33
+Music	409.25
+Music	409.58
+Music	41.06
+Music	41.28
+Music	41.45
+Music	41.64
+Music	411.46
+Music	412.43
+Music	415.48
+Music	415.91
+Music	416.2
+Music	418.52
+Music	420.24
+Music	420.45
+Music	420.7
+Music	421.58
+Music	426.15
+Music	428.46
+Music	429.44
+Music	430.49
+Music	433.51
+Music	436.76
+Music	437.33
+Music	437.68
+Music	439.53
+Music	440.84
+Music	441.43
+Music	442.52
+Music	443.3
+Music	444.56
+Music	448.61
+Music	449.43
+Music	449.99
+Music	450.81
+Music	452.16
+Music	453.43
+Music	455.22
+Music	456.09
+Music	456.53
+Music	457.22
+Music	457.92
+Music	459.61
+Music	46.32
+Music	46.99
+Music	460.84
+Music	461.11
+Music	461.2
+Music	461.42
+Music	462.38
+Music	462.52
+Music	464.15
+Music	467.49
+Music	469.76
+Music	471.13
+Music	474.32
+Music	474.95
+Music	476.23
+Music	476.62
+Music	476.82
+Music	480.72
+Music	480.88
+Music	480.89
+Music	481.64
+Music	482.3
+Music	482.71
+Music	483.45
+Music	483.77
+Music	484.13
+Music	484.66
+Music	485.06
+Music	485.34
+Music	485.54
+Music	486.25
+Music	487.85
+Music	488.4
+Music	49.09
+Music	49.77
+Music	491.21
+Music	491.75
+Music	493.74
+Music	496.28
+Music	496.85
+Music	497.95
+Music	498.08
+Music	498.66
+Music	50.39
+Music	50.88
+Music	51.54
+Music	51.96
+Music	52.31
+Music	53.4
+Music	53.86
+Music	55.11
+Music	55.23
+Music	55.89
+Music	56.81
+Music	57.24
+Music	6.75
+Music	60.81
+Music	61.82
+Music	62.72
+Music	63.63
+Music	65.45
+Music	65.71
+Music	66.08
+Music	66.53
+Music	67.16
+Music	67.18
+Music	67.3
+Music	68.44
+Music	69.52
+Music	70.72
+Music	72.45
+Music	72.89
+Music	74.11
+Music	74.3
+Music	74.57
+Music	75.4
+Music	76.43
+Music	76.5
+Music	76.7
+Music	77.52
+Music	77.55
+Music	77.74
+Music	78.03
+Music	78.55
+Music	79.88
+Music	80.01
+Music	80.68
+Music	81.89
+Music	82.43
+Music	84.17
+Music	84.24
+Music	84.6
+Music	84.65
+Music	86.89
+Music	88.6
+Music	88.87
+Music	90.71
+Music	92.07
+Music	93.37
+Music	94.3
+Music	95.19
+Music	96.11
+Music	96.14
+Music	97.33
+Music	97.84
+Music	98.24
+Music	99.04
+Pet Supplies	0.4
+Pet Supplies	0.49
+Pet Supplies	101.24
+Pet Supplies	103.17
+Pet Supplies	106.57
+Pet Supplies	106.77
+Pet Supplies	106.86
+Pet Supplies	106.97
+Pet Supplies	108.21
+Pet Supplies	109.21
+Pet Supplies	110.42
+Pet Supplies	111.2
+Pet Supplies	111.89
+Pet Supplies	112.16
+Pet Supplies	113.55
+Pet Supplies	114.38
+Pet Supplies	114.8
+Pet Supplies	115.76
+Pet Supplies	117.45
+Pet Supplies	118.47
+Pet Supplies	119.41
+Pet Supplies	122.36
+Pet Supplies	122.79
+Pet Supplies	122.86
+Pet Supplies	123.19
+Pet Supplies	123.58
+Pet Supplies	125.6
+Pet Supplies	126.27
+Pet Supplies	129.79
+Pet Supplies	129.93
+Pet Supplies	13.66
+Pet Supplies	13.84
+Pet Supplies	132.31
+Pet Supplies	133.11
+Pet Supplies	133.61
+Pet Supplies	134.89
+Pet Supplies	136.94
+Pet Supplies	138.41
+Pet Supplies	138.93
+Pet Supplies	14.24
+Pet Supplies	140.18
+Pet Supplies	143.57
+Pet Supplies	144.67
+Pet Supplies	144.89
+Pet Supplies	145.47
+Pet Supplies	146.51
+Pet Supplies	147.6
+Pet Supplies	148.16
+Pet Supplies	148.57
+Pet Supplies	149.08
+Pet Supplies	149.98
+Pet Supplies	151.46
+Pet Supplies	151.98
+Pet Supplies	152.39
+Pet Supplies	152.62
+Pet Supplies	153.68
+Pet Supplies	153.84
+Pet Supplies	154.71
+Pet Supplies	155.73
+Pet Supplies	157.34
+Pet Supplies	158.02
+Pet Supplies	16.47
+Pet Supplies	162.16
+Pet Supplies	162.24
+Pet Supplies	162.91
+Pet Supplies	163.09
+Pet Supplies	164.04
+Pet Supplies	165.07
+Pet Supplies	165.28
+Pet Supplies	165.55
+Pet Supplies	166.07
+Pet Supplies	167.64
+Pet Supplies	167.74
+Pet Supplies	168.22
+Pet Supplies	17.12
+Pet Supplies	170.06
+Pet Supplies	171.71
+Pet Supplies	172.37
+Pet Supplies	172.82
+Pet Supplies	173.5
+Pet Supplies	173.87
+Pet Supplies	174.13
+Pet Supplies	175.35
+Pet Supplies	175.64
+Pet Supplies	177.58
+Pet Supplies	178.09
+Pet Supplies	18.89
+Pet Supplies	18.94
+Pet Supplies	180.86
+Pet Supplies	181.85
+Pet Supplies	182.46
+Pet Supplies	182.65
+Pet Supplies	182.89
+Pet Supplies	183.54
+Pet Supplies	185.1
+Pet Supplies	185.48
+Pet Supplies	185.6
+Pet Supplies	186.26
+Pet Supplies	187.01
+Pet Supplies	187.24
+Pet Supplies	187.72
+Pet Supplies	189.67
+Pet Supplies	19.07
+Pet Supplies	190.28
+Pet Supplies	190.45
+Pet Supplies	190.95
+Pet Supplies	198.1
+Pet Supplies	198.14
+Pet Supplies	198.57
+Pet Supplies	199.22
+Pet Supplies	199.67
+Pet Supplies	199.71
+Pet Supplies	200.46
+Pet Supplies	200.87
+Pet Supplies	203.22
+Pet Supplies	203.24
+Pet Supplies	205.84
+Pet Supplies	206.29
+Pet Supplies	209.02
+Pet Supplies	210.84
+Pet Supplies	210.96
+Pet Supplies	211.11
+Pet Supplies	211.79
+Pet Supplies	213.17
+Pet Supplies	213.87
+Pet Supplies	214.78
+Pet Supplies	214.8
+Pet Supplies	216.6
+Pet Supplies	216.76
+Pet Supplies	216.86
+Pet Supplies	216.94
+Pet Supplies	217.42
+Pet Supplies	217.81
+Pet Supplies	218.58
+Pet Supplies	219.46
+Pet Supplies	22.93
+Pet Supplies	221.2
+Pet Supplies	221.67
+Pet Supplies	221.77
+Pet Supplies	223.56
+Pet Supplies	224.49
+Pet Supplies	224.85
+Pet Supplies	224.86
+Pet Supplies	225.57
+Pet Supplies	225.57
+Pet Supplies	225.67
+Pet Supplies	226.01
+Pet Supplies	226.14
+Pet Supplies	226.17
+Pet Supplies	226.17
+Pet Supplies	226.8
+Pet Supplies	226.9
+Pet Supplies	227.75
+Pet Supplies	23.55
+Pet Supplies	232.05
+Pet Supplies	232.21
+Pet Supplies	233.69
+Pet Supplies	236.06
+Pet Supplies	237.37
+Pet Supplies	238.15
+Pet Supplies	239.63
+Pet Supplies	239.68
+Pet Supplies	24.78
+Pet Supplies	244.32
+Pet Supplies	244.38
+Pet Supplies	247.57
+Pet Supplies	248.26
+Pet Supplies	248.93
+Pet Supplies	249.6
+Pet Supplies	252.34
+Pet Supplies	252.75
+Pet Supplies	253.18
+Pet Supplies	253.33
+Pet Supplies	255.96
+Pet Supplies	257.86
+Pet Supplies	258.61
+Pet Supplies	259.19
+Pet Supplies	26.29
+Pet Supplies	26.41
+Pet Supplies	26.72
+Pet Supplies	260.12
+Pet Supplies	262.03
+Pet Supplies	263.56
+Pet Supplies	264.04
+Pet Supplies	264.31
+Pet Supplies	264.72
+Pet Supplies	264.8
+Pet Supplies	265.58
+Pet Supplies	268.95
+Pet Supplies	269.29
+Pet Supplies	269.52
+Pet Supplies	27.49
+Pet Supplies	270.21
+Pet Supplies	271.1
+Pet Supplies	271.42
+Pet Supplies	272.61
+Pet Supplies	274.5
+Pet Supplies	275.65
+Pet Supplies	277.6
+Pet Supplies	277.9
+Pet Supplies	278.18
+Pet Supplies	278.2
+Pet Supplies	28.74
+Pet Supplies	28.78
+Pet Supplies	28.92
+Pet Supplies	280.48
+Pet Supplies	280.63
+Pet Supplies	281.07
+Pet Supplies	281.09
+Pet Supplies	283.69
+Pet Supplies	284.89
+Pet Supplies	285.95
+Pet Supplies	286.12
+Pet Supplies	286.37
+Pet Supplies	286.58
+Pet Supplies	287.23
+Pet Supplies	287.32
+Pet Supplies	287.37
+Pet Supplies	288.67
+Pet Supplies	289.18
+Pet Supplies	29.08
+Pet Supplies	29.22
+Pet Supplies	29.49
+Pet Supplies	29.88
+Pet Supplies	290.88
+Pet Supplies	291.05
+Pet Supplies	293.67
+Pet Supplies	294.06
+Pet Supplies	299.7
+Pet Supplies	3.42
+Pet Supplies	30.66
+Pet Supplies	300.12
+Pet Supplies	300.4
+Pet Supplies	301.43
+Pet Supplies	304.16
+Pet Supplies	304.6
+Pet Supplies	305.07
+Pet Supplies	305.17
+Pet Supplies	306.14
+Pet Supplies	306.21
+Pet Supplies	306.32
+Pet Supplies	306.84
+Pet Supplies	308.19
+Pet Supplies	308.57
+Pet Supplies	308.6
+Pet Supplies	310.25
+Pet Supplies	310.91
+Pet Supplies	311.5
+Pet Supplies	311.63
+Pet Supplies	312.42
+Pet Supplies	314.67
+Pet Supplies	314.91
+Pet Supplies	314.91
+Pet Supplies	315.23
+Pet Supplies	316.25
+Pet Supplies	316.32
+Pet Supplies	316.37
+Pet Supplies	316.9
+Pet Supplies	317.72
+Pet Supplies	318.5
+Pet Supplies	318.7
+Pet Supplies	319
+Pet Supplies	319.89
+Pet Supplies	32.1
+Pet Supplies	32.84
+Pet Supplies	320.43
+Pet Supplies	320.74
+Pet Supplies	321.06
+Pet Supplies	321.9
+Pet Supplies	322.76
+Pet Supplies	322.78
+Pet Supplies	323.65
+Pet Supplies	324.73
+Pet Supplies	324.82
+Pet Supplies	325.19
+Pet Supplies	326.46
+Pet Supplies	327.77
+Pet Supplies	327.94
+Pet Supplies	329.64
+Pet Supplies	329.78
+Pet Supplies	329.88
+Pet Supplies	33.01
+Pet Supplies	33.18
+Pet Supplies	33.27
+Pet Supplies	330.49
+Pet Supplies	332.09
+Pet Supplies	332.48
+Pet Supplies	332.54
+Pet Supplies	333.49
+Pet Supplies	333.87
+Pet Supplies	333.97
+Pet Supplies	334.82
+Pet Supplies	335.91
+Pet Supplies	339.56
+Pet Supplies	340.13
+Pet Supplies	341.09
+Pet Supplies	341.56
+Pet Supplies	343.77
+Pet Supplies	344.11
+Pet Supplies	345.78
+Pet Supplies	345.89
+Pet Supplies	345.92
+Pet Supplies	346.51
+Pet Supplies	347.62
+Pet Supplies	347.99
+Pet Supplies	348.56
+Pet Supplies	348.66
+Pet Supplies	348.86
+Pet Supplies	348.86
+Pet Supplies	349.36
+Pet Supplies	351.73
+Pet Supplies	352.35
+Pet Supplies	352.57
+Pet Supplies	352.59
+Pet Supplies	355.16
+Pet Supplies	359.5
+Pet Supplies	359.92
+Pet Supplies	36.23
+Pet Supplies	36.94
+Pet Supplies	362.79
+Pet Supplies	365.57
+Pet Supplies	366.01
+Pet Supplies	366.07
+Pet Supplies	367.76
+Pet Supplies	369.84
+Pet Supplies	371.15
+Pet Supplies	371.45
+Pet Supplies	371.45
+Pet Supplies	371.54
+Pet Supplies	374.33
+Pet Supplies	374.92
+Pet Supplies	375.64
+Pet Supplies	375.8
+Pet Supplies	375.81
+Pet Supplies	376.84
+Pet Supplies	377.09
+Pet Supplies	380.87
+Pet Supplies	381.2
+Pet Supplies	382.41
+Pet Supplies	384.99
+Pet Supplies	386.02
+Pet Supplies	388.97
+Pet Supplies	389.01
+Pet Supplies	389.53
+Pet Supplies	389.7
+Pet Supplies	391.79
+Pet Supplies	392.03
+Pet Supplies	392.4
+Pet Supplies	392.47
+Pet Supplies	393.67
+Pet Supplies	395.71
+Pet Supplies	397.97
+Pet Supplies	399.72
+Pet Supplies	40.54
+Pet Supplies	40.81
+Pet Supplies	400.47
+Pet Supplies	403.42
+Pet Supplies	403.57
+Pet Supplies	404.41
+Pet Supplies	404.48
+Pet Supplies	405.18
+Pet Supplies	406.24
+Pet Supplies	406.39
+Pet Supplies	407.2
+Pet Supplies	407.71
+Pet Supplies	408.1
+Pet Supplies	408.34
+Pet Supplies	408.63
+Pet Supplies	408.66
+Pet Supplies	408.68
+Pet Supplies	408.76
+Pet Supplies	409.04
+Pet Supplies	409.42
+Pet Supplies	409.67
+Pet Supplies	41.22
+Pet Supplies	41.38
+Pet Supplies	41.48
+Pet Supplies	41.77
+Pet Supplies	410.16
+Pet Supplies	410.5
+Pet Supplies	411.65
+Pet Supplies	413.65
+Pet Supplies	413.87
+Pet Supplies	414.3
+Pet Supplies	414.48
+Pet Supplies	414.62
+Pet Supplies	415.43
+Pet Supplies	415.83
+Pet Supplies	416.83
+Pet Supplies	417.24
+Pet Supplies	417.45
+Pet Supplies	418.09
+Pet Supplies	418.79
+Pet Supplies	419.96
+Pet Supplies	42.19
+Pet Supplies	42.48
+Pet Supplies	421.09
+Pet Supplies	422.78
+Pet Supplies	423.08
+Pet Supplies	423.47
+Pet Supplies	423.99
+Pet Supplies	424.49
+Pet Supplies	427.28
+Pet Supplies	427.55
+Pet Supplies	429.49
+Pet Supplies	43.02
+Pet Supplies	43.73
+Pet Supplies	430.02
+Pet Supplies	431.16
+Pet Supplies	431.81
+Pet Supplies	432.08
+Pet Supplies	433.21
+Pet Supplies	433.79
+Pet Supplies	435.15
+Pet Supplies	435.17
+Pet Supplies	437.83
+Pet Supplies	438.3
+Pet Supplies	44.46
+Pet Supplies	44.56
+Pet Supplies	440.3
+Pet Supplies	440.7
+Pet Supplies	441.79
+Pet Supplies	442.4
+Pet Supplies	442.71
+Pet Supplies	442.73
+Pet Supplies	443.21
+Pet Supplies	443.25
+Pet Supplies	443.67
+Pet Supplies	444.16
+Pet Supplies	444.28
+Pet Supplies	444.79
+Pet Supplies	445.89
+Pet Supplies	446.98
+Pet Supplies	447.81
+Pet Supplies	448.65
+Pet Supplies	448.73
+Pet Supplies	449.59
+Pet Supplies	45.73
+Pet Supplies	45.79
+Pet Supplies	451.38
+Pet Supplies	451.68
+Pet Supplies	452.12
+Pet Supplies	452.53
+Pet Supplies	456.91
+Pet Supplies	457.67
+Pet Supplies	459.44
+Pet Supplies	46.09
+Pet Supplies	46.82
+Pet Supplies	460.34
+Pet Supplies	460.72
+Pet Supplies	463.35
+Pet Supplies	464.54
+Pet Supplies	465.26
+Pet Supplies	465.56
+Pet Supplies	466.55
+Pet Supplies	467.11
+Pet Supplies	468.58
+Pet Supplies	468.69
+Pet Supplies	469.28
+Pet Supplies	47.54
+Pet Supplies	47.65
+Pet Supplies	470.64
+Pet Supplies	471.07
+Pet Supplies	472.73
+Pet Supplies	472.91
+Pet Supplies	473.09
+Pet Supplies	473.39
+Pet Supplies	473.99
+Pet Supplies	476.83
+Pet Supplies	477.74
+Pet Supplies	477.74
+Pet Supplies	478.32
+Pet Supplies	478.5
+Pet Supplies	478.79
+Pet Supplies	479.76
+Pet Supplies	479.99
+Pet Supplies	480.32
+Pet Supplies	481.48
+Pet Supplies	481.52
+Pet Supplies	482.13
+Pet Supplies	482.97
+Pet Supplies	483.64
+Pet Supplies	483.84
+Pet Supplies	483.94
+Pet Supplies	484.24
+Pet Supplies	484.61
+Pet Supplies	488.89
+Pet Supplies	489.83
+Pet Supplies	49.2
+Pet Supplies	490.48
+Pet Supplies	490.68
+Pet Supplies	490.94
+Pet Supplies	491.86
+Pet Supplies	493.13
+Pet Supplies	493.51
+Pet Supplies	493.76
+Pet Supplies	495.55
+Pet Supplies	495.84
+Pet Supplies	497.76
+Pet Supplies	499.18
+Pet Supplies	5.8
+Pet Supplies	50.27
+Pet Supplies	50.64
+Pet Supplies	50.71
+Pet Supplies	55.42
+Pet Supplies	56.09
+Pet Supplies	57.34
+Pet Supplies	58.23
+Pet Supplies	59.53
+Pet Supplies	60.5
+Pet Supplies	60.93
+Pet Supplies	63.92
+Pet Supplies	64.71
+Pet Supplies	65.23
+Pet Supplies	65.48
+Pet Supplies	67
+Pet Supplies	67.26
+Pet Supplies	68.35
+Pet Supplies	68.76
+Pet Supplies	69.39
+Pet Supplies	69.96
+Pet Supplies	7.36
+Pet Supplies	7.92
+Pet Supplies	7.98
+Pet Supplies	70.29
+Pet Supplies	70.49
+Pet Supplies	70.78
+Pet Supplies	71.05
+Pet Supplies	71.33
+Pet Supplies	76.31
+Pet Supplies	76.61
+Pet Supplies	77.06
+Pet Supplies	77.17
+Pet Supplies	77.43
+Pet Supplies	77.88
+Pet Supplies	78.64
+Pet Supplies	78.73
+Pet Supplies	79.52
+Pet Supplies	8.08
+Pet Supplies	80.5
+Pet Supplies	81.33
+Pet Supplies	84.4
+Pet Supplies	84.81
+Pet Supplies	85.3
+Pet Supplies	85.45
+Pet Supplies	86.6
+Pet Supplies	86.78
+Pet Supplies	89.69
+Pet Supplies	90.14
+Pet Supplies	90.38
+Pet Supplies	91.59
+Pet Supplies	91.7
+Pet Supplies	92.73
+Pet Supplies	92.77
+Pet Supplies	93.21
+Pet Supplies	93.83
+Pet Supplies	96.37
+Pet Supplies	96.8
+Pet Supplies	97.05
+Pet Supplies	99.86
+Sporting Goods	0.68
+Sporting Goods	101.54
+Sporting Goods	101.64
+Sporting Goods	102.2
+Sporting Goods	102.53
+Sporting Goods	103.01
+Sporting Goods	104.75
+Sporting Goods	105.43
+Sporting Goods	105.5
+Sporting Goods	106.69
+Sporting Goods	108.04
+Sporting Goods	11.98
+Sporting Goods	111.32
+Sporting Goods	111.98
+Sporting Goods	112.09
+Sporting Goods	112.66
+Sporting Goods	113.12
+Sporting Goods	113.8
+Sporting Goods	114.88
+Sporting Goods	115.37
+Sporting Goods	117.2
+Sporting Goods	117.9
+Sporting Goods	119.08
+Sporting Goods	119.18
+Sporting Goods	119.41
+Sporting Goods	119.43
+Sporting Goods	119.95
+Sporting Goods	12.81
+Sporting Goods	121.87
+Sporting Goods	122.84
+Sporting Goods	123.69
+Sporting Goods	123.79
+Sporting Goods	124.52
+Sporting Goods	125.52
+Sporting Goods	125.58
+Sporting Goods	126.53
+Sporting Goods	127.03
+Sporting Goods	128.61
+Sporting Goods	129.99
+Sporting Goods	133.13
+Sporting Goods	133.47
+Sporting Goods	134.62
+Sporting Goods	136.3
+Sporting Goods	136.47
+Sporting Goods	136.6
+Sporting Goods	136.82
+Sporting Goods	136.98
+Sporting Goods	137.29
+Sporting Goods	138.18
+Sporting Goods	140.81
+Sporting Goods	140.81
+Sporting Goods	141.59
+Sporting Goods	141.78
+Sporting Goods	143.26
+Sporting Goods	145.27
+Sporting Goods	146.16
+Sporting Goods	146.63
+Sporting Goods	147.16
+Sporting Goods	147.29
+Sporting Goods	147.45
+Sporting Goods	148.68
+Sporting Goods	148.86
+Sporting Goods	149.67
+Sporting Goods	15.41
+Sporting Goods	150.71
+Sporting Goods	150.78
+Sporting Goods	152.8
+Sporting Goods	153.88
+Sporting Goods	157.29
+Sporting Goods	157.83
+Sporting Goods	158.09
+Sporting Goods	158.53
+Sporting Goods	159.12
+Sporting Goods	159.69
+Sporting Goods	160.69
+Sporting Goods	161.22
+Sporting Goods	161.28
+Sporting Goods	162.6
+Sporting Goods	162.78
+Sporting Goods	163.91
+Sporting Goods	164.45
+Sporting Goods	165.63
+Sporting Goods	166.62
+Sporting Goods	166.84
+Sporting Goods	168.44
+Sporting Goods	17.18
+Sporting Goods	17.73
+Sporting Goods	171.24
+Sporting Goods	171.32
+Sporting Goods	171.32
+Sporting Goods	172.99
+Sporting Goods	173.97
+Sporting Goods	173.98
+Sporting Goods	176
+Sporting Goods	179.82
+Sporting Goods	179.86
+Sporting Goods	18.97
+Sporting Goods	180.24
+Sporting Goods	180.8
+Sporting Goods	180.91
+Sporting Goods	181.94
+Sporting Goods	182
+Sporting Goods	184.45
+Sporting Goods	186.11
+Sporting Goods	187.28
+Sporting Goods	187.61
+Sporting Goods	188.01
+Sporting Goods	192.2
+Sporting Goods	192.69
+Sporting Goods	193.08
+Sporting Goods	195.8
+Sporting Goods	196.37
+Sporting Goods	198.59
+Sporting Goods	198.65
+Sporting Goods	198.82
+Sporting Goods	199.77
+Sporting Goods	2.27
+Sporting Goods	2.46
+Sporting Goods	20.44
+Sporting Goods	201.66
+Sporting Goods	201.75
+Sporting Goods	202.05
+Sporting Goods	202.69
+Sporting Goods	202.93
+Sporting Goods	204.1
+Sporting Goods	204.43
+Sporting Goods	205.62
+Sporting Goods	207.15
+Sporting Goods	207.76
+Sporting Goods	209.13
+Sporting Goods	21.36
+Sporting Goods	21.7
+Sporting Goods	210.55
+Sporting Goods	211.41
+Sporting Goods	212.13
+Sporting Goods	215.2
+Sporting Goods	216.23
+Sporting Goods	216.51
+Sporting Goods	216.71
+Sporting Goods	217.06
+Sporting Goods	221.32
+Sporting Goods	221.67
+Sporting Goods	224.09
+Sporting Goods	224.29
+Sporting Goods	224.69
+Sporting Goods	226.96
+Sporting Goods	227.82
+Sporting Goods	23.27
+Sporting Goods	230.15
+Sporting Goods	230.36
+Sporting Goods	230.46
+Sporting Goods	230.78
+Sporting Goods	230.81
+Sporting Goods	232.08
+Sporting Goods	232.72
+Sporting Goods	233.2
+Sporting Goods	233.67
+Sporting Goods	233.75
+Sporting Goods	233.86
+Sporting Goods	234.37
+Sporting Goods	234.53
+Sporting Goods	237.9
+Sporting Goods	239.11
+Sporting Goods	24.28
+Sporting Goods	24.31
+Sporting Goods	24.66
+Sporting Goods	240.41
+Sporting Goods	241.53
+Sporting Goods	241.99
+Sporting Goods	243.72
+Sporting Goods	243.99
+Sporting Goods	245.5
+Sporting Goods	247.59
+Sporting Goods	247.71
+Sporting Goods	248.71
+Sporting Goods	250.16
+Sporting Goods	250.22
+Sporting Goods	250.76
+Sporting Goods	251.91
+Sporting Goods	252.14
+Sporting Goods	252.77
+Sporting Goods	253.07
+Sporting Goods	254.85
+Sporting Goods	254.87
+Sporting Goods	255.39
+Sporting Goods	255.44
+Sporting Goods	255.6
+Sporting Goods	255.77
+Sporting Goods	256.28
+Sporting Goods	256.34
+Sporting Goods	257.65
+Sporting Goods	258.17
+Sporting Goods	259.44
+Sporting Goods	259.66
+Sporting Goods	26.54
+Sporting Goods	260.17
+Sporting Goods	261.42
+Sporting Goods	262.1
+Sporting Goods	262.29
+Sporting Goods	265.18
+Sporting Goods	265.32
+Sporting Goods	265.42
+Sporting Goods	266.38
+Sporting Goods	266.93
+Sporting Goods	267.89
+Sporting Goods	269.82
+Sporting Goods	27.44
+Sporting Goods	270.35
+Sporting Goods	273.63
+Sporting Goods	274.36
+Sporting Goods	274.68
+Sporting Goods	276.1
+Sporting Goods	278.4
+Sporting Goods	279.83
+Sporting Goods	279.86
+Sporting Goods	282.98
+Sporting Goods	283.1
+Sporting Goods	284.4
+Sporting Goods	284.47
+Sporting Goods	287
+Sporting Goods	287.1
+Sporting Goods	287.42
+Sporting Goods	287.48
+Sporting Goods	287.82
+Sporting Goods	288.66
+Sporting Goods	289.36
+Sporting Goods	289.73
+Sporting Goods	290
+Sporting Goods	292.41
+Sporting Goods	292.58
+Sporting Goods	295.87
+Sporting Goods	297.18
+Sporting Goods	298.95
+Sporting Goods	299.58
+Sporting Goods	299.7
+Sporting Goods	3.44
+Sporting Goods	300.62
+Sporting Goods	301.35
+Sporting Goods	302.02
+Sporting Goods	302.21
+Sporting Goods	302.53
+Sporting Goods	302.61
+Sporting Goods	302.97
+Sporting Goods	304.76
+Sporting Goods	304.77
+Sporting Goods	306.84
+Sporting Goods	307.9
+Sporting Goods	308.49
+Sporting Goods	308.51
+Sporting Goods	308.85
+Sporting Goods	308.92
+Sporting Goods	310.3
+Sporting Goods	310.63
+Sporting Goods	312.7
+Sporting Goods	312.87
+Sporting Goods	313.14
+Sporting Goods	317.91
+Sporting Goods	319.08
+Sporting Goods	32.68
+Sporting Goods	320.14
+Sporting Goods	321.07
+Sporting Goods	321.54
+Sporting Goods	325.07
+Sporting Goods	325.22
+Sporting Goods	325.3
+Sporting Goods	325.71
+Sporting Goods	326.24
+Sporting Goods	326.92
+Sporting Goods	327.36
+Sporting Goods	327.75
+Sporting Goods	328.01
+Sporting Goods	328.3
+Sporting Goods	328.45
+Sporting Goods	33.4
+Sporting Goods	332.01
+Sporting Goods	332.97
+Sporting Goods	334.17
+Sporting Goods	335.68
+Sporting Goods	337.17
+Sporting Goods	338.41
+Sporting Goods	338.54
+Sporting Goods	338.73
+Sporting Goods	338.76
+Sporting Goods	339.48
+Sporting Goods	339.57
+Sporting Goods	339.8
+Sporting Goods	339.87
+Sporting Goods	339.99
+Sporting Goods	34.3
+Sporting Goods	34.46
+Sporting Goods	344.4
+Sporting Goods	344.53
+Sporting Goods	347.39
+Sporting Goods	348.14
+Sporting Goods	348.2
+Sporting Goods	348.44
+Sporting Goods	349.3
+Sporting Goods	349.85
+Sporting Goods	351.93
+Sporting Goods	352.56
+Sporting Goods	353.61
+Sporting Goods	353.84
+Sporting Goods	354.44
+Sporting Goods	354.65
+Sporting Goods	355.38
+Sporting Goods	357.7
+Sporting Goods	358.97
+Sporting Goods	359.29
+Sporting Goods	359.82
+Sporting Goods	36.18
+Sporting Goods	36.81
+Sporting Goods	362.01
+Sporting Goods	362.11
+Sporting Goods	363.15
+Sporting Goods	363.83
+Sporting Goods	365.85
+Sporting Goods	367.38
+Sporting Goods	367.41
+Sporting Goods	367.97
+Sporting Goods	368.29
+Sporting Goods	369.31
+Sporting Goods	370
+Sporting Goods	371.21
+Sporting Goods	371.64
+Sporting Goods	371.71
+Sporting Goods	371.88
+Sporting Goods	374.17
+Sporting Goods	375.66
+Sporting Goods	376.14
+Sporting Goods	376.92
+Sporting Goods	379.9
+Sporting Goods	380.52
+Sporting Goods	381.14
+Sporting Goods	381.98
+Sporting Goods	382.87
+Sporting Goods	383.34
+Sporting Goods	384.16
+Sporting Goods	386.86
+Sporting Goods	387.68
+Sporting Goods	388.37
+Sporting Goods	388.83
+Sporting Goods	389.23
+Sporting Goods	39.31
+Sporting Goods	390.8
+Sporting Goods	391.35
+Sporting Goods	392.31
+Sporting Goods	393.68
+Sporting Goods	395.78
+Sporting Goods	395.96
+Sporting Goods	398.46
+Sporting Goods	398.61
+Sporting Goods	399
+Sporting Goods	399.73
+Sporting Goods	40.41
+Sporting Goods	40.76
+Sporting Goods	407.32
+Sporting Goods	408.08
+Sporting Goods	408.49
+Sporting Goods	409.12
+Sporting Goods	409.62
+Sporting Goods	41.83
+Sporting Goods	41.85
+Sporting Goods	410.4
+Sporting Goods	410.49
+Sporting Goods	410.93
+Sporting Goods	411.97
+Sporting Goods	413.67
+Sporting Goods	414.57
+Sporting Goods	414.81
+Sporting Goods	416.79
+Sporting Goods	419.96
+Sporting Goods	42.2
+Sporting Goods	42.64
+Sporting Goods	420.43
+Sporting Goods	422.37
+Sporting Goods	422.54
+Sporting Goods	422.91
+Sporting Goods	422.92
+Sporting Goods	423.14
+Sporting Goods	424.01
+Sporting Goods	424.89
+Sporting Goods	425.35
+Sporting Goods	425.49
+Sporting Goods	426.16
+Sporting Goods	426.72
+Sporting Goods	43.22
+Sporting Goods	430.09
+Sporting Goods	434.6
+Sporting Goods	435.95
+Sporting Goods	436.19
+Sporting Goods	437.51
+Sporting Goods	437.57
+Sporting Goods	438.5
+Sporting Goods	439.13
+Sporting Goods	44.17
+Sporting Goods	44.25
+Sporting Goods	44.82
+Sporting Goods	440.73
+Sporting Goods	441.03
+Sporting Goods	442.6
+Sporting Goods	444.57
+Sporting Goods	444.87
+Sporting Goods	446.9
+Sporting Goods	447.2
+Sporting Goods	447.25
+Sporting Goods	448.33
+Sporting Goods	449.31
+Sporting Goods	45.09
+Sporting Goods	45.75
+Sporting Goods	451.17
+Sporting Goods	452.07
+Sporting Goods	452.1
+Sporting Goods	453.12
+Sporting Goods	454.08
+Sporting Goods	454.15
+Sporting Goods	454.17
+Sporting Goods	454.39
+Sporting Goods	456.22
+Sporting Goods	456.6
+Sporting Goods	457.38
+Sporting Goods	457.45
+Sporting Goods	458.27
+Sporting Goods	458.49
+Sporting Goods	459.07
+Sporting Goods	459.65
+Sporting Goods	461.1
+Sporting Goods	461.25
+Sporting Goods	461.89
+Sporting Goods	462.4
+Sporting Goods	462.95
+Sporting Goods	464.12
+Sporting Goods	466.48
+Sporting Goods	468.31
+Sporting Goods	468.36
+Sporting Goods	468.64
+Sporting Goods	469.78
+Sporting Goods	47.14
+Sporting Goods	47.48
+Sporting Goods	470.01
+Sporting Goods	471.15
+Sporting Goods	471.29
+Sporting Goods	473.69
+Sporting Goods	475.26
+Sporting Goods	476.34
+Sporting Goods	476.94
+Sporting Goods	477.06
+Sporting Goods	479.83
+Sporting Goods	48.1
+Sporting Goods	48.34
+Sporting Goods	480.8
+Sporting Goods	481.31
+Sporting Goods	481.56
+Sporting Goods	484.22
+Sporting Goods	484.36
+Sporting Goods	484.38
+Sporting Goods	485.01
+Sporting Goods	485.06
+Sporting Goods	487.74
+Sporting Goods	487.86
+Sporting Goods	488.5
+Sporting Goods	488.65
+Sporting Goods	488.8
+Sporting Goods	489.56
+Sporting Goods	489.76
+Sporting Goods	492.06
+Sporting Goods	492.77
+Sporting Goods	493.01
+Sporting Goods	494.55
+Sporting Goods	496.73
+Sporting Goods	498.58
+Sporting Goods	498.79
+Sporting Goods	499.33
+Sporting Goods	499.39
+Sporting Goods	50.29
+Sporting Goods	50.9
+Sporting Goods	50.98
+Sporting Goods	51.3
+Sporting Goods	51.87
+Sporting Goods	53.08
+Sporting Goods	53.11
+Sporting Goods	53.94
+Sporting Goods	55.81
+Sporting Goods	56.57
+Sporting Goods	56.74
+Sporting Goods	56.75
+Sporting Goods	57.14
+Sporting Goods	57.44
+Sporting Goods	57.81
+Sporting Goods	58.36
+Sporting Goods	60.92
+Sporting Goods	60.99
+Sporting Goods	61.02
+Sporting Goods	63.78
+Sporting Goods	65.93
+Sporting Goods	66.79
+Sporting Goods	67.26
+Sporting Goods	67.65
+Sporting Goods	68.31
+Sporting Goods	68.45
+Sporting Goods	70.33
+Sporting Goods	70.38
+Sporting Goods	71.58
+Sporting Goods	71.86
+Sporting Goods	74.16
+Sporting Goods	75
+Sporting Goods	75.6
+Sporting Goods	76.35
+Sporting Goods	77.36
+Sporting Goods	77.71
+Sporting Goods	77.84
+Sporting Goods	77.94
+Sporting Goods	80.06
+Sporting Goods	80.37
+Sporting Goods	81.13
+Sporting Goods	81.15
+Sporting Goods	81.4
+Sporting Goods	81.89
+Sporting Goods	82.11
+Sporting Goods	82.19
+Sporting Goods	85.11
+Sporting Goods	87.19
+Sporting Goods	87.26
+Sporting Goods	88.4
+Sporting Goods	88.84
+Sporting Goods	9.74
+Sporting Goods	9.89
+Sporting Goods	90.8
+Sporting Goods	90.86
+Sporting Goods	91.17
+Sporting Goods	93.74
+Sporting Goods	94.99
+Sporting Goods	95.88
+Sporting Goods	96.25
+Sporting Goods	96.57
+Sporting Goods	98.92
+Sporting Goods	99.98
+Toys	0.47
+Toys	0.79
+Toys	1.04
+Toys	1.06
+Toys	1.13
+Toys	1.27
+Toys	10.55
+Toys	101.07
+Toys	101.68
+Toys	102.73
+Toys	103.85
+Toys	103.97
+Toys	105.38
+Toys	105.6
+Toys	106.89
+Toys	108.04
+Toys	108.42
+Toys	108.64
+Toys	109.9
+Toys	11.54
+Toys	110.73
+Toys	113.11
+Toys	115.51
+Toys	116.06
+Toys	116.31
+Toys	116.56
+Toys	118.06
+Toys	12.02
+Toys	12.18
+Toys	12.47
+Toys	12.56
+Toys	120.39
+Toys	121.7
+Toys	126.14
+Toys	128.2
+Toys	129.2
+Toys	13.99
+Toys	130.57
+Toys	133.96
+Toys	134.26
+Toys	136.42
+Toys	137.67
+Toys	138.35
+Toys	138.91
+Toys	139
+Toys	140.37
+Toys	141.4
+Toys	142.35
+Toys	143.41
+Toys	145.38
+Toys	146.07
+Toys	146.19
+Toys	146.21
+Toys	148.62
+Toys	15.29
+Toys	15.96
+Toys	151.03
+Toys	151.58
+Toys	152.34
+Toys	152.55
+Toys	152.58
+Toys	154.86
+Toys	154.86
+Toys	157.48
+Toys	157.49
+Toys	158.5
+Toys	16.57
+Toys	16.7
+Toys	160.01
+Toys	160.88
+Toys	161.82
+Toys	161.9
+Toys	162.21
+Toys	162.96
+Toys	164.06
+Toys	165.05
+Toys	165.23
+Toys	166.52
+Toys	166.93
+Toys	168.36
+Toys	169.21
+Toys	169.92
+Toys	17.16
+Toys	17.45
+Toys	17.59
+Toys	171.35
+Toys	171.44
+Toys	172.14
+Toys	174.6
+Toys	175.26
+Toys	176.48
+Toys	176.63
+Toys	176.71
+Toys	177.23
+Toys	178.58
+Toys	179.83
+Toys	18.84
+Toys	182.41
+Toys	182.42
+Toys	183.11
+Toys	187.05
+Toys	187.14
+Toys	187.56
+Toys	187.6
+Toys	190.77
+Toys	191.1
+Toys	192.33
+Toys	193.47
+Toys	194.34
+Toys	194.35
+Toys	194.61
+Toys	194.64
+Toys	194.76
+Toys	195.04
+Toys	195.04
+Toys	195.81
+Toys	196.13
+Toys	196.44
+Toys	197.63
+Toys	198.08
+Toys	198.63
+Toys	199.17
+Toys	199.8
+Toys	199.85
+Toys	2
+Toys	2.08
+Toys	2.46
+Toys	20.71
+Toys	200.26
+Toys	202.45
+Toys	204.48
+Toys	205.08
+Toys	206.42
+Toys	207.3
+Toys	207.66
+Toys	207.88
+Toys	208.4
+Toys	209.59
+Toys	21.01
+Toys	21.26
+Toys	210.17
+Toys	210.18
+Toys	210.32
+Toys	211.24
+Toys	211.79
+Toys	212.38
+Toys	212.47
+Toys	213.88
+Toys	215.26
+Toys	215.35
+Toys	218.17
+Toys	22.82
+Toys	221.66
+Toys	222.67
+Toys	223.38
+Toys	223.67
+Toys	225.38
+Toys	227.68
+Toys	227.98
+Toys	228.28
+Toys	228.93
+Toys	229.16
+Toys	23.08
+Toys	230.36
+Toys	231.01
+Toys	231.12
+Toys	231.32
+Toys	232.34
+Toys	233.64
+Toys	235.78
+Toys	235.88
+Toys	236.29
+Toys	236.53
+Toys	238.63
+Toys	239.8
+Toys	239.92
+Toys	24.91
+Toys	240.2
+Toys	240.3
+Toys	243.73
+Toys	244.24
+Toys	246.98
+Toys	247.78
+Toys	248.33
+Toys	248.55
+Toys	248.75
+Toys	249.6
+Toys	249.86
+Toys	25.38
+Toys	250.15
+Toys	252.95
+Toys	253.55
+Toys	253.65
+Toys	253.93
+Toys	254.62
+Toys	256.36
+Toys	257.67
+Toys	258.18
+Toys	26.91
+Toys	263.73
+Toys	263.96
+Toys	265.55
+Toys	267.36
+Toys	267.36
+Toys	267.86
+Toys	270.29
+Toys	270.72
+Toys	271.24
+Toys	271.34
+Toys	271.38
+Toys	271.5
+Toys	272.55
+Toys	273.94
+Toys	274.42
+Toys	274.57
+Toys	275.12
+Toys	276.95
+Toys	277.7
+Toys	278.97
+Toys	279.13
+Toys	280.14
+Toys	281.01
+Toys	284.72
+Toys	284.73
+Toys	285.21
+Toys	287.17
+Toys	288.43
+Toys	290.5
+Toys	291.42
+Toys	293.47
+Toys	293.48
+Toys	293.76
+Toys	296.86
+Toys	296.97
+Toys	297.3
+Toys	298.21
+Toys	299.14
+Toys	299.46
+Toys	30.02
+Toys	30.46
+Toys	30.76
+Toys	30.88
+Toys	301.58
+Toys	302.15
+Toys	302.77
+Toys	303.26
+Toys	303.29
+Toys	303.38
+Toys	303.57
+Toys	305.38
+Toys	307.82
+Toys	307.89
+Toys	308.22
+Toys	309
+Toys	309.86
+Toys	31.05
+Toys	31.53
+Toys	310.01
+Toys	310.32
+Toys	311.74
+Toys	312.3
+Toys	314.42
+Toys	316.4
+Toys	32.91
+Toys	32.96
+Toys	322.32
+Toys	322.55
+Toys	322.93
+Toys	325.24
+Toys	325.26
+Toys	325.33
+Toys	325.71
+Toys	326.92
+Toys	327.04
+Toys	330.06
+Toys	330.25
+Toys	330.35
+Toys	330.52
+Toys	330.92
+Toys	331.02
+Toys	331.58
+Toys	331.76
+Toys	333.16
+Toys	333.46
+Toys	335.73
+Toys	336.29
+Toys	337.3
+Toys	337.63
+Toys	337.66
+Toys	337.71
+Toys	338.44
+Toys	338.69
+Toys	338.86
+Toys	338.91
+Toys	339.22
+Toys	339.77
+Toys	341.68
+Toys	342.34
+Toys	344.81
+Toys	344.92
+Toys	345.03
+Toys	348.89
+Toys	348.97
+Toys	349.84
+Toys	350.3
+Toys	352.38
+Toys	352.45
+Toys	353.26
+Toys	355.71
+Toys	356.47
+Toys	357.79
+Toys	358.63
+Toys	358.68
+Toys	359.05
+Toys	359.13
+Toys	359.61
+Toys	359.89
+Toys	360.59
+Toys	361.66
+Toys	361.8
+Toys	362.19
+Toys	362.61
+Toys	363.07
+Toys	364.26
+Toys	365.48
+Toys	365.73
+Toys	366.59
+Toys	367.5
+Toys	367.52
+Toys	368.61
+Toys	368.73
+Toys	369.21
+Toys	369.77
+Toys	37.67
+Toys	37.77
+Toys	370.14
+Toys	370.33
+Toys	371.59
+Toys	372.3
+Toys	372.32
+Toys	372.36
+Toys	372.4
+Toys	372.49
+Toys	372.51
+Toys	373.93
+Toys	374.13
+Toys	374.42
+Toys	375.46
+Toys	376.05
+Toys	376.78
+Toys	378.67
+Toys	378.88
+Toys	38.13
+Toys	380.55
+Toys	381.05
+Toys	383.08
+Toys	385.03
+Toys	386.06
+Toys	386.47
+Toys	388.4
+Toys	389.23
+Toys	39.53
+Toys	39.58
+Toys	39.79
+Toys	390.25
+Toys	390.32
+Toys	390.51
+Toys	390.58
+Toys	391.65
+Toys	394.52
+Toys	396.8
+Toys	397.07
+Toys	397.09
+Toys	398.33
+Toys	4.45
+Toys	40.31
+Toys	40.43
+Toys	400.2
+Toys	400.59
+Toys	403.79
+Toys	404.91
+Toys	406.58
+Toys	406.95
+Toys	408.22
+Toys	409.26
+Toys	409.31
+Toys	41.91
+Toys	411.35
+Toys	411.42
+Toys	411.54
+Toys	411.63
+Toys	412.37
+Toys	412.66
+Toys	413.11
+Toys	413.81
+Toys	414.67
+Toys	415.92
+Toys	416.02
+Toys	416.4
+Toys	416.97
+Toys	417.42
+Toys	417.62
+Toys	42.14
+Toys	420.44
+Toys	422.96
+Toys	424.23
+Toys	425.79
+Toys	426.21
+Toys	426.79
+Toys	426.91
+Toys	427.06
+Toys	427.34
+Toys	427.92
+Toys	428.04
+Toys	43.16
+Toys	43.27
+Toys	43.92
+Toys	431.03
+Toys	434.22
+Toys	434.29
+Toys	435.42
+Toys	435.88
+Toys	437.83
+Toys	438.11
+Toys	438.37
+Toys	439.1
+Toys	439.22
+Toys	439.24
+Toys	441.02
+Toys	441.5
+Toys	442.2
+Toys	442.7
+Toys	444.19
+Toys	447.56
+Toys	448.42
+Toys	449.53
+Toys	449.64
+Toys	449.66
+Toys	449.7
+Toys	45.36
+Toys	450.33
+Toys	451.08
+Toys	452.22
+Toys	452.54
+Toys	455.34
+Toys	455.45
+Toys	455.56
+Toys	455.65
+Toys	457.16
+Toys	458.63
+Toys	46.14
+Toys	46.18
+Toys	46.44
+Toys	46.46
+Toys	460.44
+Toys	461.95
+Toys	463.04
+Toys	463.44
+Toys	464.51
+Toys	465.19
+Toys	465.46
+Toys	466.5
+Toys	467.25
+Toys	469.21
+Toys	472.32
+Toys	475.74
+Toys	476.48
+Toys	477.63
+Toys	477.87
+Toys	478.89
+Toys	478.94
+Toys	479.13
+Toys	479.14
+Toys	479.18
+Toys	482.12
+Toys	482.48
+Toys	483.11
+Toys	483.61
+Toys	485.04
+Toys	485.88
+Toys	485.92
+Toys	487.35
+Toys	487.96
+Toys	488.05
+Toys	49.34
+Toys	49.42
+Toys	49.81
+Toys	49.88
+Toys	49.94
+Toys	490.18
+Toys	490.49
+Toys	492.19
+Toys	493.4
+Toys	493.64
+Toys	494.56
+Toys	495.88
+Toys	495.96
+Toys	496
+Toys	497.69
+Toys	5.84
+Toys	50.63
+Toys	51.66
+Toys	52.21
+Toys	53.24
+Toys	54.56
+Toys	55.04
+Toys	55.11
+Toys	55.21
+Toys	55.74
+Toys	57.78
+Toys	59.4
+Toys	59.85
+Toys	60.01
+Toys	60.4
+Toys	60.97
+Toys	62.41
+Toys	63.55
+Toys	63.94
+Toys	64
+Toys	66.21
+Toys	66.36
+Toys	68.98
+Toys	70.36
+Toys	71.13
+Toys	71.18
+Toys	72.04
+Toys	72.86
+Toys	72.87
+Toys	72.89
+Toys	73.13
+Toys	74.13
+Toys	74.71
+Toys	74.93
+Toys	75.18
+Toys	76
+Toys	76.16
+Toys	76.97
+Toys	77.33
+Toys	77.45
+Toys	79.78
+Toys	8.61
+Toys	80.18
+Toys	80.24
+Toys	80.46
+Toys	81.18
+Toys	81.91
+Toys	82.23
+Toys	82.52
+Toys	83.14
+Toys	84.18
+Toys	84.89
+Toys	86.85
+Toys	88.38
+Toys	88.56
+Toys	88.74
+Toys	89.61
+Toys	9.12
+Toys	9.47
+Toys	90.22
+Toys	92.19
+Toys	92.56
+Toys	92.78
+Toys	93.2
+Toys	94.38
+Toys	94.43
+Toys	94.64
+Toys	96.17
+Toys	96.63
+Toys	97.86
+Toys	98.49
+Toys	98.83
+Toys	99.8
+Video Games	1.01
+Video Games	1.24
+Video Games	10.43
+Video Games	100.95
+Video Games	102.37
+Video Games	102.89
+Video Games	102.95
+Video Games	103.07
+Video Games	104.58
+Video Games	104.81
+Video Games	105.96
+Video Games	107.08
+Video Games	107.94
+Video Games	108.08
+Video Games	109.51
+Video Games	109.78
+Video Games	11.14
+Video Games	11.82
+Video Games	111.2
+Video Games	111.36
+Video Games	111.49
+Video Games	112.27
+Video Games	112.35
+Video Games	112.47
+Video Games	112.66
+Video Games	113.72
+Video Games	114.62
+Video Games	115.18
+Video Games	115.55
+Video Games	115.59
+Video Games	116.66
+Video Games	117.27
+Video Games	117.68
+Video Games	117.88
+Video Games	118
+Video Games	118.56
+Video Games	118.99
+Video Games	119.39
+Video Games	12.17
+Video Games	12.29
+Video Games	120.33
+Video Games	122.33
+Video Games	122.43
+Video Games	122.96
+Video Games	124.21
+Video Games	124.28
+Video Games	126.05
+Video Games	126.34
+Video Games	127.33
+Video Games	127.53
+Video Games	127.62
+Video Games	128.42
+Video Games	13.38
+Video Games	13.4
+Video Games	130.24
+Video Games	131.32
+Video Games	132.64
+Video Games	132.68
+Video Games	134.79
+Video Games	135.91
+Video Games	138.02
+Video Games	138.84
+Video Games	139.68
+Video Games	140.19
+Video Games	141.66
+Video Games	143.02
+Video Games	143.07
+Video Games	144.87
+Video Games	146.01
+Video Games	146.41
+Video Games	146.71
+Video Games	148.83
+Video Games	148.9
+Video Games	149.1
+Video Games	15.49
+Video Games	15.63
+Video Games	15.7
+Video Games	15.71
+Video Games	150.6
+Video Games	150.72
+Video Games	150.95
+Video Games	153.17
+Video Games	153.24
+Video Games	153.54
+Video Games	153.63
+Video Games	154.42
+Video Games	156.21
+Video Games	156.43
+Video Games	157.47
+Video Games	157.57
+Video Games	158.88
+Video Games	158.92
+Video Games	16.11
+Video Games	160.97
+Video Games	160.99
+Video Games	161.38
+Video Games	161.42
+Video Games	161.55
+Video Games	162.82
+Video Games	168.8
+Video Games	169.33
+Video Games	169.64
+Video Games	169.83
+Video Games	17.51
+Video Games	170.17
+Video Games	170.57
+Video Games	174.06
+Video Games	175.25
+Video Games	175.86
+Video Games	175.89
+Video Games	176.3
+Video Games	177.18
+Video Games	179.26
+Video Games	179.36
+Video Games	18.97
+Video Games	180.57
+Video Games	180.9
+Video Games	182.26
+Video Games	182.67
+Video Games	182.81
+Video Games	182.94
+Video Games	183.1
+Video Games	183.16
+Video Games	184.03
+Video Games	184.37
+Video Games	185.68
+Video Games	186.16
+Video Games	186.75
+Video Games	187.58
+Video Games	188.01
+Video Games	188.86
+Video Games	189.67
+Video Games	19.54
+Video Games	190.97
+Video Games	192.49
+Video Games	192.53
+Video Games	192.6
+Video Games	192.79
+Video Games	193.91
+Video Games	194.23
+Video Games	194.58
+Video Games	195.18
+Video Games	196.38
+Video Games	197.12
+Video Games	197.46
+Video Games	198.5
+Video Games	199.01
+Video Games	200.78
+Video Games	203.23
+Video Games	203.79
+Video Games	208.69
+Video Games	209.42
+Video Games	21.94
+Video Games	211.08
+Video Games	211.18
+Video Games	211.66
+Video Games	212.72
+Video Games	214.88
+Video Games	214.89
+Video Games	215.74
+Video Games	217.55
+Video Games	217.98
+Video Games	218.27
+Video Games	218.62
+Video Games	218.77
+Video Games	22.8
+Video Games	221.18
+Video Games	222.7
+Video Games	224.17
+Video Games	225
+Video Games	226.01
+Video Games	226.04
+Video Games	226.98
+Video Games	229.74
+Video Games	23.21
+Video Games	230.02
+Video Games	231.22
+Video Games	231.76
+Video Games	233.87
+Video Games	234.41
+Video Games	234.67
+Video Games	234.79
+Video Games	235.63
+Video Games	236.39
+Video Games	237.29
+Video Games	237.42
+Video Games	238.04
+Video Games	238.26
+Video Games	238.71
+Video Games	238.81
+Video Games	238.82
+Video Games	240.41
+Video Games	241.82
+Video Games	242.26
+Video Games	243.52
+Video Games	244.38
+Video Games	245.51
+Video Games	245.67
+Video Games	248.3
+Video Games	248.51
+Video Games	248.82
+Video Games	249.99
+Video Games	251.22
+Video Games	251.33
+Video Games	251.85
+Video Games	252.85
+Video Games	253.08
+Video Games	253.13
+Video Games	253.48
+Video Games	253.91
+Video Games	254.55
+Video Games	255.5
+Video Games	256.37
+Video Games	257.24
+Video Games	257.92
+Video Games	259.14
+Video Games	259.38
+Video Games	26.42
+Video Games	260.95
+Video Games	261.09
+Video Games	263.41
+Video Games	263.6
+Video Games	263.73
+Video Games	263.92
+Video Games	264.15
+Video Games	266.71
+Video Games	266.83
+Video Games	268.13
+Video Games	268.29
+Video Games	27.56
+Video Games	27.65
+Video Games	27.75
+Video Games	27.94
+Video Games	270.73
+Video Games	271.44
+Video Games	272.2
+Video Games	272.22
+Video Games	272.79
+Video Games	272.8
+Video Games	272.84
+Video Games	273.69
+Video Games	273.88
+Video Games	276.24
+Video Games	276.74
+Video Games	277.27
+Video Games	277.51
+Video Games	277.7
+Video Games	279.4
+Video Games	280.46
+Video Games	280.5
+Video Games	281.33
+Video Games	281.98
+Video Games	282.29
+Video Games	282.57
+Video Games	283.37
+Video Games	284.91
+Video Games	286.45
+Video Games	286.81
+Video Games	288
+Video Games	288.86
+Video Games	288.93
+Video Games	289.07
+Video Games	289.81
+Video Games	29.53
+Video Games	290.32
+Video Games	290.34
+Video Games	290.76
+Video Games	292.85
+Video Games	294.46
+Video Games	294.84
+Video Games	294.98
+Video Games	295.28
+Video Games	295.9
+Video Games	296.84
+Video Games	297.32
+Video Games	297.9
+Video Games	298.57
+Video Games	298.75
+Video Games	299.03
+Video Games	3.27
+Video Games	3.62
+Video Games	30.11
+Video Games	30.24
+Video Games	30.88
+Video Games	30.99
+Video Games	300.1
+Video Games	300.27
+Video Games	300.91
+Video Games	301.67
+Video Games	302.36
+Video Games	303.67
+Video Games	304
+Video Games	304.03
+Video Games	305.42
+Video Games	305.45
+Video Games	306.41
+Video Games	306.58
+Video Games	307.03
+Video Games	307.29
+Video Games	308.41
+Video Games	309.39
+Video Games	31.08
+Video Games	31.63
+Video Games	31.7
+Video Games	310.68
+Video Games	310.76
+Video Games	310.94
+Video Games	311.47
+Video Games	317.09
+Video Games	317.71
+Video Games	317.86
+Video Games	318
+Video Games	318.66
+Video Games	319.99
+Video Games	32.87
+Video Games	320.86
+Video Games	321.2
+Video Games	322.19
+Video Games	322.86
+Video Games	323.35
+Video Games	324.14
+Video Games	324.32
+Video Games	324.68
+Video Games	325.81
+Video Games	326.5
+Video Games	327.42
+Video Games	328.19
+Video Games	328.19
+Video Games	329.51
+Video Games	33.89
+Video Games	330.3
+Video Games	330.68
+Video Games	331.22
+Video Games	331.27
+Video Games	331.4
+Video Games	334.68
+Video Games	335.11
+Video Games	335.35
+Video Games	335.42
+Video Games	336.16
+Video Games	336.3
+Video Games	336.88
+Video Games	336.97
+Video Games	337
+Video Games	338.62
+Video Games	338.86
+Video Games	34.27
+Video Games	340.13
+Video Games	341.4
+Video Games	341.48
+Video Games	344.03
+Video Games	345.36
+Video Games	347.22
+Video Games	347.73
+Video Games	348.68
+Video Games	349.23
+Video Games	35.29
+Video Games	35.49
+Video Games	350.48
+Video Games	350.55
+Video Games	350.56
+Video Games	351.38
+Video Games	352.51
+Video Games	352.79
+Video Games	354.54
+Video Games	354.54
+Video Games	355.14
+Video Games	355.16
+Video Games	355.46
+Video Games	356.29
+Video Games	356.9
+Video Games	357.49
+Video Games	357.51
+Video Games	358.43
+Video Games	359.66
+Video Games	36.75
+Video Games	360.92
+Video Games	361.09
+Video Games	361.47
+Video Games	361.5
+Video Games	362.56
+Video Games	364.71
+Video Games	365.38
+Video Games	365.46
+Video Games	366.56
+Video Games	367.9
+Video Games	368.26
+Video Games	368.31
+Video Games	368.71
+Video Games	369.87
+Video Games	37.53
+Video Games	370.95
+Video Games	370.99
+Video Games	371.25
+Video Games	371.54
+Video Games	372.38
+Video Games	372.76
+Video Games	372.8
+Video Games	372.96
+Video Games	372.99
+Video Games	373.02
+Video Games	373.85
+Video Games	374.14
+Video Games	374.99
+Video Games	375.78
+Video Games	375.8
+Video Games	375.98
+Video Games	376.32
+Video Games	377.07
+Video Games	379.37
+Video Games	379.75
+Video Games	38.92
+Video Games	381.61
+Video Games	382.41
+Video Games	384.29
+Video Games	384.83
+Video Games	386.02
+Video Games	386.54
+Video Games	388.98
+Video Games	39.75
+Video Games	391.88
+Video Games	392.18
+Video Games	393.02
+Video Games	393.76
+Video Games	393.84
+Video Games	394.68
+Video Games	397.13
+Video Games	398.46
+Video Games	4.75
+Video Games	40.01
+Video Games	40.85
+Video Games	400.08
+Video Games	401.97
+Video Games	402.4
+Video Games	402.86
+Video Games	403.18
+Video Games	403.98
+Video Games	404.24
+Video Games	404.34
+Video Games	404.52
+Video Games	404.55
+Video Games	404.63
+Video Games	405.47
+Video Games	406.02
+Video Games	406.18
+Video Games	406.62
+Video Games	407.05
+Video Games	407.44
+Video Games	408.24
+Video Games	409.24
+Video Games	412.23
+Video Games	412.59
+Video Games	414.33
+Video Games	414.42
+Video Games	415.04
+Video Games	417.07
+Video Games	418.05
+Video Games	418.14
+Video Games	419.88
+Video Games	420.11
+Video Games	420.46
+Video Games	420.48
+Video Games	422
+Video Games	426.02
+Video Games	43
+Video Games	432.48
+Video Games	433.23
+Video Games	435
+Video Games	435.37
+Video Games	436.45
+Video Games	436.53
+Video Games	438.58
+Video Games	44.49
+Video Games	441.89
+Video Games	442.24
+Video Games	442.43
+Video Games	445.01
+Video Games	446.94
+Video Games	447.44
+Video Games	449.24
+Video Games	450.7
+Video Games	453.09
+Video Games	454.17
+Video Games	454.22
+Video Games	454.63
+Video Games	455.35
+Video Games	455.78
+Video Games	455.87
+Video Games	457.1
+Video Games	457.69
+Video Games	458.63
+Video Games	459.16
+Video Games	459.7
+Video Games	460.72
+Video Games	461.91
+Video Games	462.1
+Video Games	462.34
+Video Games	462.51
+Video Games	462.89
+Video Games	463.31
+Video Games	463.96
+Video Games	465.87
+Video Games	466.58
+Video Games	467
+Video Games	467.75
+Video Games	468.64
+Video Games	469.45
+Video Games	469.9
+Video Games	47.28
+Video Games	47.34
+Video Games	470.16
+Video Games	470.34
+Video Games	470.45
+Video Games	471.19
+Video Games	472.06
+Video Games	472.53
+Video Games	472.74
+Video Games	473.67
+Video Games	476.54
+Video Games	476.64
+Video Games	477.38
+Video Games	478.98
+Video Games	479.08
+Video Games	48.11
+Video Games	48.25
+Video Games	48.94
+Video Games	481.06
+Video Games	481.43
+Video Games	482.58
+Video Games	482.76
+Video Games	485.96
+Video Games	486.18
+Video Games	487.16
+Video Games	488.27
+Video Games	491.9
+Video Games	492.29
+Video Games	492.98
+Video Games	494.09
+Video Games	494.17
+Video Games	494.4
+Video Games	5.28
+Video Games	5.72
+Video Games	51.61
+Video Games	52.42
+Video Games	53.26
+Video Games	55.68
+Video Games	56.85
+Video Games	56.87
+Video Games	57.15
+Video Games	58.22
+Video Games	58.66
+Video Games	59.34
+Video Games	59.46
+Video Games	59.57
+Video Games	60.11
+Video Games	60.93
+Video Games	61.69
+Video Games	62.04
+Video Games	63.34
+Video Games	65.46
+Video Games	66.47
+Video Games	67.71
+Video Games	68.41
+Video Games	69.5
+Video Games	69.7
+Video Games	70.08
+Video Games	70.9
+Video Games	71.69
+Video Games	72.45
+Video Games	73.39
+Video Games	73.45
+Video Games	73.67
+Video Games	73.94
+Video Games	75.2
+Video Games	75.5
+Video Games	75.73
+Video Games	75.95
+Video Games	76.41
+Video Games	76.81
+Video Games	79.76
+Video Games	8.32
+Video Games	8.81
+Video Games	80.69
+Video Games	80.77
+Video Games	81.86
+Video Games	82.54
+Video Games	83.48
+Video Games	83.75
+Video Games	87.49
+Video Games	87.85
+Video Games	88.48
+Video Games	89.34
+Video Games	9.65
+Video Games	9.78
+Video Games	90.12
+Video Games	91.42
+Video Games	93.91
+Video Games	97.16
+Video Games	97.85
+Video Games	99.68
+Women's Clothing	0.71
+Women's Clothing	0.87
+Women's Clothing	1.27
+Women's Clothing	10.53
+Women's Clothing	10.87
+Women's Clothing	100.38
+Women's Clothing	101.38
+Women's Clothing	102.79
+Women's Clothing	104.42
+Women's Clothing	105.47
+Women's Clothing	107.58
+Women's Clothing	107.76
+Women's Clothing	108.03
+Women's Clothing	108.62
+Women's Clothing	108.88
+Women's Clothing	109.41
+Women's Clothing	109.56
+Women's Clothing	11.22
+Women's Clothing	11.68
+Women's Clothing	110.19
+Women's Clothing	111.83
+Women's Clothing	112.15
+Women's Clothing	114.73
+Women's Clothing	114.78
+Women's Clothing	115.36
+Women's Clothing	116.12
+Women's Clothing	116.23
+Women's Clothing	116.76
+Women's Clothing	118.21
+Women's Clothing	119.94
+Women's Clothing	12.48
+Women's Clothing	120.15
+Women's Clothing	120.64
+Women's Clothing	121.43
+Women's Clothing	123.1
+Women's Clothing	123.36
+Women's Clothing	124.65
+Women's Clothing	125.98
+Women's Clothing	126.02
+Women's Clothing	126.12
+Women's Clothing	128.06
+Women's Clothing	128.29
+Women's Clothing	128.7
+Women's Clothing	129.07
+Women's Clothing	13.95
+Women's Clothing	130.71
+Women's Clothing	131.02
+Women's Clothing	132.3
+Women's Clothing	132.49
+Women's Clothing	132.99
+Women's Clothing	133.31
+Women's Clothing	134.02
+Women's Clothing	134.28
+Women's Clothing	134.62
+Women's Clothing	137.67
+Women's Clothing	14.62
+Women's Clothing	14.79
+Women's Clothing	142.88
+Women's Clothing	143.56
+Women's Clothing	143.99
+Women's Clothing	144.07
+Women's Clothing	144.73
+Women's Clothing	145.13
+Women's Clothing	146.29
+Women's Clothing	146.77
+Women's Clothing	147.61
+Women's Clothing	147.8
+Women's Clothing	148.68
+Women's Clothing	149.75
+Women's Clothing	15.41
+Women's Clothing	150.37
+Women's Clothing	150.73
+Women's Clothing	150.87
+Women's Clothing	152.05
+Women's Clothing	152.2
+Women's Clothing	152.9
+Women's Clothing	153.44
+Women's Clothing	153.57
+Women's Clothing	154.44
+Women's Clothing	154.49
+Women's Clothing	157.35
+Women's Clothing	158.85
+Women's Clothing	158.99
+Women's Clothing	159.09
+Women's Clothing	159.58
+Women's Clothing	16.03
+Women's Clothing	16.66
+Women's Clothing	160.14
+Women's Clothing	160.31
+Women's Clothing	160.78
+Women's Clothing	162.77
+Women's Clothing	163.28
+Women's Clothing	163.46
+Women's Clothing	166.93
+Women's Clothing	168.2
+Women's Clothing	168.67
+Women's Clothing	169.61
+Women's Clothing	169.8
+Women's Clothing	17.09
+Women's Clothing	17.35
+Women's Clothing	17.89
+Women's Clothing	170.39
+Women's Clothing	172.73
+Women's Clothing	173.55
+Women's Clothing	173.72
+Women's Clothing	173.97
+Women's Clothing	174.17
+Women's Clothing	176.83
+Women's Clothing	176.98
+Women's Clothing	177.15
+Women's Clothing	177.32
+Women's Clothing	177.78
+Women's Clothing	18.25
+Women's Clothing	180.95
+Women's Clothing	183.82
+Women's Clothing	185.02
+Women's Clothing	185.07
+Women's Clothing	187.45
+Women's Clothing	187.69
+Women's Clothing	188.51
+Women's Clothing	189.01
+Women's Clothing	189.16
+Women's Clothing	19.16
+Women's Clothing	19.59
+Women's Clothing	190.81
+Women's Clothing	192.32
+Women's Clothing	192.95
+Women's Clothing	193.83
+Women's Clothing	194.5
+Women's Clothing	195.63
+Women's Clothing	196.28
+Women's Clothing	196.37
+Women's Clothing	197.19
+Women's Clothing	197.37
+Women's Clothing	198.64
+Women's Clothing	199.33
+Women's Clothing	199.48
+Women's Clothing	2.08
+Women's Clothing	20.41
+Women's Clothing	203.1
+Women's Clothing	203.4
+Women's Clothing	203.57
+Women's Clothing	203.61
+Women's Clothing	203.99
+Women's Clothing	205.09
+Women's Clothing	205.53
+Women's Clothing	205.61
+Women's Clothing	206.82
+Women's Clothing	207.07
+Women's Clothing	207.67
+Women's Clothing	208.21
+Women's Clothing	209.46
+Women's Clothing	209.95
+Women's Clothing	21.53
+Women's Clothing	210.18
+Women's Clothing	211.32
+Women's Clothing	212.64
+Women's Clothing	212.88
+Women's Clothing	213.17
+Women's Clothing	214.06
+Women's Clothing	215.28
+Women's Clothing	215.82
+Women's Clothing	216.3
+Women's Clothing	216.99
+Women's Clothing	220.2
+Women's Clothing	220.33
+Women's Clothing	221.13
+Women's Clothing	221.97
+Women's Clothing	222.1
+Women's Clothing	223.89
+Women's Clothing	224.15
+Women's Clothing	224.32
+Women's Clothing	225.98
+Women's Clothing	227.25
+Women's Clothing	227.27
+Women's Clothing	229.45
+Women's Clothing	23.31
+Women's Clothing	230.24
+Women's Clothing	230.35
+Women's Clothing	231.08
+Women's Clothing	232.6
+Women's Clothing	232.66
+Women's Clothing	233.83
+Women's Clothing	234.37
+Women's Clothing	235.27
+Women's Clothing	235.69
+Women's Clothing	235.9
+Women's Clothing	236.54
+Women's Clothing	236.57
+Women's Clothing	237.07
+Women's Clothing	237.52
+Women's Clothing	238.24
+Women's Clothing	238.25
+Women's Clothing	238.67
+Women's Clothing	239.3
+Women's Clothing	24.49
+Women's Clothing	242.2
+Women's Clothing	242.98
+Women's Clothing	243.21
+Women's Clothing	244.56
+Women's Clothing	246.8
+Women's Clothing	248.12
+Women's Clothing	250.09
+Women's Clothing	250.54
+Women's Clothing	250.57
+Women's Clothing	250.66
+Women's Clothing	251.07
+Women's Clothing	253.37
+Women's Clothing	254.43
+Women's Clothing	255.08
+Women's Clothing	255.35
+Women's Clothing	255.57
+Women's Clothing	257.19
+Women's Clothing	258.43
+Women's Clothing	260.45
+Women's Clothing	260.79
+Women's Clothing	261.65
+Women's Clothing	263.91
+Women's Clothing	264.32
+Women's Clothing	264.93
+Women's Clothing	265.87
+Women's Clothing	265.98
+Women's Clothing	268.34
+Women's Clothing	269.32
+Women's Clothing	269.38
+Women's Clothing	269.76
+Women's Clothing	270.01
+Women's Clothing	270.11
+Women's Clothing	271.04
+Women's Clothing	273.25
+Women's Clothing	274.35
+Women's Clothing	279.13
+Women's Clothing	28.34
+Women's Clothing	281.37
+Women's Clothing	282.98
+Women's Clothing	284.34
+Women's Clothing	284.41
+Women's Clothing	284.63
+Women's Clothing	285.77
+Women's Clothing	286.73
+Women's Clothing	287.12
+Women's Clothing	288.75
+Women's Clothing	289.19
+Women's Clothing	29.19
+Women's Clothing	290.18
+Women's Clothing	290.7
+Women's Clothing	292.35
+Women's Clothing	293.16
+Women's Clothing	293.71
+Women's Clothing	294.31
+Women's Clothing	296.2
+Women's Clothing	296.31
+Women's Clothing	296.6
+Women's Clothing	297.64
+Women's Clothing	298.76
+Women's Clothing	299.26
+Women's Clothing	299.27
+Women's Clothing	3.9
+Women's Clothing	30.37
+Women's Clothing	30.55
+Women's Clothing	302.49
+Women's Clothing	302.81
+Women's Clothing	302.99
+Women's Clothing	303.49
+Women's Clothing	304.04
+Women's Clothing	304.7
+Women's Clothing	304.89
+Women's Clothing	306.01
+Women's Clothing	306.67
+Women's Clothing	306.8
+Women's Clothing	307.09
+Women's Clothing	307.95
+Women's Clothing	308.53
+Women's Clothing	309.66
+Women's Clothing	309.74
+Women's Clothing	31.19
+Women's Clothing	31.53
+Women's Clothing	310.22
+Women's Clothing	310.78
+Women's Clothing	312.24
+Women's Clothing	312.9
+Women's Clothing	313.92
+Women's Clothing	314.08
+Women's Clothing	314.17
+Women's Clothing	314.67
+Women's Clothing	314.98
+Women's Clothing	315.31
+Women's Clothing	315.48
+Women's Clothing	316.89
+Women's Clothing	317.35
+Women's Clothing	317.57
+Women's Clothing	318.74
+Women's Clothing	319.65
+Women's Clothing	321.61
+Women's Clothing	322.79
+Women's Clothing	325.42
+Women's Clothing	327.37
+Women's Clothing	328.6
+Women's Clothing	33.05
+Women's Clothing	331.22
+Women's Clothing	332.72
+Women's Clothing	332.79
+Women's Clothing	332.79
+Women's Clothing	335.03
+Women's Clothing	336.97
+Women's Clothing	337.17
+Women's Clothing	339.03
+Women's Clothing	339.12
+Women's Clothing	34.81
+Women's Clothing	34.81
+Women's Clothing	340.01
+Women's Clothing	340.83
+Women's Clothing	341.25
+Women's Clothing	341.34
+Women's Clothing	343.36
+Women's Clothing	343.87
+Women's Clothing	345.49
+Women's Clothing	346.18
+Women's Clothing	346.37
+Women's Clothing	346.53
+Women's Clothing	346.66
+Women's Clothing	347.12
+Women's Clothing	347.49
+Women's Clothing	347.7
+Women's Clothing	348.49
+Women's Clothing	349.48
+Women's Clothing	35.38
+Women's Clothing	351.05
+Women's Clothing	352.47
+Women's Clothing	353.12
+Women's Clothing	354.67
+Women's Clothing	354.98
+Women's Clothing	355.24
+Women's Clothing	355.36
+Women's Clothing	356.05
+Women's Clothing	356.3
+Women's Clothing	358.41
+Women's Clothing	359.29
+Women's Clothing	359.62
+Women's Clothing	360.56
+Women's Clothing	362.12
+Women's Clothing	364.05
+Women's Clothing	368.9
+Women's Clothing	369.18
+Women's Clothing	369.52
+Women's Clothing	370.01
+Women's Clothing	370.43
+Women's Clothing	370.51
+Women's Clothing	372.18
+Women's Clothing	372.39
+Women's Clothing	375.39
+Women's Clothing	376.06
+Women's Clothing	377.22
+Women's Clothing	377.68
+Women's Clothing	378.13
+Women's Clothing	378.46
+Women's Clothing	379.01
+Women's Clothing	379.35
+Women's Clothing	38.26
+Women's Clothing	38.48
+Women's Clothing	380.75
+Women's Clothing	382.06
+Women's Clothing	384.01
+Women's Clothing	384.28
+Women's Clothing	384.7
+Women's Clothing	387.63
+Women's Clothing	39.13
+Women's Clothing	390.03
+Women's Clothing	390.05
+Women's Clothing	390.19
+Women's Clothing	390.33
+Women's Clothing	391.14
+Women's Clothing	392.92
+Women's Clothing	397.22
+Women's Clothing	397.36
+Women's Clothing	398.01
+Women's Clothing	398.38
+Women's Clothing	398.66
+Women's Clothing	398.88
+Women's Clothing	399.04
+Women's Clothing	399.33
+Women's Clothing	399.34
+Women's Clothing	4.63
+Women's Clothing	40.24
+Women's Clothing	40.44
+Women's Clothing	401.19
+Women's Clothing	401.98
+Women's Clothing	403.29
+Women's Clothing	404.53
+Women's Clothing	406.11
+Women's Clothing	406.49
+Women's Clothing	406.59
+Women's Clothing	407.55
+Women's Clothing	41.25
+Women's Clothing	41.39
+Women's Clothing	41.64
+Women's Clothing	410.02
+Women's Clothing	410.71
+Women's Clothing	410.91
+Women's Clothing	412.37
+Women's Clothing	413.46
+Women's Clothing	414.58
+Women's Clothing	415.38
+Women's Clothing	415.62
+Women's Clothing	416.36
+Women's Clothing	416.39
+Women's Clothing	416.64
+Women's Clothing	417.85
+Women's Clothing	418.26
+Women's Clothing	418.36
+Women's Clothing	419.3
+Women's Clothing	42.05
+Women's Clothing	42.27
+Women's Clothing	420.02
+Women's Clothing	421.52
+Women's Clothing	423.12
+Women's Clothing	426.54
+Women's Clothing	427.22
+Women's Clothing	428.13
+Women's Clothing	429.16
+Women's Clothing	43.71
+Women's Clothing	430.11
+Women's Clothing	430.5
+Women's Clothing	433.1
+Women's Clothing	434.55
+Women's Clothing	435.61
+Women's Clothing	436.17
+Women's Clothing	438.66
+Women's Clothing	438.73
+Women's Clothing	439.58
+Women's Clothing	439.95
+Women's Clothing	440.2
+Women's Clothing	440.9
+Women's Clothing	442.68
+Women's Clothing	443.62
+Women's Clothing	444.84
+Women's Clothing	445.46
+Women's Clothing	446.11
+Women's Clothing	446.55
+Women's Clothing	447.11
+Women's Clothing	448.32
+Women's Clothing	449.07
+Women's Clothing	449.33
+Women's Clothing	449.98
+Women's Clothing	45.37
+Women's Clothing	45.75
+Women's Clothing	450.21
+Women's Clothing	450.59
+Women's Clothing	451.95
+Women's Clothing	453.8
+Women's Clothing	453.9
+Women's Clothing	454.11
+Women's Clothing	456.66
+Women's Clothing	456.66
+Women's Clothing	457.99
+Women's Clothing	458.73
+Women's Clothing	459.12
+Women's Clothing	459.88
+Women's Clothing	460.04
+Women's Clothing	460.67
+Women's Clothing	461.72
+Women's Clothing	463.81
+Women's Clothing	464.76
+Women's Clothing	465.15
+Women's Clothing	465.38
+Women's Clothing	465.45
+Women's Clothing	465.5
+Women's Clothing	466.28
+Women's Clothing	467.06
+Women's Clothing	469.83
+Women's Clothing	469.98
+Women's Clothing	47.33
+Women's Clothing	470.09
+Women's Clothing	471.22
+Women's Clothing	472.68
+Women's Clothing	472.93
+Women's Clothing	473.84
+Women's Clothing	473.91
+Women's Clothing	474.29
+Women's Clothing	475.28
+Women's Clothing	476.11
+Women's Clothing	476.94
+Women's Clothing	477.98
+Women's Clothing	479.14
+Women's Clothing	482.06
+Women's Clothing	482.97
+Women's Clothing	483.82
+Women's Clothing	486.71
+Women's Clothing	487.49
+Women's Clothing	488.57
+Women's Clothing	489.52
+Women's Clothing	489.55
+Women's Clothing	493.64
+Women's Clothing	494.47
+Women's Clothing	498.21
+Women's Clothing	498.45
+Women's Clothing	499.3
+Women's Clothing	5.56
+Women's Clothing	5.59
+Women's Clothing	52.84
+Women's Clothing	52.87
+Women's Clothing	55.49
+Women's Clothing	55.52
+Women's Clothing	56.04
+Women's Clothing	57.33
+Women's Clothing	58.4
+Women's Clothing	58.77
+Women's Clothing	60.27
+Women's Clothing	60.66
+Women's Clothing	60.97
+Women's Clothing	61.45
+Women's Clothing	62.13
+Women's Clothing	62.23
+Women's Clothing	62.66
+Women's Clothing	62.74
+Women's Clothing	63.87
+Women's Clothing	63.96
+Women's Clothing	64.3
+Women's Clothing	66.77
+Women's Clothing	67.48
+Women's Clothing	7.1
+Women's Clothing	70.32
+Women's Clothing	70.34
+Women's Clothing	71.28
+Women's Clothing	71.75
+Women's Clothing	72.31
+Women's Clothing	72.41
+Women's Clothing	74.05
+Women's Clothing	75.57
+Women's Clothing	76.5
+Women's Clothing	77.66
+Women's Clothing	79.37
+Women's Clothing	80.07
+Women's Clothing	80.7
+Women's Clothing	81.64
+Women's Clothing	81.89
+Women's Clothing	82.22
+Women's Clothing	83.62
+Women's Clothing	83.8
+Women's Clothing	84.55
+Women's Clothing	84.79
+Women's Clothing	85.53
+Women's Clothing	87.22
+Women's Clothing	88.22
+Women's Clothing	88.88
+Women's Clothing	90.51
+Women's Clothing	90.96
+Women's Clothing	91.95
+Women's Clothing	94.13
+Women's Clothing	95.2
+Women's Clothing	98.3
+Women's Clothing	98.43
+Women's Clothing	99.19
+Women's Clothing	99.39
+Women's Clothing	99.4

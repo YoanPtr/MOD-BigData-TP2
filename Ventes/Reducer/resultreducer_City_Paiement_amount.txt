@@ -1,0 +1,515 @@
+Albuquerque_Amex	4304.849999999999
+Albuquerque_Cash	5408.090000000001
+Albuquerque_Discover	4302.26
+Albuquerque_MasterCard	5430.79
+Albuquerque_Visa	4407.22
+Anaheim_Amex	3009.5699999999997
+Anaheim_Cash	2905.2
+Anaheim_Discover	5521.280000000001
+Anaheim_MasterCard	6835.199999999999
+Anaheim_Visa	5173.179999999999
+Anchorage_Amex	5093.100000000001
+Anchorage_Cash	3822.5
+Anchorage_Discover	4870.420000000001
+Anchorage_MasterCard	3834.02
+Anchorage_Visa	4822.64
+Arlington_Amex	4640.629999999999
+Arlington_Cash	3144.0200000000004
+Arlington_Discover	4711.69
+Arlington_MasterCard	3095.1299999999997
+Arlington_Visa	2274.83
+Atlanta_Amex	6271.52
+Atlanta_Cash	3407.9399999999996
+Atlanta_Discover	5265.83
+Atlanta_MasterCard	5546.4400000000005
+Atlanta_Visa	6201.95
+Aurora_Amex	3557.3699999999994
+Aurora_Cash	5768.450000000002
+Aurora_Discover	3792.8800000000006
+Aurora_MasterCard	7461.17
+Aurora_Visa	7601.260000000001
+Austin_Amex	5243.009999999998
+Austin_Cash	4394.420000000001
+Austin_Discover	5890.9400000000005
+Austin_MasterCard	3926.76
+Austin_Visa	6142.490000000001
+Bakersfield_Amex	3252.9100000000003
+Bakersfield_Cash	3883.7299999999996
+Bakersfield_Discover	5906.080000000001
+Bakersfield_MasterCard	3483.230000000001
+Bakersfield_Visa	8659.079999999998
+Baltimore_Amex	4863.65
+Baltimore_Cash	4244.89
+Baltimore_Discover	5556.31
+Baltimore_MasterCard	2893.1599999999994
+Baltimore_Visa	2946.3599999999997
+Baton Rouge_Amex	6705.129999999998
+Baton Rouge_Cash	3832.85
+Baton Rouge_Discover	4792.219999999999
+Baton Rouge_MasterCard	4105.78
+Baton Rouge_Visa	4963.86
+Birmingham_Amex	2036.96
+Birmingham_Cash	5098.93
+Birmingham_Discover	5418.61
+Birmingham_MasterCard	3121.67
+Birmingham_Visa	2554.9800000000005
+Boise_Amex	4973.779999999999
+Boise_Cash	5004.05
+Boise_Discover	6239.84
+Boise_MasterCard	4112.55
+Boise_Visa	3943.1100000000006
+Boston_Amex	5674.79
+Boston_Cash	4753.83
+Boston_Discover	5450.86
+Boston_MasterCard	6464.919999999999
+Boston_Visa	3169.2800000000007
+Buffalo_Amex	6533.4
+Buffalo_Cash	4746.03
+Buffalo_Discover	1639.35
+Buffalo_MasterCard	4249.4400000000005
+Buffalo_Visa	6014.590000000001
+Chandler_Amex	3811.6099999999997
+Chandler_Cash	6688.81
+Chandler_Discover	6212.320000000001
+Chandler_MasterCard	5522.72
+Chandler_Visa	4981.699999999999
+Charlotte_Amex	5664.199999999998
+Charlotte_Cash	5409.4800000000005
+Charlotte_Discover	5435.69
+Charlotte_MasterCard	3403.9300000000003
+Charlotte_Visa	5767.6
+Chesapeake_Amex	5419.370000000001
+Chesapeake_Cash	5127.31
+Chesapeake_Discover	2083.41
+Chesapeake_MasterCard	4228.42
+Chesapeake_Visa	4154.179999999999
+Chicago_Amex	6162.76
+Chicago_Cash	4502.2
+Chicago_Discover	5080.24
+Chicago_MasterCard	4221.990000000001
+Chicago_Visa	4138.049999999999
+Chula Vista_Amex	3945.6800000000003
+Chula Vista_Cash	4007.58
+Chula Vista_Discover	5156.79
+Chula Vista_MasterCard	5838.310000000001
+Chula Vista_Visa	6167.4
+Cincinnati_Amex	4137.089999999999
+Cincinnati_Cash	3803.6099999999997
+Cincinnati_Discover	4198.37
+Cincinnati_MasterCard	5212.150000000001
+Cincinnati_Visa	7819.780000000001
+Cleveland_Amex	6465.13
+Cleveland_Cash	3435.1800000000003
+Cleveland_Discover	4806.53
+Cleveland_MasterCard	4291.38
+Cleveland_Visa	4995.72
+Colorado Springs_Amex	4126.33
+Colorado Springs_Cash	4651.450000000001
+Colorado Springs_Discover	4131.68
+Colorado Springs_MasterCard	7627.189999999999
+Colorado Springs_Visa	5068.490000000001
+Columbus_Amex	3958.8700000000003
+Columbus_Cash	4280.01
+Columbus_Discover	3168.23
+Columbus_MasterCard	5900.919999999999
+Columbus_Visa	6287.19
+Corpus Christi_Amex	5954.38
+Corpus Christi_Cash	6630.999999999999
+Corpus Christi_Discover	5064.98
+Corpus Christi_MasterCard	4723.66
+Corpus Christi_Visa	2250.7000000000003
+Dallas_Amex	5745.930000000001
+Dallas_Cash	4679.46
+Dallas_Discover	4775.4400000000005
+Dallas_MasterCard	4827.169999999999
+Dallas_Visa	6399.010000000001
+Denver_Amex	5955.690000000001
+Denver_Cash	4011.94
+Denver_Discover	4044.4300000000003
+Denver_MasterCard	7049.769999999999
+Denver_Visa	6318.86
+Detroit_Amex	4360.520000000001
+Detroit_Cash	6073.750000000001
+Detroit_Discover	4199.25
+Detroit_MasterCard	5683.3099999999995
+Detroit_Visa	3439.1699999999996
+Durham_Amex	6625.530000000001
+Durham_Cash	6296.15
+Durham_Discover	2640.6200000000003
+Durham_MasterCard	4581.289999999999
+Durham_Visa	2663.95
+El Paso_Amex	3490.5200000000004
+El Paso_Cash	5559.9400000000005
+El Paso_Discover	4060.72
+El Paso_MasterCard	2985.2100000000005
+El Paso_Visa	4565.88
+Fort Wayne_Amex	4143.0700000000015
+Fort Wayne_Cash	4486.79
+Fort Wayne_Discover	4860.04
+Fort Wayne_MasterCard	5155.7300000000005
+Fort Wayne_Visa	6040.710000000001
+Fort Worth_Amex	3328.36
+Fort Worth_Cash	3769.86
+Fort Worth_Discover	5781.360000000001
+Fort Worth_MasterCard	5553.259999999998
+Fort Worth_Visa	7627.26
+Fremont_Amex	5490.07
+Fremont_Cash	4721.030000000001
+Fremont_Discover	4127.88
+Fremont_MasterCard	5289.590000000001
+Fremont_Visa	5446.359999999999
+Fresno_Amex	5996.57
+Fresno_Cash	5574.8
+Fresno_Discover	4724.359999999999
+Fresno_MasterCard	7299.31
+Fresno_Visa	4923.379999999999
+Garland_Amex	3043.82
+Garland_Cash	5176.120000000001
+Garland_Discover	3170.25
+Garland_MasterCard	2097.23
+Garland_Visa	1696.7299999999998
+Gilbert_Amex	3886.13
+Gilbert_Cash	5212.529999999999
+Gilbert_Discover	4794.58
+Gilbert_MasterCard	4328.58
+Gilbert_Visa	4595.889999999999
+Glendale_Amex	5490.52
+Glendale_Cash	3596.6
+Glendale_Discover	6282.210000000001
+Glendale_MasterCard	6708.98
+Glendale_Visa	5800.349999999999
+Greensboro_Amex	3656.2
+Greensboro_Cash	3870.6400000000003
+Greensboro_Discover	7868.05
+Greensboro_MasterCard	4913.42
+Greensboro_Visa	8184.0199999999995
+Henderson_Amex	4312.240000000001
+Henderson_Cash	2324.81
+Henderson_Discover	4720.46
+Henderson_MasterCard	5053.000000000001
+Henderson_Visa	2595.7
+Hialeah_Amex	4725.58
+Hialeah_Cash	4285.17
+Hialeah_Discover	5434.7300000000005
+Hialeah_MasterCard	4551.869999999999
+Hialeah_Visa	5281.2699999999995
+Honolulu_Amex	3005.3700000000003
+Honolulu_Cash	5720.830000000001
+Honolulu_Discover	2242.9900000000002
+Honolulu_MasterCard	5050.850000000001
+Honolulu_Visa	2082.2400000000002
+Houston_Amex	3746.0100000000007
+Houston_Cash	3939.6000000000004
+Houston_Discover	5282.41
+Houston_MasterCard	4555.39
+Houston_Visa	5257.33
+Indianapolis_Amex	6343.650000000001
+Indianapolis_Cash	3674.07
+Indianapolis_Discover	4673.070000000001
+Indianapolis_MasterCard	5044.54
+Indianapolis_Visa	3866.7599999999998
+Irvine_Amex	5401.6399999999985
+Irvine_Cash	5918.920000000001
+Irvine_Discover	2745.58
+Irvine_MasterCard	3857.2299999999996
+Irvine_Visa	4930.42
+Irving_Amex	4146.29
+Irving_Cash	4294.89
+Irving_Discover	5578.0199999999995
+Irving_MasterCard	3090.2499999999995
+Irving_Visa	7061.770000000001
+Jacksonville_Amex	5547.570000000001
+Jacksonville_Cash	5436.040000000001
+Jacksonville_Discover	3559.0699999999993
+Jacksonville_MasterCard	5491.95
+Jacksonville_Visa	6332.67
+Jersey City_Amex	5019.639999999999
+Jersey City_Cash	3103.0
+Jersey City_Discover	4458.96
+Jersey City_MasterCard	5410.829999999998
+Jersey City_Visa	2940.63
+Kansas City_Amex	4491.64
+Kansas City_Cash	4782.080000000001
+Kansas City_Discover	4552.510000000001
+Kansas City_MasterCard	3617.2200000000003
+Kansas City_Visa	5714.530000000001
+Laredo_Amex	4349.389999999999
+Laredo_Cash	6193.250000000001
+Laredo_Discover	3032.1
+Laredo_MasterCard	4317.990000000001
+Laredo_Visa	5244.6
+Las Vegas_Amex	6604.3499999999985
+Las Vegas_Cash	5077.85
+Las Vegas_Discover	6469.870000000001
+Las Vegas_MasterCard	5937.62
+Las Vegas_Visa	6176.770000000001
+Lexington_Amex	5040.6900000000005
+Lexington_Cash	6324.59
+Lexington_Discover	5863.7699999999995
+Lexington_MasterCard	5042.619999999999
+Lexington_Visa	5511.81
+Lincoln_Amex	6168.129999999999
+Lincoln_Cash	5089.799999999999
+Lincoln_Discover	5946.34
+Lincoln_MasterCard	4636.18
+Lincoln_Visa	4367.66
+Long Beach_Amex	7366.869999999999
+Long Beach_Cash	4082.3400000000006
+Long Beach_Discover	3979.2499999999995
+Long Beach_MasterCard	3783.24
+Long Beach_Visa	4899.83
+Los Angeles_Amex	2980.7800000000007
+Los Angeles_Cash	3555.3500000000004
+Los Angeles_Discover	4635.76
+Los Angeles_MasterCard	5540.989999999999
+Los Angeles_Visa	4578.409999999999
+Louisville_Amex	2826.8
+Louisville_Cash	3230.83
+Louisville_Discover	5308.990000000002
+Louisville_MasterCard	3767.18
+Louisville_Visa	5262.58
+Lubbock_Amex	5143.46
+Lubbock_Cash	4313.24
+Lubbock_Discover	4401.95
+Lubbock_MasterCard	8101.36
+Lubbock_Visa	7480.889999999999
+Madison_Amex	5066.130000000001
+Madison_Cash	5550.049999999998
+Madison_Discover	4555.339999999999
+Madison_MasterCard	6216.600000000001
+Madison_Visa	5316.320000000001
+Memphis_Amex	4605.44
+Memphis_Cash	5366.85
+Memphis_Discover	4721.909999999999
+Memphis_MasterCard	5904.14
+Memphis_Visa	6759.34
+Mesa_Amex	3657.5600000000004
+Mesa_Cash	7280.4800000000005
+Mesa_Discover	4591.89
+Mesa_MasterCard	6377.86
+Mesa_Visa	5139.15
+Miami_Amex	4444.18
+Miami_Cash	4652.579999999999
+Miami_Discover	8458.640000000001
+Miami_MasterCard	3336.9199999999996
+Miami_Visa	4141.79
+Milwaukee_Amex	3667.7099999999996
+Milwaukee_Cash	5658.299999999998
+Milwaukee_Discover	3125.7199999999993
+Milwaukee_MasterCard	7607.749999999999
+Milwaukee_Visa	7654.0700000000015
+Minneapolis_Amex	4571.610000000001
+Minneapolis_Cash	3368.9300000000007
+Minneapolis_Discover	3650.59
+Minneapolis_MasterCard	7201.6
+Minneapolis_Visa	6930.110000000001
+Nashville_Amex	4303.97
+Nashville_Cash	7903.680000000001
+Nashville_Discover	3705.399999999999
+Nashville_MasterCard	2849.890000000001
+Nashville_Visa	3361.3100000000004
+New Orleans_Amex	6034.510000000001
+New Orleans_Cash	3405.9400000000005
+New Orleans_Discover	3294.66
+New Orleans_MasterCard	4475.69
+New Orleans_Visa	4039.2500000000005
+New York_Amex	2824.07
+New York_Cash	6279.639999999999
+New York_Discover	3677.58
+New York_MasterCard	6810.579999999998
+New York_Visa	5937.989999999999
+Newark_Amex	4676.929999999999
+Newark_Cash	8530.380000000001
+Newark_Discover	2671.5699999999997
+Newark_MasterCard	4239.76
+Newark_Visa	6393.040000000001
+Norfolk_Amex	6119.170000000001
+Norfolk_Cash	4574.23
+Norfolk_Discover	3127.6299999999997
+Norfolk_MasterCard	5702.049999999999
+Norfolk_Visa	4963.7
+North Las Vegas_Amex	6255.550000000001
+North Las Vegas_Cash	6381.84
+North Las Vegas_Discover	3336.81
+North Las Vegas_MasterCard	5363.39
+North Las Vegas_Visa	3470.57
+Oakland_Amex	3966.22
+Oakland_Cash	8051.59
+Oakland_Discover	7476.4
+Oakland_MasterCard	6345.21
+Oakland_Visa	5180.13
+Oklahoma City_Amex	5109.019999999999
+Oklahoma City_Cash	2840.44
+Oklahoma City_Discover	4137.530000000001
+Oklahoma City_MasterCard	4593.570000000001
+Oklahoma City_Visa	5691.34
+Omaha_Amex	4060.03
+Omaha_Cash	5170.71
+Omaha_Discover	6062.9000000000015
+Omaha_MasterCard	9170.55
+Omaha_Visa	4036.13
+Orlando_Amex	5879.049999999999
+Orlando_Cash	4788.92
+Orlando_Discover	5290.62
+Orlando_MasterCard	5049.47
+Orlando_Visa	4624.7699999999995
+Philadelphia_Amex	3351.11
+Philadelphia_Cash	6180.57
+Philadelphia_Discover	3834.2200000000007
+Philadelphia_MasterCard	5068.800000000001
+Philadelphia_Visa	6240.820000000001
+Phoenix_Amex	4396.190000000001
+Phoenix_Cash	5051.7
+Phoenix_Discover	5749.139999999999
+Phoenix_MasterCard	3428.06
+Phoenix_Visa	4516.130000000001
+Pittsburgh_Amex	5464.9400000000005
+Pittsburgh_Cash	3154.63
+Pittsburgh_Discover	6377.49
+Pittsburgh_MasterCard	6243.91
+Pittsburgh_Visa	4306.3099999999995
+Plano_Amex	4135.11
+Plano_Cash	6689.28
+Plano_Discover	4791.22
+Plano_MasterCard	4392.54
+Plano_Visa	6478.45
+Portland_Amex	5335.71
+Portland_Cash	1800.8500000000004
+Portland_Discover	5581.74
+Portland_MasterCard	3077.2299999999996
+Portland_Visa	4089.07
+Raleigh_Amex	4788.039999999999
+Raleigh_Cash	2787.6
+Raleigh_Discover	6612.229999999999
+Raleigh_MasterCard	4233.81
+Raleigh_Visa	5114.089999999999
+Reno_Amex	5210.599999999999
+Reno_Cash	3788.33
+Reno_Discover	3916.7200000000003
+Reno_MasterCard	5632.229999999999
+Reno_Visa	4666.36
+Richmond_Amex	4141.12
+Richmond_Cash	4531.830000000001
+Richmond_Discover	6304.369999999998
+Richmond_MasterCard	5409.259999999999
+Richmond_Visa	7002.999999999999
+Riverside_Amex	5330.5199999999995
+Riverside_Cash	4350.869999999999
+Riverside_Discover	3330.5000000000005
+Riverside_MasterCard	2242.35
+Riverside_Visa	7026.69
+Rochester_Amex	3454.6800000000003
+Rochester_Cash	6251.07
+Rochester_Discover	2796.31
+Rochester_MasterCard	4632.38
+Rochester_Visa	4761.929999999999
+Sacramento_Amex	4080.05
+Sacramento_Cash	5336.639999999999
+Sacramento_Discover	4519.1
+Sacramento_MasterCard	5541.94
+Sacramento_Visa	4767.25
+Saint Paul_Amex	3961.5699999999997
+Saint Paul_Cash	6042.999999999999
+Saint Paul_Discover	3686.22
+Saint Paul_MasterCard	6241.129999999999
+Saint Paul_Visa	4962.050000000001
+San Antonio_Amex	4982.47
+San Antonio_Cash	5520.37
+San Antonio_Discover	3112.79
+San Antonio_MasterCard	5312.17
+San Antonio_Visa	1960.5200000000002
+San Bernardino_Amex	6825.370000000001
+San Bernardino_Cash	4534.68
+San Bernardino_Discover	4616.719999999999
+San Bernardino_MasterCard	3212.6800000000003
+San Bernardino_Visa	5035.4
+San Diego_Amex	5449.239999999999
+San Diego_Cash	4923.639999999999
+San Diego_Discover	3719.5599999999995
+San Diego_MasterCard	4817.6
+San Diego_Visa	5919.939999999998
+San Francisco_Amex	4167.34
+San Francisco_Cash	3511.5600000000004
+San Francisco_Discover	3217.9400000000005
+San Francisco_MasterCard	7117.610000000001
+San Francisco_Visa	6141.3
+San Jose_Amex	6339.51
+San Jose_Cash	6154.750000000001
+San Jose_Discover	3394.0599999999995
+San Jose_MasterCard	4920.88
+San Jose_Visa	4698.500000000001
+Santa Ana_Amex	7103.14
+Santa Ana_Cash	5960.59
+Santa Ana_Discover	10297.97
+Santa Ana_MasterCard	2505.26
+Santa Ana_Visa	4172.45
+Scottsdale_Amex	6428.92
+Scottsdale_Cash	4574.9400000000005
+Scottsdale_Discover	9373.78
+Scottsdale_MasterCard	5224.93
+Scottsdale_Visa	5469.8099999999995
+Seattle_Amex	4469.04
+Seattle_Cash	6362.139999999999
+Seattle_Discover	4907.35
+Seattle_MasterCard	4019.0899999999992
+Seattle_Visa	4383.01
+Spokane_Amex	5839.84
+Spokane_Cash	4788.07
+Spokane_Discover	3648.6899999999996
+Spokane_MasterCard	4222.56
+Spokane_Visa	4736.9400000000005
+St. Louis_Amex	7831.840000000001
+St. Louis_Cash	6017.129999999998
+St. Louis_Discover	5299.86
+St. Louis_MasterCard	3831.98
+St. Louis_Visa	4043.8199999999997
+St. Petersburg_Amex	5169.049999999998
+St. Petersburg_Cash	8376.28
+St. Petersburg_Discover	4483.05
+St. Petersburg_MasterCard	3806.4799999999996
+St. Petersburg_Visa	4186.2
+Stockton_Amex	6692.159999999999
+Stockton_Cash	5161.91
+Stockton_Discover	2626.61
+Stockton_MasterCard	5438.65
+Stockton_Visa	3900.05
+Tampa_Amex	4585.31
+Tampa_Cash	4804.08
+Tampa_Discover	3777.4500000000003
+Tampa_MasterCard	4686.13
+Tampa_Visa	4279.719999999999
+Toledo_Amex	4499.319999999999
+Toledo_Cash	5152.5599999999995
+Toledo_Discover	4634.150000000001
+Toledo_MasterCard	3220.06
+Toledo_Visa	4470.099999999999
+Tucson_Amex	5357.820000000001
+Tucson_Cash	3210.7700000000004
+Tucson_Discover	7742.67
+Tucson_MasterCard	5515.919999999999
+Tucson_Visa	4473.57
+Tulsa_Amex	3385.8400000000006
+Tulsa_Cash	4847.21
+Tulsa_Discover	3370.9500000000003
+Tulsa_MasterCard	3771.27
+Tulsa_Visa	3294.2799999999997
+Virginia Beach_Amex	4619.180000000001
+Virginia Beach_Cash	6309.87
+Virginia Beach_Discover	7645.589999999998
+Virginia Beach_MasterCard	4128.19
+Virginia Beach_Visa	5108.250000000001
+Washington_Amex	4229.340000000001
+Washington_Cash	3959.5699999999993
+Washington_Discover	4682.91
+Washington_MasterCard	5465.81
+Washington_Visa	3189.8299999999995
+Wichita_Amex	5590.01
+Wichita_Cash	5934.1100000000015
+Wichita_Discover	2748.63
+Wichita_MasterCard	4761.959999999999
+Wichita_Visa	5237.1
+Winston–Salem_Amex	6105.16
+Winston–Salem_Cash	3544.1999999999994
+Winston–Salem_Discover	5293.28
+Winston–Salem_MasterCard	3246.9199999999996
+Winston–Salem_Visa	3798.4300000000003

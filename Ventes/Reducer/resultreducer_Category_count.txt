@@ -1,0 +1,18 @@
+Baby	515.0
+Books	600.0
+CDs	555.0
+Cameras	518.0
+Children's Clothing	554.0
+Computers	550.0
+Consumer Electronics	564.0
+Crafts	556.0
+DVDs	539.0
+Garden	539.0
+Health and Beauty	567.0
+Men's Clothing	573.0
+Music	547.0
+Pet Supplies	560.0
+Sporting Goods	536.0
+Toys	572.0
+Video Games	600.0
+Women's Clothing	555.0
